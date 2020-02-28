@@ -12,5 +12,3 @@ Teljes szoftvercsomag létrehozása GPS alapú futóversenyt lebonyolító rends
 Kanyarvétel előjelző neurális hálózat segítségével térkép és korábbi minták alapján#Laczik Gábor
 Adaptív, neurális háló alapú mesterséges intelligencia készítése táblajátékhoz#Béres Mátyás
 Útvonaltervezés közlekedési táblák képeinek feldolgozása alapján#Félix Bálint
-Lorem ipsum stuff goes here#Lorem Person
-Second lorem dolor sit amet#Loooorem X Samet
