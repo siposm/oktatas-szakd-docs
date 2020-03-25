@@ -1,13 +1,15 @@
+# MINTA 1
 **A feladat**
 
 A feladat egy webalkalmazás készítése szabadidős tevékenységek foglalásához, az aktuális új technológiák felhasználásával. Vizsgálja meg, hogy mely technológiák szükségesek egy webes rendszer készítéséhez, elemezze azokat pozitív és negatív oldalról. Az adott technológia melletti döntését támassza alá. A rendszer legyen képes egy felület biztosítására, ahol sportpálya-, sportolási lehetőséget biztosító szervezetek regisztrálhatnak, ezáltal reklámozva a náluk jelenlévő lehetőségeket, árakat. A rendszer biztosítsa a hirdetők számára, hogy forgalmukat ellenőrizhessék, nyomonkövethessék statisztikák segítségével. Ezeket készítse el a dolgozat folyamán. A rendszer biztosítson a felhasználók számára felületeket, ahol szabadon böngészhetnek az aktuálisan hirdetők között. A webszervert készítse el felhőtechnológia segítségével, ahol elemezze a különböző piaci szereplőket. A rendszerhez készítsen okostelefonos alkalmazást is vagy Android vagy iOS platformra, illetve vizsgálja meg a cross-platform lehetőségeket is. Az okostelefonos alkalmazáson keresztül legyen képes a rendszer push-notification elvű üzenetek küldésére. Végezzen továbbá elemzést a tesztelési lehetőségekről és készítse is el az egyes teszt típusokat és teszteseteket.
 
-**A dolgozatnak tartalmaznia kell:**
-* A dolgozatnak tartalmaznia kell a megoldandó feladat pontos leírását és részletes elemzését.
-* Készítsen magas szintű szerkezeti mintát az alkalmazásról
-* Az egyes funkciók megvalósításához gyűjtse össze a lehetséges technológiákat
-* Tekintse át a lehetséges technológiákat, majd válassza ki a szükségeseket.
-* Mutassa be rendszertervét.
-* Ismertesse a megvalósítás menetét.
-* Ismertesse a tesztelési tervet, a tesztelés eredményit, a fejlesztés során felmerült problémákat és azok megoldását.
-* Mutassa be az elkészült szoftver felhasználási lehetőségeit.
+# MINTA 2
+**A feladat**
+
+A feladat egy olyan mobil alkalmazás készítése, melyet használva a közelben lévő információkról, kiterjesztett valóság alapon tudomást szerezhetünk. A feladatban a rendszer készítésekor vizsgálja meg az egyes technológiákat, amelyek jelenleg rendelkezésre állnak az ilyen jellegű fejlesztésekhez (pl. Unity). Mutassa be a különböző valóságok közötti különbségeket (kiterjesztett, virtuális stb.). A kiterjesztett valóságot felhasználva legyen képes hirdetések, információk megjelenítésére az alkalmazás, attól függően, hogy a készülék hol található. Ennek azonosításához alkalmazzon GPS alapú meghatározást. A különböző adatokat adatbázis segítségével tárolja el, amelyhez készítsen egy külső felületet, ahonnan az adatok betáplálhatók. Vizsgálja meg az aktuális trendeket és technológiákat, amelyek alapján hozza meg döntését a felhasznált technológiát illetően. Végezzen továbbá elemzést a tesztelési lehetőségekről és készítse is el az egyes teszt típusokat és teszteseteket.
+
+# MINTA 3
+
+**A feladat**
+
+A feladat egy olyan többfelhasználós online játék készítése, mely a játékosok és a textúrák adatait egy Service-based Database-ben tároljuk, ADO.NET Entity Data Model segítségével. Készítsen el egy kétdimenziós játékot C# nyelven WPF technológia használatával. Valósítsa meg a szerver és a kliens oldal közötti kapcsolatot, UDP protokoll használatával, és ismertesse működését. A kapcsolatot valamilyen ideális futási idejű és biztonságos titkosítás használatával végezze el. Szerver és kliens oldalon is oldja meg a szál párhuzamosítást, hogy a program egyszerre tudja a számításokat végezni, és a megfelelő adatokat küldeni a kliens(ek)-nek és a szervernek. Az alkalmazás legyen képes elmenteni a játék helyzetét, a játékosok pozícióit, tárgyait. Munkája során a fő cél a WPF alapú játék kiépítése és működésének demonstrálása, úgy, hogy online tudjon több felhasználó is egyidejűleg egy szerveren játszani. Vizsgálja meg, hogy az egyes technológiák mellett még milyen egyéb módszerekkel lehetne megvalósítani a feladatot. A rendszer megvalósítása során készítse el a játékot, ismertesse a játék fejlesztésének lépéseit, a biztonságos szerver-kliens kapcsolat megvalósítását, és a szál párhuzamosítását. A rendszertől elvárás, hogy a kapcsolat megvalósításának kódja újra felhasználható legyen, így más online játékoknál is használható lesz a kód. Végezzen továbbá elemzést a tesztelési lehetőségekről és készítse is el az egyes teszt típusokat és teszteseteket.
