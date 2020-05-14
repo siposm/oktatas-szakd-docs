@@ -19,7 +19,6 @@
         - specializációd megnevezése
 - amit érdemes kerülni:
     - hatalmas fejezetek rámásolva folyószövegként a diára
-        - senkit nem érdekel
         - nincs idő elolvasnia senkinek
         - elveszi a figyelmet rólad mint előadóról és arról amit mondasz
 
