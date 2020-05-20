@@ -1,7 +1,5 @@
 End-to-end tesztautomatizációs keretrendszer készítése protractor alapokon#Magyar Bence
-Augmented reality alapú információközlő és hirdető platform#Takács Márton
 Online többfelhasználós játék kialakítása és vizsgálata informatikai biztonsági szempontból#Jámbor Nicholas
-Razor pages szabadidőnyilvántartó rendszer felhő és okostelefon támogatással#Riba Gyula
 C++ alapú játék készítése, anti-cheat rendszer támogatással#Sörös Máté
 Oktatást támogató serverless alkalmazás fejlesztése microservices architektúra felhasználásával#Bucsi Benedek
 Micro-frontend alapú adminisztrációs felület készítése Web Components segítségével#Falus Dániel
