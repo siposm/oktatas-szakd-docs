@@ -41,3 +41,4 @@ A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján
 - mit tud a rendszer jelenleg (ehhez képest mi volt az elvárás / specifikáció)
 - hogyan tesztelted a rendszert
 - hogyan értékeled a kész rendszert (személyes oldalról és objektív (számszerűsíthető) oldalról)
+- milyen továbbfejlesztési lehetőségeket látsz a rendszerben (akár amin javítani kell, akár ami a színvonalat tovább tudná emelni)
