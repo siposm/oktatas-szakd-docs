@@ -10,7 +10,7 @@
 - előre meghatározott "ennyi legyen" diaszám így konkrétan nincsen, de főbb fejezeteknek érdemes a szakdoga fejezeteit választani
 - az előadást feltétlen gyakorold át párszor, legyen egy gondolatmenet a fejedben, hogy mi alapján akarod végigmondani az egészet
 - ami mindenképpen legyen a diában:
-    - a diák legyenek oldalszámozva és legyen ott, hogy hányadik oldal a mennyiből (pl. 3/20) >> ez azért kell, hogy lássa a bizottság, hogy kb. hol tartasz az előadásodban
+    - a diák legyenek oldalszámozva és legyen ott, hogy hányadik oldal a mennyiből (pl. 3/20) ==> ez azért kell, hogy lássa a bizottság, hogy kb. hol tartasz az előadásodban
     - borító slide tartalmazzon minden lényeges információt, ehhez egy jó minta lentebb található
 
 ## Amit érdemes kerülni
