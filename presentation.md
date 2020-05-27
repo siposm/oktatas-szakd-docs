@@ -38,6 +38,6 @@ A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján
 
 ## Legyen bemutatva
 - hogyan jutottál el ide, milyen problémákkal szembesültél és ezeket hogyan oldottad meg (mérnöki döntések)
-- mit tud a rendszer jelenleg (ehhez képest mi volt az elvárás / specifikáció ==> értékelés)
+- mit tud a rendszer jelenleg (ehhez képest mi volt az elvárás / specifikáció)
 - hogyan tesztelted a rendszert
-- 
+- hogyan értékeled a kész rendszert (személyes oldalról és objektív (számszerűsíthető) oldalról)
