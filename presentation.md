@@ -30,3 +30,12 @@
 
 # Minta borító
 ![](sample-pres.png)
+
+# Prezentáció (Szakdolgozat II.)
+Nagyon hasonló a helyzet mint Szakdolgozat I. esetén, ami a változás: **elkészült a rendszer**. Ebből adódóan erről a kész rendszerről kell 60-70%-ban beszélni, és ami korábban szd1 beszámolóban volt az értelemszerűen redukálódni fog.
+
+A prezentáció időtartama szintén 10 perc.
+
+hogyan jutottál el ide, milyen problémákkal szembesültél és ezeket hogyan oldottad meg. 
+
+Mit tud a rendszer (ehhez képest mi volt az elvárás / specifikáció). Hogyan tesztelted a rendszert.
