@@ -1,11 +1,3 @@
-# 2020 tavaszi félév SZAKD1 információk
-
-rutrum nibh. Fusce a mattis libero. Sed ut justo non justo fermentum mattis sit amet quis erat. Sed consequat est vel metus luctus fermentum.
-
-Quisque eu volutpat velit. Mauris sagittis ex eros, non porttitor turpis convallis non. Fusce quis enim nec lacus lacinia gravida. Donec laoreet tortor diam, eu imperdiet mauris aliquam vitae. Aliquam est lectus, viverra non pharetra vel, vestibulum sed nunc. Etiam facilisis non purus sed mollis. Suspendisse ac auctor augue. Aliquam mi velit, faucibus vel libero eu, sodales sodales nulla. Morbi bibendum nunc nisi, ac feugiat ligula commodo id. Sed tristique turpis a elit ultrices pharetra. Mauris sed erat augue. Sed ullamcorper, nisi ac egestas tincidunt, tortor orci porta felis, non gravida ex diam quis nibh. Nulla facilisi.
-
----
-
 # Prezentáció (Szakdolgozat I.)
 
 ## Általános információk
