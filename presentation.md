@@ -12,6 +12,14 @@
 - ami mindenképpen legyen a diában:
     - a diák legyenek oldalszámozva és legyen ott, hogy hányadik oldal a mennyiből (pl. 3/20) ==> ez azért kell, hogy lássa a bizottság, hogy kb. hol tartasz az előadásodban
     - borító slide tartalmazzon minden lényeges információt, ehhez egy jó minta lentebb található
+        - hallgató név
+        - hallgató neptunkód
+        - hallgató törzsszám
+        - szakdolgozat cím magyarul
+        - szakdolgozat cím angolul (kisebben)
+        - végzés féléve
+        - konzulens neve és titulusa (Sipos Miklós - Tanszéki Mérnök)
+        - szakirány megnevezése (teljes kiírás)
 
 ## Amit érdemes kerülni
 - nem begyakorolni a védést, mondván "úgyis menni fog majd"
