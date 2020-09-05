@@ -35,7 +35,7 @@ TODO..............TODO..............TODO..............TODO..............TODO....
 
 A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén akarok látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
 
-![commits example image](commits-example.png)
+![commits example image](commits-example.jpg)
 
 ## 2.) Javasolt fejezetcímek
   - […] eddig volt az a sorszámozás ami szakdoga 1-en volt, innen folytatva:
