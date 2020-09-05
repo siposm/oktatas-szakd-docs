@@ -55,7 +55,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
     - értékelem, hogy az elvárásokhoz képest mit tud / nem tud / miben tud többet”
 10. **`Továbbfejlesztési lehetőségek`** (1 oldal)
     - milyen potenciális dolgokat látsz benne még, amire nem jutott idő / energia , de nagyon jó lenne ha még benne lenne
-    - üresen ne hagyjátok ezt a részt, ez olyan mint egy cliffhanger egy jó film végén
+    - az ötletek megalapozottak legyenek, ne légbőlkapottak
 11. **`Összegzés`** (3/4 oldal)
     - rövid összefoglalás a dolgozatról, eredmények bemutatása
     - nagyon hasonló, mint az absztrakt, sok esetben vele megegyezik (viszont akinél megegyezik ott javasolt csak az egyiket megtartani)
