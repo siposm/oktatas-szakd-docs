@@ -38,32 +38,32 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 ![commits example image](commits-example.jpg)
 
 ## 2.) Javasolt fejezetcímek
-  - […] eddig volt az a sorszámozás ami szakdoga 1-en volt, innen folytatva:
-  - **`Fejlesztés`** (~ 10 oldal)
+
+*Folytatva, a szakdolgozat I-ben abbahagyott sorszámozást.*
+
+7. **`Fejlesztés`** (~ 10 oldal)
     - itt majdhogynem fejlesztési naplóként nyugodtan le lehet írni a dolgokat, annyi megkötéssel/javaslattal, hogy:
     - minden apró-cseprő dolgot ne írjatok bele, törekedjetek a fontos dolgokat kiemelni; mindenképpen ilyen egy-egy probléma amibe belefutottatok, ami kapcsán aztán hoztatok egy döntést (ugye egy mérnök sok szívással szembesül, azok közül mérlegel, döntést hoz és halad tovább >> ezt volna jó viszont olvasni a dolgozatban is)
-  - **`Tesztelés`** (~ 5 oldal)
+8. **`Tesztelés`** (~ 5 oldal)
     - elengedhetetlen része a szd-nak; enélkül nem fogom elfogadni a szd2-őt senkinek (hovatovább, záróvizsgán is sanszos ez)
     - a lényeg, hogy meggyőződjünk arról, hogy amit csináltunk az jó-e / működik-e (Dr. Tick József tanár úr validáció és verifikáció diáit javaslom előkapni)
     - kicsit nézzetek utána, hogy milyen tesztek vannak (ezeket egyébként utólagosan az ir.kut-ba is nyugodtan bele lehet tenni)
       - amit sw fejlsztés esetén mindig elő lehet kapni: unit teszt, manuális teszt, funkcionális teszt >> ezekhez többé kevésbé vannak dedikált tool-ok / keretrendszerek, nézzetek utána és válasszatok (a döntési folyamatot itt is lehet dokumentálni)
-
-  - **`Értékelés`** (2 oldal)
+9. **`Értékelés`** (2 oldal)
     - „miután lefejlesztettem amit kértek tőlem
     - és leteszteltem, hogy azt csinálja-e amit kértek tőlem
     - értékelem, hogy az elvárásokhoz képest mit tud / nem tud / miben tud többet”
-
-  - **`Továbbfejlesztési lehetőségek`** (1 oldal)
+10. **`Továbbfejlesztési lehetőségek`** (1 oldal)
     - milyen potenciális dolgokat látsz benne még, amire nem jutott idő / energia , de nagyon jó lenne ha még benne lenne
     - üresen ne hagyjátok ezt a részt, ez olyan mint egy cliffhanger egy jó film végén
-  - **`Befejezés`** (3/4 oldal)
+11. **`Összegzés`** (3/4 oldal)
     - rövid összefoglalás a dolgozatról, eredmények bemutatása
     - nagyon hasonló, mint az absztrakt, sok esetben vele megegyezik (viszont akinél megegyezik ott javasolt csak az egyiket megtartani)
     - attól függően, hogy absztrakt vagy befejezés van, kell egy magyar és egy angol verzió is (ha van mind a kettő, akkor az absztrakt legyen a magyar, és utána egy 'abstract' ami angol, a befejezés meg sima magyar)
-  - **`Irodalomjegyzék`**
-  - **`Ábrajegyzék`**
-  - **`Táblajegyzék`** (ha van)
-  - **`Mellékletek`** (ha van)
+12. **`Irodalomjegyzék`**
+13. **`Ábrajegyzék`**
+14. **`Táblajegyzék`** (ha van)
+15. **`Mellékletek`** (ha van)
     - aki olyan rendszert csinált ami online, ott javasolt mellékletekben megadni, hogy hol és hogyan érhető el a rendszer, milyen login adatokkal stb.
     - akinél nem ilyen dologról van szó, ott pedig leírni azokat a lépéseket ahogy a rendszert be lehet üzemelni
     - a kész rendszerről képeket, funkciók bemutatását képekkel is ide kell elhelyezni és röviden leírni, hogy mit látunk 
