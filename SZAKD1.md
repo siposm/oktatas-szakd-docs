@@ -79,8 +79,11 @@ Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / iro
 ## 6.) Konzultációs napló
 Ezt majd félév végén egyben letudjuk, én fogom kiállítani, ha mindent rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk.
 
+<br><br>
 
 Bármilyen kérdés esetén keressetek bizalommal.
+
+---
 
 **Sipos Miklós**\
 Tanszéki Mérnök\
