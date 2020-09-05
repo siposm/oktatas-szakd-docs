@@ -54,13 +54,13 @@ Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / iro
 3. **`Bevezetés`** (max 2 oldal)
     - bevezető leírása a teljes dolgozatnak / ismertető, hogy miről lesz szó / a cél megfogalmazása
 4. **`Irodalomkutatás`** (~ 20 - 25 oldal)
-    - hasonló rendszerek (ez fix fejezet)
+    - **Hasonló rendszerek** (ez fix fejezet)
         - azon belül a vizsgált rendszerek bemutatása és levont következtetések
     - egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
-    - egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
+    - egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
     - ...
     - egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
-    - Összegzés (ez fix fejezet)
+    - **Összegzés** (ez fix fejezet)
         - összefoglalása az irodalomkutatásnak, mire jutottunk, ez alapján mit fogok csinálni a megvalósítás kapcsán
 5. **`Követelmény specifikáció`** (~ 1 oldal)
     - definiálni, hogy mik azok a szempontok, amiket elvárunk a rendszertől
