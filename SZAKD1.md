@@ -73,8 +73,8 @@ Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / iro
         - legyen egy konkrét roadmap vagy Gantt-diagram alapú szemléltetése annak, hogy honnan fogod kezdeni a szakdoga2-őt és abban milyen sorrendben és milyen lépésekkel fogsz haladni
 7. ***`Fejlesztés`**: ha van rá idő, egy minimálisan működő demó rendszer elkészítése*
 8. **`Irodalomjegyzék`**
-9. **`Táblajegyzék`** (ha van)
-10. **`Ábrajegyzék`**
+9. **`Ábrajegyzék`**
+10. **`Táblajegyzék`** (ha van)
 
 ## 6.) Konzultációs napló
 Ezt majd félév végén egyben letudjuk, én fogom kiállítani, ha mindent rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk.
