@@ -32,11 +32,11 @@ A mérföldkövek után mindenkinek visszajelzek a leadott munkával kapcsolatba
 
 ## 1.1.) Repository létrehozása
 A repository létrehozásának a következő a menete:
-1. a repót magát én fogom létrehozni a GitLab-on, a megfelelő [group](https://gitlab.com/szakdolgozok-siposm)-on belül
-  1. ehhez viszont kell, hogy küldjetek egy emailt nekem, hogy milyen email címre küldhetem a meghívást
-  1. lehet előre is regisztrálni ehhez, de pl. Google account-tal (gmail-es cím) 1 klikkel be lehet loginolni (így én ezt javasolnám)
-  1. vagy ha van korábbról GitLab account, az is teljesen jó
-1. ezt követően a repóhoz developer-ként hozzá foglak adni
+- a repót magát én fogom létrehozni a GitLab-on, a megfelelő [group](https://gitlab.com/szakdolgozok-siposm)-on belül
+  - ehhez viszont kell, hogy küldjetek egy emailt nekem, hogy milyen email címre küldhetem a meghívást
+  - lehet előre is regisztrálni ehhez, de pl. Google account-tal (gmail-es cím) 1 klikkel be lehet loginolni (így én ezt javasolnám)
+  - vagy ha van korábbról GitLab account, az is teljesen jó
+- ezt követően a repóhoz developer-ként meghívást fogok küldeni
 
 Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a [projektmunkázó csoportból](https://gitlab.com/projektmunkazok-siposm) a [szakdolgozó csoportba](https://gitlab.com/szakdolgozok-siposm). Tehát újat nem kell majd létrehozni. A szükséges módosításokról majd emailben értesítek mindenkit.
 
