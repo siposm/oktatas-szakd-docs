@@ -40,7 +40,7 @@ A repository létrehozásának a következő a menete:
 
 Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a [projektmunkázó csoportból](https://gitlab.com/projektmunkazok-siposm) a [szakdolgozó csoportba](https://gitlab.com/szakdolgozok-siposm). Tehát újat nem kell majd létrehozni. A szükséges módosításokról majd emailben értesítek mindenkit.
 
-A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén akarok látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
+A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén szeretnék látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
 
 ![commits example image](commits-example.jpg)
 
