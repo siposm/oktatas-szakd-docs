@@ -8,7 +8,7 @@
 .\
 .
 
-Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat II.` tárgy `menetrend`jét, `követelmény`eit és `elvárás`ait. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
+Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat II. tárgy menetrendjét, követelményeit és elvárásait`. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
 
 ## 1.) Félévi mérföldkövek
   - **MK 0.:** 01. hét » repository létrehozása (lásd lentebbi "repository létrehozása" rész)
