@@ -8,7 +8,7 @@
 .\
 .
 
-Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat II. tárgy menetrendjét, követelményeit és elvárásait`. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
+Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat II.` tárgy `menetrend`jét, `követelmény`eit és `elvárás`ait. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
 
 ## 1.) Félévi mérföldkövek
   - **MK 0.:** 01. hét » repository létrehozása (lásd lentebbi "repository létrehozása" rész)
@@ -32,12 +32,13 @@ A mérföldkövek után mindenkinek visszajelzek a leadott munkával kapcsolatba
 
 ## 1.1.) Repository létrehozása
 A repository létrehozásának a következő a menete:
-1. a repót magát én fogom létrehozni a GitLab-on, a megfelelő group-on belül
-1. küldjetek egy emailt nekem, hogy milyen email címre küldhetem a meghívást
-1. lehet előre is regisztrálni ehhez, de pl. Google account-tal (gmail-es cím) 1 klikkel be lehet loginolni (így én ezt javasolnám)
-1. vagy ha van korábbról GitLab account, az is teljesen jó
+1. a repót magát én fogom létrehozni a GitLab-on, a megfelelő [group](https://gitlab.com/szakdolgozok-siposm)-on belül
+  1. ehhez viszont kell, hogy küldjetek egy emailt nekem, hogy milyen email címre küldhetem a meghívást
+  1. lehet előre is regisztrálni ehhez, de pl. Google account-tal (gmail-es cím) 1 klikkel be lehet loginolni (így én ezt javasolnám)
+  1. vagy ha van korábbról GitLab account, az is teljesen jó
+1. ezt követően a repóhoz developer-ként hozzá foglak adni
 
-Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a projektmunkázó csoportból a szakdolgozó csoportba.
+Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a [projektmunkázó csoportból](https://gitlab.com/projektmunkazok-siposm) a [szakdolgozó csoportba](https://gitlab.com/szakdolgozok-siposm). Tehát újat nem kell majd létrehozni. A szükséges módosításokról majd emailben értesítek mindenkit.
 
 A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén akarok látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
 
