@@ -31,7 +31,13 @@ Kivételt képez ez alól, ha szól előre az illető, hogy nagy a gáz / kiégt
 A mérföldkövek után mindenkinek visszajelzek a leadott munkával kapcsolatban.
 
 ## 1.1.) Repository létrehozása
-TODO..............TODO..............TODO..............TODO..............TODO..............
+A repository létrehozásának a következő a menete:
+1. a repót magát én fogom létrehozni a GitLab-on, a megfelelő group-on belül
+1. küldjetek egy emailt nekem, hogy milyen email címre küldhetem a meghívást
+1. lehet előre is regisztrálni ehhez, de pl. Google account-tal (gmail-es cím) 1 klikkel be lehet loginolni (így én ezt javasolnám)
+1. vagy ha van korábbról GitLab account, az is teljesen jó
+
+Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a projektmunkázó csoportból a szakdolgozó csoportba.
 
 A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén akarok látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
 
