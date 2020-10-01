@@ -5,6 +5,8 @@
 
 ### Figyelem! Jelen útmutató illetve követelményleírás csak Sipos Miklós szakdolgozói számára vonatkozik.
 
+Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek eltérhetnek!
+
 .\
 .
 
