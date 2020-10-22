@@ -13,8 +13,8 @@ Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek e
 Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat I. tárgy menetrendjét, követelményeit és elvárásait`. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
 
 ## 1.) Félévi mérföldkövek
-  - **MK 1.:** 04. hét » kapcsolódó témakörök irodalomkutatása / feldolgozása
-  - **MK 2.:** 08. hét » hasonló rendszerek elemzése és bemutatása
+  - **MK 1.:** 04. hét » hasonló rendszerek elemzése és bemutatása
+  - **MK 2.:** 08. hét » kapcsolódó témakörök irodalomkutatása / feldolgozása
   - **MK 3.:** 10. hét » irodalomkutatás összegzése
   - **MK 4.:** 13. hét » tervezés + követelmény specifikáció
 
