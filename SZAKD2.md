@@ -26,6 +26,8 @@ A küldött dokumentum neve ez legyen: `SZD2_MK[#]_[NEPTUN]_[TELJES-NÉV].pdf`
 
 A küldött email **tárgya** ez legyen: `SZD2_MK[#]_[NEPTUN]_[TELJES-NÉV]`
 
+(Értelemszerűen a `[]` jelek nem kellenek egyik esetben sem, oda a megefelelő értéket kell behelyettesíteni.)
+
 Ha valaki nem halad egyik mérföldkőről a másikra, akkor ilyen egyetlen alkalommal fordulhat elő. Ha egynél többször fordul elő, akkor a szakdoga2-őt nem fogom aláírni félév végén. Ennek oka, hogy a félév utolsó hetében nem szeretnék senkinél/vel tüzet oltani, és lutrira sem fogok senkit átengedni. Legyen benne a munka és akkor nem lesz gond - mondanom sem kell, ez egyben a Ti érdeketek is!
 
 Kivételt képez ez alól, ha szól előre az illető, hogy nagy a gáz / kiégtem idegileg a sok zh-tól / családi gond van / stb. Ez esetben az illetővel majd egyeztetek, hogy a mérföldkövet hova csúsztassuk.
