@@ -36,8 +36,10 @@
 - legyen erős kontraszt a betűk és a háttér között pl. fehér háttér fekete betű. persze lehet színeket is használni de érdemes figyelni arra, hogy olvasható maradjon (és ez nem csak a 4K-s otthoni monitorra igaz, hanem egy gyengébb minőségű projektorra is legyen igaz! ez utóbbi sokszor nem színhelyes, nem éles)
 - a legtöbb kivetítő 4:3 képaránnyal tud dolgozni, így javasolt ennek megfelelően készíteni a prezentációt
 
-# Minta borító
-![](sample-pres.png)
+# Minta borító I.
+![](sample-pres1.png)
+# Minta borító II.
+![](sample-pres2.png)
 
 # Prezentáció (Szakdolgozat II.)
 Nagyon hasonló a helyzet mint Szakdolgozat I. esetén, ami a változás: **elkészült a rendszer**. Ebből adódóan erről a kész rendszerről kell 60-70%-ban beszélni, és ami korábban szd1 beszámolóban volt az értelemszerűen redukálódni fog, ez megmarad 40-30%-ban.
