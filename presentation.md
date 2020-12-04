@@ -42,9 +42,10 @@
 # Prezentáció (Szakdolgozat II.)
 Nagyon hasonló a helyzet mint Szakdolgozat I. esetén, ami a változás: **elkészült a rendszer**. Ebből adódóan erről a kész rendszerről kell 60-70%-ban beszélni, és ami korábban szd1 beszámolóban volt az értelemszerűen redukálódni fog, ez megmarad 40-30%-ban.
 
-A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján 3 perc bevezető (~szd1) és 7 perc eredmények bemutatása.
+A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján 3 perc bevezető (~szd1) és 7 perc eredmények bemutatása. (A 10 perces intervallum félévenként esetleg eltérhet. Vagy 10 vagy 15 perces blokkok szoktak lenni, erről a hivatalos tájékoztató emailben kell legyen információ. Ha nincs, kérdezzetek inkább rá.)
 
 ## Legyen bemutatva
+- szakd1-ről a bevezetése a témádnak, probléma felvetése és hogy mit készítettél, milyen eszközöket esetleg programnyelveket használtál (ez legyen tempós és gyors, nem ez a lényeg hanem a munka, lásd további pontok)
 - hogyan jutottál el ide, milyen problémákkal szembesültél és ezeket hogyan oldottad meg (mérnöki döntések)
 - mit tud a rendszer jelenleg (ehhez képest mi volt az elvárás / specifikáció)
 - hogyan tesztelted a rendszert
