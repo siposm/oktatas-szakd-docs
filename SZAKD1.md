@@ -47,6 +47,8 @@ Elvileg a 7. vagy 9. hétig le kell majd adni ezt. Ennek megírását én fogom 
 
 Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! És utólag keresgélni, nagyon rossz dolog.
 
+Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternatívában (bár Macre van Word)) dolgoztok, vagy pedig LaTex-ben. Ha utóbbihoz már értesz, vagy érdekel és szeretnéd megtanulni, akkor én javasolnám, hogy itt az idő. Egy idő után sokkal jobb lesz benne szerkeszteni és kevesebb szívás lesz vele mint Wordben. Ha így tesztek és Tex-ben dolgoztok akkor a leadáskor doc/docx verziótok nem lesz, csak pdf. Ez esetben annyit meg lehet tenni, hogy készítetek egy külön Word fájlt a fedlappal és beleírjátok, hogy a dolgozat tex-ben került elkészítésre, ezért pdf-ként érhető el a dokumentum.
+
 ### Javasolt fejezetcímek:
     
 1. **`Absztrakt`**
