@@ -45,7 +45,17 @@ Elvileg a 7. vagy 9. hétig le kell majd adni ezt. Ennek megírásában számít
 ## 5.) Javaslat, hogy hogyan írd
 Érdemes már most a sablon ([elérhető az oldalamon](https://users.nik.uni-obuda.hu/siposm/szakd)) alapján elkezdeni (sorköz, térköz, margók stb. legyenek rendben). Azért lenne jó így haladni, mert akkor nem csak kilóra (karakter- és szószám) látjuk, hogy mennyi, hanem oldalak számára nézve is. Illetve nektek is talán könnyebb, ha már látjátok, hogy vannak fejezetcímek stb. Plusz, a félév végén amúgy is ilyen formázásban kell leadni is a dolgokat.
 
-Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! És utólag keresgélni, nagyon rossz dolog.
+### Plágium, lehivatkozások
+
+Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! Utólag keresgélni, nagyon rossz dolog.
+
+A félév végén, de legkésőbb Szakdolgozat II. leadást követően -- még záróvizsgázás előtt (!) -- a kész dolgozatot fel kell tölteni egy plágium ellenőrző rendszerbe, amely végeredménye egy számérték lesz, hogy mennyi egyezőség van más munkákkal, azaz, hogy mennyire plagizáltatok a dolgozatban. Ebben lehetséges, hogy csak arra fog kiadni egyezőséget, hogy a feldolgozott irodalmak azonosak másokéval -- ez természetesen nem baj. Ha viszont, konkrét részek, fejezetek vannak átemelve, az hatalmas probléma (még akkor is, ha egyébként az a tartalmi rész lehivatkozásra kerül a dolgozatban az irodalomjegyzékben). Ezért, konkrétan átemelt részben mindig pontos idézésmegjelöléssel kell ezeket a részeket ellátni. Egyéb esetben törekedni kell a saját megfogalmazásra!
+
+Az alábbi képen bal oldalt látható a végső számérték, lebontva, hogy mely forrásokból történt a plagizálás; jobb oldalt pedig a leadott dolgozat oldalanként végigvezetve (amelyből csak 1 oldalt emeltem most ki) és kiemelve, hogy mely részek, mettől-meddig számítanak plagizálásnak.
+
+![plagiarism example output](./plagium.jpg)
+
+### Szerkesztő
 
 Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternatívában (bár Macre van Word)) dolgoztok, vagy pedig LaTex-ben. Ha utóbbihoz már értesz, vagy érdekel és szeretnéd megtanulni, akkor én javasolnám, hogy itt az idő. Egy idő után sokkal jobb lesz benne szerkeszteni és kevesebb szívás lesz vele mint Wordben. Ha így tesztek és Tex-ben dolgoztok akkor a leadáskor doc/docx verziótok nem lesz, csak pdf. Ez esetben annyit meg lehet tenni, hogy készítetek egy külön Word fájlt a fedlappal és beleírjátok, hogy a dolgozat tex-ben került elkészítésre, ezért pdf-ként érhető el a dokumentum.
 
