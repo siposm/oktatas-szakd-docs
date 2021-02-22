@@ -1,7 +1,7 @@
 Teljes szoftvercsomag létrehozása GPS alapú futóversenyt lebonyolító rendszerhez#Bognár Sz. Gergő
 Micro-frontend alapú adminisztrációs felület készítése Web Components segítségével#Falus Dániel
 Kerékpár személyre szabását segítő alkalmazás valósidejű képfeldolgozás felhasználásával#Konyári László
-Adaptív forgalomirányítás gépi tanulással és gépi látással#Seres Richárd
-Adaptív forgalomirányítás gépi tanulással és gépi látással#Csuzdi Bence
-Motion capture megvalósítása kliensoldalon JavaScript segítségével#Vékony Martin
-Számítógépvezérlés kézmozdulatokkal webkamera képének feldolgozásával#Bartos Csanád
+Forgalomirányító rendszer megerősítéses tanulást használó ágens segítségével#Seres Richárd
+Járműdetektálás egy adaptív forgalomirányító rendszerben#Csuzdi Bence
+Webalkalmazás motion capture támogatására#Vékony Martin
+Számítógépvezérlés kézmozdulatok neurális háló alapú feldolgozásával#Bartos Csanád
