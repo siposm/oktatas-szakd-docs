@@ -93,6 +93,8 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 9. **`Ábrajegyzék`**
 10. **`Táblajegyzék`** (ha van)
 
+A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalnyi (releváns) terjedelemmel kell rendelkezzen. Ebbe a 8., 9. és 10. fejezetek által hozott oldalak nem számítanak bele. A 7. fejezet tartalma sem számítandó bele, ugyanis az a rész tekinthető úgy, hogy a Szakdolgozat II.-ről kerül "előrehozásra".
+
 ## 6.) Konzultációs napló
 Ezt majd félév végén egyben letudjuk, én fogom kiállítani, ha mindent rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk.
 
