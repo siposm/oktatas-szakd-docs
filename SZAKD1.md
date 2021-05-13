@@ -81,13 +81,14 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 6. **`Tervezés`** (~ 10 oldal)
     - készítendő rendszer megtervezése
     - rendszerterv: (ez fix fejezet) 
-        - ahol minden mindennel kommunikál, egyben legyen látható az egész szakdoga tartalma
+        - ahol minden mindennel kommunikál, egyben legyen látható az egész szakdoga (=fejlesztendő rendszer) tartalma
         - az egyes részek legyenek külön megtervezve (pl. adatbázis EK modell és/vagy táblás modell, szoftverben a modulok és azok kapcsolódása stb.)
     - funkciólista: (ez fix fejezet)
         - a rendszertől (felsorolás szinten) milyen funkciókat várunk el (esetleg ezek rövid leírása 1 mondatban kb.)
         - a főbb funkciókról legyen valamilyen tervezési diagram (pl. szekvencia diagram) amely az adott feladat működésének lényegét szemlélteti
     - fejlesztés tervezett menete: (ez fix fejezet)
         - legyen egy konkrét roadmap vagy Gantt-diagram alapú szemléltetése annak, hogy honnan fogod kezdeni a szakdoga2-őt és abban milyen sorrendben és milyen lépésekkel fogsz haladni
+    - bővebben, ábrákkal szemléltetett leírás [itt olvasható](./planning.md) 
 7. ***`Fejlesztés`**: ha van rá idő, egy minimálisan működő demó rendszer elkészítése*
 8. **`Irodalomjegyzék`**
 9. **`Ábrajegyzék`**
