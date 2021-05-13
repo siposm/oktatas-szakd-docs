@@ -6,12 +6,12 @@
     - mivel eddig (sokatoknál) csak irodalomkutatás van, leginkább egy "fejtágító" dologról lesz szó
     - DE már van rendszerterv, specifikáció stb. azokat nyugodtan bele lehet tenni és beszélni róluk
     - akiknek van munka projektmunka tárgyakról ott természetesen az is legyen benne mint "már fejlesztés alatt álló rendszer", esetleg rövid bemutatóval, hogy mit tud jelenleg. (bemutató esetén javaslom .gif készítését, mivel a ppt-ben vetítés közben az fixen és jól működik. Videóval lehetnek gondok)
-    - tehát a fő lényeg, hogy a **saját munkáról** beszéljetek (mit csináltál, miért csináltad, hogyan csináltad) ne pedig arról, hogy a 128. keretrendszerben melyik függvényt hívnád meg itt-ott
+    - tehát a fő lényeg, hogy a **saját munkáról** beszéljetek (**mit** csináltál, **miért** csináltad, **hogyan** csináltad) ne pedig arról, hogy a 128. keretrendszerben melyik függvényt hívnád meg itt-ott
 - előre meghatározott "ennyi legyen" diaszám így konkrétan nincsen, de főbb fejezeteknek érdemes a szakdoga fejezeteit választani
 - az előadást feltétlen gyakorold át párszor, legyen egy gondolatmenet a fejedben, hogy mi alapján akarod végigmondani az egészet
 - ami mindenképpen legyen a diában:
     - a diák legyenek oldalszámozva és legyen ott, hogy hányadik oldal a mennyiből (pl. 3/20) ==> ez azért kell, hogy lássa a bizottság, hogy kb. hol tartasz az előadásodban
-    - borító slide tartalmazzon minden lényeges információt, ehhez egy jó minta lentebb található
+    - borító slide tartalmazzon minden lényeges információt, ehhez egy-két jó minta lentebb található
         - szakdolgozat cím magyarul
         - szakdolgozat cím angolul (kisebben)
         - hallgató név
@@ -36,9 +36,12 @@
 - legyen erős kontraszt a betűk és a háttér között pl. fehér háttér fekete betű. persze lehet színeket is használni de érdemes figyelni arra, hogy olvasható maradjon (és ez nem csak a 4K-s otthoni monitorra igaz, hanem egy gyengébb minőségű projektorra is legyen igaz! ez utóbbi sokszor nem színhelyes, nem éles)
 - a legtöbb kivetítő 4:3 képaránnyal tud dolgozni, így javasolt ennek megfelelően készíteni a prezentációt
 
-# Minta borító I.
+# Prezentáció sablon
+A [hivatalos szakdolgozat tájékoztató weboldalon](https://to.nik.uni-obuda.hu/szakdolgozat-tajekoztato/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet.
+
+## Minta borító I.
 ![](sample-pres1.png)
-# Minta borító II.
+## Minta borító II.
 ![](sample-pres2.png)
 
 # Prezentáció (Szakdolgozat II.)
