@@ -88,7 +88,7 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
         - a főbb funkciókról legyen valamilyen tervezési diagram (pl. szekvencia diagram) amely az adott feladat működésének lényegét szemlélteti
     - fejlesztés tervezett menete: (ez fix fejezet)
         - legyen egy konkrét roadmap vagy Gantt-diagram alapú szemléltetése annak, hogy honnan fogod kezdeni a szakdoga2-őt és abban milyen sorrendben és milyen lépésekkel fogsz haladni
-    - bővebben, ábrákkal szemléltetett leírás [itt olvasható](./planning.md) 
+    - bővebben, ábrákkal szemléltetett leírás a tervezésről [itt olvasható](planning/README.md) 
 7. ***`Fejlesztés`**: ha van rá idő, egy minimálisan működő demó rendszer elkészítése*
 8. **`Irodalomjegyzék`**
 9. **`Ábrajegyzék`**

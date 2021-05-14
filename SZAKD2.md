@@ -60,6 +60,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
     - a lényeg, hogy meggyőződjünk arról, hogy amit csináltunk az jó-e / működik-e (Dr. Tick József tanár úr validáció és verifikáció diáit javaslom előkapni)
     - kicsit nézzetek utána, hogy milyen tesztek vannak (ezeket egyébként utólagosan az ir.kut-ba is nyugodtan bele lehet tenni)
       - amit sw fejlsztés esetén mindig elő lehet kapni: unit teszt, manuális teszt, funkcionális teszt >> ezekhez többé kevésbé vannak dedikált tool-ok / keretrendszerek, nézzetek utána és válasszatok (a döntési folyamatot itt is lehet dokumentálni)
+    - tesztelésről bővebben [itt írok](testing/README.md)
 9. **`Értékelés`** (2 oldal)
     - „miután lefejlesztettem amit kértek tőlem
     - és leteszteltem, hogy azt csinálja-e amit kértek tőlem

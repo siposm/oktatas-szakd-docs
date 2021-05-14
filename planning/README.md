@@ -23,40 +23,40 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
 
 ### Rendszertervek
 #### Csuzdi Bence & Seres Richárd
-![rendszerterv](./planning/rendszerterv.png)
+![rendszerterv](rendszerterv.png)
 
 #### Kaló Áron
-![rendszerterv](./planning/rendszerterv2.png)
+![rendszerterv](rendszerterv2.png)
 
 #### Kaló Áron
-![rendszerterv](./planning/rendszerterv3.png)
+![rendszerterv](rendszerterv3.png)
 
 #### Falus Dániel
-![rendszerterv](./planning/rendszerterv4.png)
+![rendszerterv](rendszerterv4.png)
 
 ### Szekvencia diagramok
 #### Csuzdi Bence
-![szekvencia diagram](./planning/szekvencia-diagram.png)
+![szekvencia diagram](szekvencia-diagram.png)
 
 #### Falus Dániel
-![szekvencia diagram](./planning/szekvencia-diagram2.png)
+![szekvencia diagram](szekvencia-diagram2.png)
 
 #### Félix Bálint
-![szekvencia diagram](./planning/szekvencia-diagram3.png)
+![szekvencia diagram](szekvencia-diagram3.png)
 
 ### Folyamatábrák
 #### Csuzdi Bence
-![folyamatabra](./planning/folyamatabra.png)
+![folyamatabra](folyamatabra.png)
 
 #### Falus Dániel
-![folyamatabra](./planning/folyamatabra2.png)
+![folyamatabra](folyamatabra2.png)
 
 ### Fejlesztés tervezett menete
 #### Félix Bálint
-![fejlmenet](./planning/fejlmenet.png)
+![fejlmenet](fejlmenet.png)
 
 #### Róth Bence
-![fejlmenet](./planning/fejlmenet2.png)
+![fejlmenet](fejlmenet2.png)
 
 #### Béres Mátyás
-![fejlmenet](./planning/fejlmenet3.png)
+![fejlmenet](fejlmenet3.png)
