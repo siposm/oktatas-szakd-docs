@@ -1,3 +1,6 @@
+# Megjegyzés
+Az alább olvasható mintákból a **terjedelem** valamint a **nyelvezet** az, amelyet követni kell. Lényegretörő, rövid, tényszerű megfogalmazásokra kell törekedni.
+
 # MINTA 1
 **A feladat**
 
