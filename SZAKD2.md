@@ -102,7 +102,7 @@ A szakdolgozattal le kell adni majd CD mellékletet is, ezen el kell helyezni so
   - Mivel mindenki ilyenkor megy, ezért úgy dolgoznak, hogy 1 nap átfutás van (általában minden helyen 1-2 nap); de van SOS köttetés ami feláras, de akkor instant megcsinálják. 
 
 ## 7.) Védés
-Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalosan a szakdoga2 leadását követné a záróvizsga, ahol hasonlóan, mint szd1 esetén meg kell védeni és elő kell adni a dolgozatot amin dolgoztál. Természetesen a záróvizsga ideje csúszhat, ha te nem éppen akkor végzel. A védéshez szükséges szintén egy prezentáció, csak úgy mint szd1 esetén, erről mindenkivel egyeztetek majd ha ott tartunk. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](./presentation.md).
+Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalosan a szakdoga2 leadását követné a záróvizsga, ahol hasonlóan, mint szd1 esetén meg kell védeni és elő kell adni a dolgozatot amin dolgoztál. Természetesen a záróvizsga ideje csúszhat, ha te nem éppen akkor végzel. A védéshez szükséges szintén egy prezentáció, csak úgy mint szd1 esetén, erről mindenkivel egyeztetek majd ha ott tartunk. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](presentation/README.md).
 
 <br><br>
 

@@ -39,11 +39,6 @@
 # Prezentáció sablon
 A [hivatalos szakdolgozat tájékoztató weboldalon](https://to.nik.uni-obuda.hu/szakdolgozat-tajekoztato/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet.
 
-## Minta borító I.
-![](sample-pres1.png)
-## Minta borító II.
-![](sample-pres2.png)
-
 # Prezentáció (Szakdolgozat II.)
 Nagyon hasonló a helyzet mint Szakdolgozat I. esetén, ami a változás: **elkészült a rendszer**. Ebből adódóan erről a kész rendszerről kell 60-70%-ban beszélni, és ami korábban szd1 beszámolóban volt az értelemszerűen redukálódni fog, ez megmarad 40-30%-ban.
 
@@ -56,3 +51,8 @@ A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján
 - hogyan tesztelted a rendszert
 - hogyan értékeled a kész rendszert (személyes oldalról és objektív (számszerűsíthető) oldalról)
 - milyen továbbfejlesztési lehetőségeket látsz a rendszerben (akár amin javítani kell, akár ami a színvonalat tovább tudná emelni)
+
+## Minta borító I.
+![minta borító](sample-pres1.png)
+## Minta borító II.
+![minta borító](sample-pres2.png)
