@@ -31,16 +31,16 @@ Ha valaki nem halad egyik mérföldkőről a másikra, akkor ilyen egyetlen alka
 
 Kivételt képez ez alól, ha szól előre az illető, hogy nagy a gáz / kiégtem idegileg a sok zh-tól / családi gond van / stb. Ez esetben az illetővel majd egyeztetek, hogy a mérföldkövet hova csúsztassuk.
 
-A mérföldkövek után mindenkinek visszajelzek a leadott munkával kapcsolatban.
+A mérföldkövek után igyekszem mindenkinek visszajelezni a leadott munkával kapcsolatban, de legkésőbb az utolsó MK után biztosan lesz visszajelzés.
 
 ## 2.) A félév tartalma
-Szakdoga 1 kapcsán irodalomkutatásig, illetve tervezésig kellene eljutni a félév végéig (tehát szakdoga2-őn már egyből „csak” fejleszteni kell), én viszont javasolnám, hogy picit menjünk tovább (ez főleg igaz azokra akik projektmunkát is nálam csinálják, hiszen nekik a pilot alkalmazás már készen van). Jó volna, ha egy nagyon basic demo alkalmazás is lenne, mert akkor nagyjából nekiálltok a feladat megoldásának és lehet már szembejön olyan kardinális probléma, hogy pl. x-y programmal meg se valósítható ez vagy az... és ha ez később jön szembe, akkor nagyon rohamtempóban kell dolgozni, javítani stb., ami senkinek nem jó.
+Szakdoga 1 kapcsán irodalomkutatáson át a tervezésig kellene eljutni a félév végéig (tehát szakdoga2-őn már egyből „csak” fejleszteni kell), én viszont javasolnám, hogy picit menjünk tovább (ez főleg igaz azokra akik projektmunkát is nálam csinálják, hiszen nekik a pilot alkalmazás már készen van). Jó volna, ha egy nagyon basic demo alkalmazás is lenne, mert akkor nagyjából nekiálltok a feladat megoldásának és lehet már szembejön olyan kardinális probléma, hogy pl. x-y programmal meg se valósítható ez vagy az... és ha ez később jön szembe, akkor nagyon rohamtempóban kell dolgozni, javítani stb., ami senkinek nem jó.
 
 ## 3.) Szakdolgozat I. védés
 A félév végén, vizsgaidőszak eleje környékén lesz szakdoga1 bemutató / védés hivatalos keretek között. Ezt megelőzően szeretnék majd mindenkivel egy közös alkalmat amikor nekem előadjátok a prezit, demó jelleggel. Elmondom az észrevételeket, ezt követően pedig a javítandó részeket még tudjátok finomítani. A hivatalos védést komolyan kell venni, ezen áll vagy bukik ugyanis a tárgy teljesítése. Itt a bizottság a doksit is és az előadást is bírálja. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](presentation/README.md).
 
 ## 4.) Feladatkiírási lap
-Elvileg a 7. vagy 9. hétig le kell majd adni ezt. Ennek megírásában számítanék rátok. Első körben ki kellene tölteni [ezt a formot](https://forms.gle/dNMAxvtJK4os3XHn9) ahol kérlek pontosan adjátok meg az adataitokat, másrészt pedig a 2. oldalon található kérdésekre jól végiggondolt válaszokat várnék. Ezzel egyidőben fogok küldeni egy emailt, benne egy sablonnal és az alapján (hasonló terjedelemben, fogalmazásban -- ehhez tartozó [minták itt érthetők el](https://github.com/siposm/oktatas-szakd-docs/blob/master/szakd_feladatkiiras_sablon.md)) kellene megírni a feladattal kapcsolatban támasztott elvárásokat és visszaküldeni nekem.
+Elvileg a 7. vagy 9. hétig le kell majd adni ezt. Ennek megírásában számítanék rátok. Első körben ki kellene tölteni [ezt a formot](https://forms.gle/dNMAxvtJK4os3XHn9) ahol kérlek pontosan adjátok meg az adataitokat (fontos, hogy minden úgy legyen ahogy az Neptunban is szerepel). Ezzel egyidőben fogok küldeni egy emailt, benne egy sablonnal és az alapján (hasonló terjedelemben, fogalmazásban -- ehhez tartozó [minták itt érthetők el](https://github.com/siposm/oktatas-szakd-docs/blob/master/szakd_feladatkiiras_sablon.md)) kellene megírni a feladattal kapcsolatban támasztott elvárásokat és visszaküldeni nekem. A kész feladatlapot ezt követően majd előállítom és leadom a Diplomáztatási csoport irányába. Ezeket majd [innen](https://users.nik.uni-obuda.hu/siposm/szdl/) fogjátok tudni ti is letölteni a félév végén, amikor le kell adnotok a dolgozatot.
 
 ## 5.) Javaslat, hogy hogyan írd
 Érdemes már most a sablon ([elérhető az oldalamon](https://users.nik.uni-obuda.hu/siposm/szakd)) alapján elkezdeni (sorköz, térköz, margók stb. legyenek rendben). Azért lenne jó így haladni, mert akkor nem csak kilóra (karakter- és szószám) látjuk, hogy mennyi, hanem oldalak számára nézve is. Illetve nektek is talán könnyebb, ha már látjátok, hogy vannak fejezetcímek stb. Plusz, a félév végén amúgy is ilyen formázásban kell leadni is a dolgokat.
@@ -98,7 +98,7 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalnyi (releváns) terjedelemmel kell rendelkezzen. Ebbe a 8., 9. és 10. fejezetek által hozott oldalak nem számítanak bele. A 7. fejezet tartalma sem számítandó bele, ugyanis az a rész tekinthető úgy, hogy a Szakdolgozat II.-ről kerül "előrehozásra".
 
 ## 6.) Konzultációs napló
-Ezt majd félév végén egyben letudjuk, én fogom kiállítani, ha mindent rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk.
+Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat majd [innen](https://users.nik.uni-obuda.hu/siposm/szdl/) tudjátok letölteni.
 
 <br><br>
 
