@@ -13,4 +13,4 @@
 
 **Sipos Miklós**\
 sipos.miklos@nik.uni-obuda.hu\
-https://users.nik.uni-obuda.hu/siposm/
+https://nik.siposm.hu
