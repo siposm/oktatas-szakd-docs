@@ -19,12 +19,10 @@ Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat II. t
   - **MK 3.:** 10. hét » a fejlesztéssel nagyjából készen kell lenni, a legtöbb funkciónak működnie kell; a 11. héten már a tesztelésre kell rátérni
   - **MK 4.:** 12. hét » fejlesztés és tesztelés kész, dokumentálás végső simításait kell elvégezni
 
-Adott hét `vasárnapjának 23:59 percéig` szeretném email formájában megkapni a szakdoga aktuális (és az előzőhöz képest előrehaladottabb) változatát. Az emailben vázlatpontokban szívesen venném, ha fel lenne tüntetve, hogy mi került bele pluszként az előzőhöz képest. Ha a doksiban esetleg sárga háttérrel megjelölitek az is teljesen rendben van. A lényeg az lenne, hogy átnézve könnyen lássam egyből mi az inkrementum. Ha a dokumentum nem módosult -- ami a fejlesztés szakaszban előfordulhat -- akkor "új" verziót nem szükséges küldeni, ez esetben viszont kérném, hogy a küldött emailben felsorolás-szerűen (!) legyen ott, hogy mivel haladtatok / mi van még hátra / milyen problémák merültek fel.
+Adott hét `vasárnapjának 23:59 percéig` szeretném Teams privát üzenet formájában megkapni a szakdoga aktuális (és az előzőhöz képest előrehaladottabb) változatát. Az üzenetben vázlatpontokban szívesen venném, ha fel lenne tüntetve, hogy mi került bele pluszként az előzőhöz képest. Ha a doksiban esetleg sárga háttérrel megjelölitek az is teljesen rendben van. A lényeg az lenne, hogy átnézve könnyen lássam egyből mi az inkrementum. Ha a dokumentum nem módosult -- ami a fejlesztés szakaszban előfordulhat -- akkor "új" verziót nem szükséges küldeni, ez esetben viszont kérném, hogy a küldött emailben felsorolás-szerűen (!) legyen ott, hogy mivel haladtatok / mi van még hátra / milyen problémák merültek fel.
 
 Küldéskor pdf verziót küldjetek.\
 A küldött dokumentum neve ez legyen: `SZD2_MK[#]_[NEPTUN]_[TELJES-NÉV].pdf`
-
-A küldött email **tárgya** ez legyen: `SZD2_MK[#]_[NEPTUN]_[TELJES-NÉV]`
 
 (Értelemszerűen a `[]` jelek nem kellenek egyik esetben sem, oda a megefelelő értéket kell behelyettesíteni.)
 
@@ -32,32 +30,30 @@ Ha valaki nem halad egyik mérföldkőről a másikra, akkor ilyen egyetlen alka
 
 Kivételt képez ez alól, ha szól előre az illető, hogy nagy a gáz / kiégtem idegileg a sok zh-tól / családi gond van / stb. Ez esetben az illetővel majd egyeztetek, hogy a mérföldkövet hova csúsztassuk.
 
-A mérföldkövek után mindenkinek visszajelzek a leadott munkával kapcsolatban.
+A mérföldkövek után igyekszem mindenkinek visszajelezni a leadott munkával kapcsolatban, de legkésőbb az utolsó MK után biztosan lesz visszajelzés.
 
 ## 1.1.) Repository létrehozása
 A repository létrehozásának a következő a menete:
 - a repót magát én fogom létrehozni a GitHub-on, a megfelelő [group](https://github.com/szakdolgozok-siposm)-on belül
-  - ehhez viszont kell, hogy küldjetek egy emailt nekem, hogy milyen email címre küldhetem a meghívást
-  - lehet előre is regisztrálni ehhez, de pl. Google account-tal (gmail-es cím) 1 klikkel be lehet loginolni (így én ezt javasolnám)
-  - vagy ha van korábbról GitHub account, az is teljesen jó
+  - ehhez viszont kell, hogy küldjetek egy üzenetet nekem, hogy milyen email címre vagy GitHub account-ra küldhetem a meghívást, ehhez kérlek előtte regisztráljatok be
 - ezt követően a repóhoz developer-ként meghívást fogok küldeni
 
 Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a [projektmunkázó csoportból](https://github.com/projektmunkazok-siposm) a [szakdolgozó csoportba](https://github.com/szakdolgozok-siposm). Tehát újat nem kell majd létrehozni. A szükséges módosításokról majd emailben értesítek mindenkit.
 
-A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén szeretnék látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
+A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén szeretnék látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről-hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
 
 ![commits example image](commits-example.jpg)
 
 ## 2.) Javasolt fejezetcímek
 
-*Folytatva, a szakdolgozat I-ben abbahagyott sorszámozást.*
+*Folytatva, a szakdolgozat I.-ben abbahagyott sorszámozást.*
 
 7. **`Fejlesztés`** (~ 10 oldal)
     - itt majdhogynem fejlesztési naplóként nyugodtan le lehet írni a dolgokat, annyi megkötéssel/javaslattal, hogy:
     - minden apró-cseprő dolgot ne írjatok bele, törekedjetek a fontos dolgokat kiemelni; mindenképpen ilyen egy-egy probléma amibe belefutottatok, ami kapcsán aztán hoztatok egy döntést (ugye egy mérnök sok szívással szembesül, azok közül mérlegel, döntést hoz és halad tovább >> ezt volna jó viszont olvasni a dolgozatban is)
 8. **`Tesztelés`** (~ 5 oldal)
-    - elengedhetetlen része a szd-nak; enélkül nem fogom elfogadni a szd2-őt senkinek (hovatovább, záróvizsgán is sanszos ez)
-    - a lényeg, hogy meggyőződjünk arról, hogy amit csináltunk az jó-e / működik-e (Dr. Tick József tanár úr validáció és verifikáció diáit javaslom előkapni)
+    - elengedhetetlen része a Szakdolgozatnak; enélkül nem fogom elfogadni a Szakdolgozat 2-őt senkinek (hovatovább, záróvizsgán is sanszos ez)
+    - a lényeg, hogy meggyőződjünk arról, hogy amit csináltunk az jó-e / működik-e
     - kicsit nézzetek utána, hogy milyen tesztek vannak (ezeket egyébként utólagosan az ir.kut-ba is nyugodtan bele lehet tenni)
       - amit sw fejlsztés esetén mindig elő lehet kapni: unit teszt, manuális teszt, funkcionális teszt >> ezekhez többé kevésbé vannak dedikált tool-ok / keretrendszerek, nézzetek utána és válasszatok (a döntési folyamatot itt is lehet dokumentálni)
     - tesztelésről bővebben [itt írok](testing/README.md)
@@ -86,16 +82,16 @@ A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [el
 ## 3.) Konzultációs napló
 Ezt majd félév végén egyben letudjuk, én fogom kiállítani, ha mindent rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk.
 
-## 4.) CD melléklet
-A szakdolgozattal le kell adni majd CD mellékletet is, ezen el kell helyezni sok-sok-sok mindent (erről Susik Márta ír majd tájékoztató mailt nektek). Amit ezek közül kiemelnék azok a forrásfájlok lesznek; olyat töltsetek fel, amiből reprodukálható az amit leírtatok és megcsináltatok; tehát orbitális kamuk ne legyenek. Továbbá, a CD-re fel kell rakni a konz. napló szkennelt változatát is. Itt problémás lehet, hogy én csak a kész dolgozatban írom már ezt alá. Ez esetben semmi gond, ha telóval befotózzátok miután aláírtam és azt írjátok a CD-re az is teljesen megfelelő (nem szükséges ezért szétszedni a már lekötött anyagot).
+## 4.) Diplomamunka portál
+A szakdolgozathoz tartozó anyagokat a Diplomáztatási Csoport elvárásai alapján kell majd feltölteni a portálra. Ebben benne van a szakdolgozat digitális verziója (pdf **és** docx egyaránt!), a prezentáció (pdf **és** pptx egyaránt!), valamint minden olyan egyéb kód, forráskód és egyéb, ami a munkát képviseli.
 
 ## 5.) Leadás menete (félév vége)
   - Megírjátok a dolgozatot.
   - A félév végén ha minden ok, elfogadom.
   - Átadom a konz. naplót (nem aláírva).
-  - A konz. naplóval együtt (+ még sok dolog, amiket Susik Márta ír meg nektek) elmentek kinyomtatni és leköttetni.
+  - A konz. naplóval együtt (+ még sok dolog, amiket a Diplomáztatási Csoport ír meg nektek) elmentek kinyomtatni és leköttetni.
   - A lekötött szakdogát visszahozzátok nekem és az utolsó lépés, hogy a konz. naplót aláírom a már bekötött szakdogában.
-  - Utána mehettek leadni Susik Márta irodájába, aminek a határideje emlékeim szerint mindig: 14. szorgalmi hét szerda 15:00-ig bezárólag. Tehát én azt javasolnám, hogy 13. szorgalmi hét végére már 100%-os legyen a munka, hétfőn / kedden nyomtatás és köttetés, szerda leadás. (Megj.: nem tudom, hogy van-e ilyen +1 hét határidő díj ellenében, de nem is szeretnék ezzel foglalkozni; tartsuk magunkat a menetrendhez.)
+  - Utána mehettek leadni a Diplomáztatási Csoport irodájába, aminek a határideje emlékeim szerint mindig: 14. szorgalmi hét szerda 15:00-ig bezárólag. Tehát én azt javasolnám, hogy 13. szorgalmi hét végére már 100%-os legyen a munka, hétfőn / kedden nyomtatás és köttetés, szerda leadás. (Megj.: nem tudom, hogy van-e ilyen +1 hét határidő díj ellenében, de nem is szeretnék ezzel foglalkozni; tartsuk magunkat a menetrendhez.)
 
 ## 6.) Szakdolgozat köttetés
   - Köttetésnél én a CopyGuru-t javaslom, van egy a Jászai Mari tér környékén, szép munkát csinálnak.
@@ -111,7 +107,7 @@ Bármilyen kérdés esetén keressetek bizalommal.
 ---
 
 **Sipos Miklós**\
-Tanszéki Mérnök\
+Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és -fejlesztés Intézet\
 sipos.miklos@nik.uni-obuda.hu\

@@ -1,7 +1,7 @@
 # Prezentáció (Szakdolgozat I.)
 
 ## Általános információk
-- 10 perces előadással készüljetek ( a 10 percet **nagyon** komolyan vegyétek )
+- 10 perces előadással készüljetek (a 10 percet **nagyon** komolyan vegyétek), de a hivatalos tájékoztató ettől eltérhet, így van, hogy csak 8 perc áll rendelkezésre
 - a tartalom tükrözze a féléves munkátokat
     - mivel eddig (sokatoknál) csak irodalomkutatás van, leginkább egy "fejtágító" dologról lesz szó
     - DE már van rendszerterv, specifikáció stb. azokat nyugodtan bele lehet tenni és beszélni róluk

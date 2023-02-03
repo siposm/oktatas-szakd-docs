@@ -18,12 +18,10 @@ Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat I. t�
   - **MK 3.:** 10. hét » irodalomkutatás összegzése
   - **MK 4.:** 13. hét » tervezés + követelmény specifikáció
 
-Adott hét `vasárnapjának 23:59 percéig` szeretném email formájában megkapni a szakdoga aktuális (és az előzőhöz képest előrehaladottabb) változatát. Az emailben vázlatpontokban szívesen venném, ha fel lenne tüntetve, hogy mi került bele pluszként az előzőhöz képest. Ha a doksiban esetleg sárga háttérrel megjelölitek az is teljesen rendben van. A lényeg az lenne, hogy átnézve könnyen lássam egyből mi az inkrementum.
+Adott hét `vasárnapjának 23:59 percéig` szeretném Teams privát üzenet formájában megkapni a szakdoga aktuális (és az előzőhöz képest előrehaladottabb) változatát. Az üzenetben vázlatpontokban szívesen venném, ha fel lenne tüntetve, hogy mi került bele pluszként az előzőhöz képest. Ha a doksiban esetleg sárga háttérrel megjelölitek az is teljesen rendben van. A lényeg az lenne, hogy átnézve könnyen lássam egyből mi az inkrementum.
 
 Küldéskor pdf verziót küldjetek.\
 A küldött dokumentum neve ez legyen: `SZD1_MK[#]_[NEPTUN]_[TELJES-NÉV].pdf`
-
-A küldött email **tárgya** ez legyen: `SZD1_MK[#]_[NEPTUN]_[TELJES-NÉV]`
 
 (Értelemszerűen a `[]` jelek nem kellenek egyik esetben sem, oda a megefelelő értéket kell behelyettesíteni.)
 
@@ -34,20 +32,20 @@ Kivételt képez ez alól, ha szól előre az illető, hogy nagy a gáz / kiégt
 A mérföldkövek után igyekszem mindenkinek visszajelezni a leadott munkával kapcsolatban, de legkésőbb az utolsó MK után biztosan lesz visszajelzés.
 
 ## 2.) A félév tartalma
-Szakdoga 1 kapcsán irodalomkutatáson át a tervezésig kellene eljutni a félév végéig (tehát szakdoga2-őn már egyből „csak” fejleszteni kell), én viszont javasolnám, hogy picit menjünk tovább (ez főleg igaz azokra akik projektmunkát is nálam csinálják, hiszen nekik a pilot alkalmazás már készen van). Jó volna, ha egy nagyon basic demo alkalmazás is lenne, mert akkor nagyjából nekiálltok a feladat megoldásának és lehet már szembejön olyan kardinális probléma, hogy pl. x-y programmal meg se valósítható ez vagy az... és ha ez később jön szembe, akkor nagyon rohamtempóban kell dolgozni, javítani stb., ami senkinek nem jó.
+Szakdoga 1.-ben az irodalomkutatáson át a tervezésig kellene eljutni a félév végéig (tehát szakdoga2-őn már egyből neki kell tudni állni a fejlesztésnek), én viszont javasolnám, hogy picit menjünk tovább (ez főleg igaz azokra akik projektmunkát is nálam csinálják, hiszen nekik a pilot alkalmazás már készen van). Jó volna, ha egy nagyon basic demo alkalmazás is lenne, mert akkor nagyjából nekiálltok a feladat megoldásának és lehet már szembejön olyan kardinális probléma, hogy pl. x-y programmal meg se valósítható ez vagy az... és ha ez később jön szembe, akkor nagyon rohamtempóban kell dolgozni, javítani stb., ami senkinek nem jó.
 
 ## 3.) Szakdolgozat I. védés
-A félév végén, vizsgaidőszak eleje környékén lesz szakdoga1 bemutató / védés hivatalos keretek között. Ezt megelőzően szeretnék majd mindenkivel egy közös alkalmat amikor nekem előadjátok a prezit, demó jelleggel. Elmondom az észrevételeket, ezt követően pedig a javítandó részeket még tudjátok finomítani. A hivatalos védést komolyan kell venni, ezen áll vagy bukik ugyanis a tárgy teljesítése. Itt a bizottság a doksit is és az előadást is bírálja. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](presentation/README.md).
+A félév végén, vizsgaidőszak eleje környékén lesz szakdoga1 bemutató / védés hivatalos keretek között. Ezt megelőzően ha van rá igény, akkor nekem elő lehet adni a prezentációt demó jelleggel. Elmondom az észrevételeket, ezt követően pedig a javítandó részeket még tudjátok finomítani. A hivatalos védést komolyan kell venni, ezen áll vagy bukik ugyanis a tárgy teljesítése. Itt a bizottság a doksit is és az előadást is bírálja. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](presentation/README.md).
 
 ## 4.) Feladatkiírási lap
-A feladatkiírási lap az, amely a hivatalos elvárásokat és cél megfogalmazását tartalmazza a szakdolgozat egészével kapcsolatban. Ennek megírásában számítanék rátok. Első körben ki kellene tölteni [ezt a formot](https://forms.gle/dNMAxvtJK4os3XHn9) ahol kérlek pontosan adjátok meg az adataitokat (fontos, hogy minden úgy legyen ahogy az Neptunban is szerepel). A [mintákhoz](https://github.com/siposm/oktatas-szakd-docs/blob/master/szakd_feladatkiiras_sablon.md) hasonló terjedelemben és fogalmazási stílusban kellene megírni a feladattal kapcsolatban támasztott elvárásokat és elküldeni nekem sima szövegként. A kész feladatlapot ezt követően majd előállítom és leadom a Diplomáztatási Csoport irányába. Ezeket majd [innen](https://nik.siposm.hu/szdl/) fogjátok tudni ti is letölteni a félév végén, amikor le kell adnotok a dolgozatot.
+A feladatkiírási lap az, amely a hivatalos elvárásokat és cél megfogalmazását tartalmazza a szakdolgozat egészével kapcsolatban. Ennek megírásában számítanék rátok. Első körben ki kellene tölteni [ezt a formot](https://forms.gle/dNMAxvtJK4os3XHn9) ahol kérlek pontosan adjátok meg az adataitokat (fontos, hogy minden úgy legyen ahogy az Neptunban is szerepel). A [mintákhoz](https://github.com/siposm/oktatas-szakd-docs/blob/master/szakd_feladatkiiras_sablon.md) hasonló terjedelemben és fogalmazási stílusban kellene megírni a feladattal kapcsolatban támasztott elvárásokat és elküldeni nekem sima szövegként, Teams privát üzenetben. A kész feladatlapot ezt követően majd előállítom és leadom a Diplomáztatási Csoport irányába. Ezeket majd [innen](https://nik.siposm.hu/szdl/) fogjátok tudni ti is letölteni a félév végén, amikor le kell adnotok a dolgozatot.
 
 ## 5.) Javaslat, hogy hogyan írd
 Érdemes már most a sablon ([elérhető az oldalamon](https://nik.siposm.hu/szakd) Hivatalos Szakdolgozat tájékoztató néven) alapján elkezdeni (sorköz, térköz, margók stb. legyenek rendben). Azért lenne jó így haladni, mert akkor nem csak kilóra (karakter- és szószám) látjuk, hogy mennyi, hanem oldalak számára nézve is. Illetve nektek is talán könnyebb, ha már látjátok, hogy vannak fejezetcímek stb. Plusz, a félév végén amúgy is ilyen formázásban kell leadni is a dolgokat.
 
 ### Plágium, lehivatkozások
 
-Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! Utólag keresgélni, nagyon rossz dolog.
+Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! Utólag keresgélni nagyon rossz dolog.
 
 A félév végén, de legkésőbb Szakdolgozat II. leadást követően -- még záróvizsgázás előtt (!) -- a kész dolgozatot fel kell tölteni egy plágium ellenőrző rendszerbe, amely végeredménye egy számérték lesz, hogy mennyi egyezőség van más munkákkal, azaz, hogy mennyire plagizáltatok a dolgozatban. Ebben lehetséges, hogy csak arra fog kiadni egyezőséget, hogy a feldolgozott irodalmak azonosak másokéval -- ez természetesen nem baj. Ha viszont, konkrét részek, fejezetek vannak átemelve, az hatalmas probléma (még akkor is, ha egyébként az a tartalmi rész lehivatkozásra kerül a dolgozatban az irodalomjegyzékben). Ezért, konkrétan átemelt részben mindig pontos idézésmegjelöléssel kell ezeket a részeket ellátni. Egyéb esetben törekedni kell a saját megfogalmazásra!
 
@@ -107,7 +105,7 @@ Bármilyen kérdés esetén keressetek bizalommal.
 ---
 
 **Sipos Miklós**\
-Tanszéki Mérnök\
+Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és -fejlesztés Intézet\
 sipos.miklos@nik.uni-obuda.hu\
