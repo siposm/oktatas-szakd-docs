@@ -20,7 +20,7 @@ Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek e
 
 Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat I. tárgy menetrendjét, követelményeit és elvárásait`. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
 
-## 1.) Félévi mérföldkövek
+## Félévi mérföldkövek
   - **MK 1.:** 04. hét » hasonló rendszerek elemzése és bemutatása
   - **MK 2.:** 08. hét » kapcsolódó témakörök irodalomkutatása / feldolgozása
   - **MK 3.:** 10. hét » irodalomkutatás összegzése
@@ -39,16 +39,16 @@ Kivételt képez ez alól, ha szól előre az illető, hogy nagy a gáz / kiégt
 
 A mérföldkövek után igyekszem mindenkinek visszajelezni a leadott munkával kapcsolatban, de legkésőbb az utolsó MK után biztosan lesz visszajelzés.
 
-## 2.) A félév tartalma
+## A félév tartalma
 Szakdoga 1.-ben az irodalomkutatáson át a tervezésig kellene eljutni a félév végéig (tehát szakdoga2-őn már egyből neki kell tudni állni a fejlesztésnek), én viszont javasolnám, hogy picit menjünk tovább (ez főleg igaz azokra akik projektmunkát is nálam csinálják, hiszen nekik a pilot alkalmazás már készen van). Jó volna, ha egy nagyon basic demo alkalmazás is lenne, mert akkor nagyjából nekiálltok a feladat megoldásának és lehet már szembejön olyan kardinális probléma, hogy pl. x-y programmal meg se valósítható ez vagy az... és ha ez később jön szembe, akkor nagyon rohamtempóban kell dolgozni, javítani stb., ami senkinek nem jó.
 
-## 3.) Szakdolgozat I. védés
+## Szakdolgozat I. védés
 A félév végén, vizsgaidőszak eleje környékén lesz szakdoga1 bemutató / védés hivatalos keretek között. Ezt megelőzően ha van rá igény, akkor nekem elő lehet adni a prezentációt demó jelleggel. Elmondom az észrevételeket, ezt követően pedig a javítandó részeket még tudjátok finomítani. A hivatalos védést komolyan kell venni, ezen áll vagy bukik ugyanis a tárgy teljesítése. Itt a bizottság a doksit is és az előadást is bírálja. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](presentation/README.md).
 
-## 4.) Feladatkiírási lap
+## Feladatkiírási lap
 A feladatkiírási lap az, amely a hivatalos elvárásokat és cél megfogalmazását tartalmazza a szakdolgozat egészével kapcsolatban. Ennek megírásában számítanék rátok. Első körben ki kellene tölteni [ezt a formot](https://forms.gle/dNMAxvtJK4os3XHn9) ahol kérlek pontosan adjátok meg az adataitokat (fontos, hogy minden úgy legyen ahogy az Neptunban is szerepel). A [mintákhoz](https://github.com/siposm/oktatas-szakd-docs/blob/master/szakd_feladatkiiras_sablon.md) hasonló terjedelemben és fogalmazási stílusban kellene megírni a feladattal kapcsolatban támasztott elvárásokat és elküldeni nekem sima szövegként, Teams privát üzenetben. A kész feladatlapot ezt követően majd előállítom és leadom a Diplomáztatási Csoport irányába. Ezeket majd [innen](https://nik.siposm.hu/szdl/) fogjátok tudni ti is letölteni a félév végén, amikor le kell adnotok a dolgozatot.
 
-## 5.) Javaslat, hogy hogyan írd
+## Javaslat, hogy hogyan írd
 Érdemes már most a sablon ([elérhető az oldalamon](https://nik.siposm.hu/szakd) Hivatalos Szakdolgozat tájékoztató néven) alapján elkezdeni (sorköz, térköz, margók stb. legyenek rendben). Azért lenne jó így haladni, mert akkor nem csak kilóra (karakter- és szószám) látjuk, hogy mennyi, hanem oldalak számára nézve is. Illetve nektek is talán könnyebb, ha már látjátok, hogy vannak fejezetcímek stb. Plusz, a félév végén amúgy is ilyen formázásban kell leadni is a dolgokat.
 
 ### Plágium, lehivatkozások
@@ -103,7 +103,7 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalnyi (releváns) terjedelemmel kell rendelkezzen. Ebbe a 8., 9. és 10. fejezetek által hozott oldalak nem számítanak bele. A 7. fejezet tartalma sem számítandó bele, ugyanis az a rész tekinthető úgy, hogy a Szakdolgozat II.-ről kerül "előrehozásra".
 
-## 6.) Konzultációs napló
+## Konzultációs napló
 Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat majd [innen](https://users.nik.uni-obuda.hu/siposm/szdl/) tudjátok letölteni.
 
 <br><br>
@@ -114,7 +114,7 @@ Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállít
 
 Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat II. tárgy menetrendjét, követelményeit és elvárásait`. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
 
-## 1.) Félévi mérföldkövek
+## Félévi mérföldkövek
   - **MK 0.:** 01. hét » repository létrehozása (lásd lentebbi "repository létrehozása" rész)
   - **MK 1.:** 03. hét » fejlesztés erőteljesen kell, hogy menjen már 3 hete
   - **MK 2.:** 06. hét » minimálisan működő rendszert már kell látni ezen a ponton
@@ -134,7 +134,7 @@ Kivételt képez ez alól, ha szól előre az illető, hogy nagy a gáz / kiégt
 
 A mérföldkövek után igyekszem mindenkinek visszajelezni a leadott munkával kapcsolatban, de legkésőbb az utolsó MK után biztosan lesz visszajelzés.
 
-## 1.1.) Repository létrehozása
+## Repository létrehozása
 A repository létrehozásának a következő a menete:
 - a repót magát én fogom létrehozni a GitHub-on, a megfelelő [group](https://github.com/szakdolgozok-siposm)-on belül
   - ehhez viszont kell, hogy küldjetek egy üzenetet nekem, hogy milyen email címre vagy GitHub account-ra küldhetem a meghívást, ehhez kérlek előtte regisztráljatok be
@@ -146,7 +146,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 
 ![commits example image](commits-example.jpg)
 
-## 2.) Javasolt fejezetcímek
+## Javasolt fejezetcímek
 
 *Folytatva, a szakdolgozat I.-ben abbahagyott sorszámozást.*
 
@@ -181,13 +181,13 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [elvárások](./SZAKD1.md#nettó-terjedelem-oldalszám) (~40 oldal) esetén a kész Szakdolgozat ideálisan 60-65 oldalas kell, hogy legyen. A kevesebb ugyan úgy nem jó, mint a (jelentősen) több! A Hivatalos Szakdolgozat tájékoztató [(link az oldal alján)](https://users.nik.uni-obuda.hu/siposm/szakd) szerint 60 oldal az elvárt, ezt pár oldallal feljebb tudjuk tolni (innen a 65) ha ez szakmailag indokolt a dolgozatban.
 
-## 3.) Konzultációs napló
+## Konzultációs napló
 Ezt majd félév végén egyben letudjuk, én fogom kiállítani, ha mindent rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk.
 
-## 4.) Diplomamunka portál
+## Diplomamunka portál
 A szakdolgozathoz tartozó anyagokat a Diplomáztatási Csoport elvárásai alapján kell majd feltölteni a portálra. Ebben benne van a szakdolgozat digitális verziója (pdf **és** docx egyaránt!), a prezentáció (pdf **és** pptx egyaránt!), valamint minden olyan egyéb kód, forráskód és egyéb, ami a munkát képviseli.
 
-## 5.) Leadás menete (félév vége)
+## Leadás menete (félév vége)
   - Megírjátok a dolgozatot.
   - A félév végén ha minden ok, elfogadom.
   - Átadom a konz. naplót (nem aláírva).
@@ -195,11 +195,11 @@ A szakdolgozathoz tartozó anyagokat a Diplomáztatási Csoport elvárásai alap
   - A lekötött szakdogát visszahozzátok nekem és az utolsó lépés, hogy a konz. naplót aláírom a már bekötött szakdogában.
   - Utána mehettek leadni a Diplomáztatási Csoport irodájába, aminek a határideje emlékeim szerint mindig: 14. szorgalmi hét szerda 15:00-ig bezárólag. Tehát én azt javasolnám, hogy 13. szorgalmi hét végére már 100%-os legyen a munka, hétfőn / kedden nyomtatás és köttetés, szerda leadás. (Megj.: nem tudom, hogy van-e ilyen +1 hét határidő díj ellenében, de nem is szeretnék ezzel foglalkozni; tartsuk magunkat a menetrendhez.)
 
-## 6.) Szakdolgozat köttetés
+## Szakdolgozat köttetés
   - Köttetésnél én a CopyGuru-t javaslom, van egy a Jászai Mari tér környékén, szép munkát csinálnak.
   - Mivel mindenki ilyenkor megy, ezért úgy dolgoznak, hogy 1 nap átfutás van (általában minden helyen 1-2 nap); de van SOS köttetés ami feláras, de akkor instant megcsinálják. 
 
-## 7.) Védés
+## Védés
 Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalosan a szakdoga2 leadását követné a záróvizsga, ahol hasonlóan, mint szd1 esetén meg kell védeni és elő kell adni a dolgozatot amin dolgoztál. Természetesen a záróvizsga ideje csúszhat, ha te nem éppen akkor végzel. A védéshez szükséges szintén egy prezentáció, csak úgy mint szd1 esetén, erről mindenkivel egyeztetek majd ha ott tartunk. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](presentation/README.md).
 
 <br><br>
