@@ -165,7 +165,7 @@ Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat II. t
   - **MK 3.:** 10. hét » a fejlesztéssel nagyjából készen kell lenni, a legtöbb funkciónak működnie kell; a 11. héten már a tesztelésre kell rátérni
   - **MK 4.:** 12. hét » fejlesztés és tesztelés kész, dokumentálás végső simításait kell elvégezni
 
-Adott hét `vasárnapjának 23:59 percéig` szeretném Teams privát üzenet formájában megkapni a szakdoga aktuális (és az előzőhöz képest előrehaladottabb) változatát. Az üzenetben vázlatpontokban szívesen venném, ha fel lenne tüntetve, hogy mi került bele pluszként az előzőhöz képest. Ha a doksiban esetleg sárga háttérrel megjelölitek az is teljesen rendben van. A lényeg az lenne, hogy átnézve könnyen lássam egyből mi az inkrementum. Ha a dokumentum nem módosult -- ami a fejlesztés szakaszban előfordulhat -- akkor "új" verziót nem szükséges küldeni, ez esetben viszont kérném, hogy a küldött emailben felsorolás-szerűen (!) legyen ott, hogy mivel haladtatok / mi van még hátra / milyen problémák merültek fel.
+Adott hét `vasárnapjának 23:59 percéig` szeretném Teams privát üzenet formájában megkapni a szakdoga aktuális (és az előzőhöz képest előrehaladottabb) változatát. Az üzenetben vázlatpontokban szívesen venném, ha fel lenne tüntetve, hogy mi került bele pluszként az előzőhöz képest. Ha a doksiban esetleg sárga háttérrel megjelölitek az is teljesen rendben van. A lényeg az lenne, hogy átnézve könnyen lássam egyből mi az inkrementum. Ha a dokumentum nem módosult -- ami a fejlesztés szakaszban előfordulhat -- akkor "új" verziót nem szükséges küldeni, ez esetben viszont kérném, hogy a küldött üzenetben felsorolás-szerűen (!) legyen ott, hogy mivel haladtatok / mi van még hátra / milyen problémák merültek fel.
 
 Küldéskor pdf verziót küldjetek.\
 A küldött dokumentum neve ez legyen: `SZD2_MK[#]_[NEPTUN]_[TELJES-NÉV].pdf`
@@ -184,7 +184,7 @@ A repository létrehozásának a következő a menete:
   - ehhez viszont kell, hogy küldjetek egy üzenetet nekem, hogy milyen email címre vagy GitHub account-ra küldhetem a meghívást, ehhez kérlek előtte regisztráljatok be
 - ezt követően a repóhoz developer-ként meghívást fogok küldeni
 
-Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a [projektmunkázó csoportból](https://github.com/projektmunkazok-siposm) a [szakdolgozó csoportba](https://github.com/szakdolgozok-siposm). Tehát újat nem kell majd létrehozni. A szükséges módosításokról majd emailben értesítek mindenkit.
+Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a [projektmunkázó csoportból](https://github.com/projektmunkazok-siposm) a [szakdolgozó csoportba](https://github.com/szakdolgozok-siposm). Tehát újat nem kell majd létrehozni. A szükséges módosításokról majd Teams-en értesítek mindenkit.
 
 A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén szeretnék látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről-hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
 
