@@ -112,11 +112,16 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 ### Javasolt fejezetcímek:
     
 1. **`Absztrakt`**
-    - rövid, háromnegyed oldalas kivonata a teljes dolgozat tartalmának
+    - rövid, háromnegyed oldalas **kivonata** a teljes dolgozat tartalmának
+    - az absztrakt tartalmazza majd a Szakdolgozat II. tárgyon véglegesített dokumentum **teljes** tartalmát, tehát az elért eredményeket is, röviden, tényszerűen tőmondatokban
 2. **`Abstract`**
     - ugyan az, angolul
 3. **`Bevezetés`** (max 2 oldal)
-    - bevezető leírása a teljes dolgozatnak / ismertető, hogy miről lesz szó / a cél megfogalmazása
+    - bevezető leírása a teljes dolgozatnak
+      - ismertető, hogy miről lesz szó
+      - a cél megfogalmazása
+      - motiváció a probléma megoldására
+    - (szemben az absztrakttal, ebben nincsenek benne az elért eredmények, tehát ténylegesen csak egy kedvcsináló, bevezető (~trailer) a teljes dolgozathoz)
 4. **`Irodalomkutatás`** (~ 20 - 25 oldal)
     - **Hasonló rendszerek** (ez fix fejezet)
         - azon belül a vizsgált rendszerek bemutatása és levont következtetések
