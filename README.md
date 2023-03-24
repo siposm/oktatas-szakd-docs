@@ -125,10 +125,18 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 4. **`Irodalomkutatás`** (~ 20 - 25 oldal)
     - **Hasonló rendszerek** (ez fix fejezet)
         - azon belül a vizsgált rendszerek bemutatása és levont következtetések
+        - a fejezet végén legyen egy táblázatos összefoglalása a vizsgált rendszereknek
+        - a táblázatban legyenek benne a szempontok, hogy mik alapján hasonlítottad össze a rendszereket, majd a szempontok alapján pontozd az egyes rendszereket
+        - a szempontok természetesen minden szakdolgozat téma esetén mások, szubjektívek az adott témára vonatkozó hasonló rendszereket illetően
+        - a szempontok pl. olyanok legyenek, amelyek alapján a saját készítendő rendszeredet értékelni szeretnéd
+        - a táblázat további célja, hogy egyértelműen (számszerűen!) kiderüljön, hogy mely funkciók érhetők el a vizsgált hasonló rendszerekben és ha elérhetők akkor mennyire működnek jól
     - egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
     - egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
     - ...
     - egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
+      - ilyen témák azok, amelyek kapcsolódnak a te munkádhoz
+        - szoftverfejlesztés esetén pl. lehet írni a Git-ről és különböző workflow-król, elemezni azokat, hogy melyiket fogod választani
+        - különböző algoritmusok amelyeket a szakterületen alkalmaznak (pl. képfeldolgozó vagy útkereső algoritmusok)
     - **Összegzés** (ez fix fejezet)
         - összefoglalása az irodalomkutatásnak, mire jutottunk, ez alapján mit fogok csinálni a megvalósítás kapcsán
 5. **`Követelmény specifikáció`** (~ 1 oldal)
