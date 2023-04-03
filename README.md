@@ -345,6 +345,8 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
 ![teszt](testing/teszt1.png)
 ![teszt](testing/teszt2.png)
 ![teszt](testing/teszt3.png)
+#### Buzási Simon
+![teszt](testing/teszt4.png)
 
 <br><br>
 <br><br>
