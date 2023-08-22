@@ -161,7 +161,9 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalnyi (releváns) terjedelemmel kell rendelkezzen. Ebbe a 8., 9. és 10. fejezetek által hozott oldalak nem számítanak bele. A 7. fejezet tartalma sem számítandó bele, ugyanis az a rész tekinthető úgy, hogy a Szakdolgozat II.-ről kerül "előrehozásra".
 
 ## Konzultációs napló
-Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat majd [innen](https://users.nik.uni-obuda.hu/siposm/szdl/) tudjátok letölteni.
+Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat személyesen kell átvenni a félév végén tőlem, majd ezt le is kell adjátok a szakdolgozat feltöltésekor, mint bizonyíték, hogy a konzulens jóváhagyta a féléves munkát.
+
+Kérek mindenkit, hogy a naplóra nagyon vigyázzon, mert majd a leköttetéskor (szakdoga 2 végén) ugyan ezt a példányt kell vinni és a szakdolgozatba belekötni. Ha összegyűrődik, eltűnik stb. akkor baj van.
 
 <br><br>
 <br><br>
@@ -239,7 +241,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [elvárások](#nettó-terjedelem-oldalszám) (~40 oldal) esetén a kész Szakdolgozat ideálisan 60-65 oldalas kell, hogy legyen. A kevesebb ugyan úgy nem jó, mint a (jelentősen) több! A Hivatalos Szakdolgozat tájékoztató [(link az oldal alján)](https://users.nik.uni-obuda.hu/siposm/szakd) szerint 60 oldal az elvárt, ezt pár oldallal feljebb tudjuk tolni (innen a 65) ha ez szakmailag indokolt a dolgozatban.
 
 ## Konzultációs napló
-Ezt majd félév végén egyben letudjuk, én fogom kiállítani, ha mindent rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk.
+Ugyan az igaz rá, mint szakdolgozat 1 esetén. A félévi mérföldköveket dokumentálja hivatalosan. Személyesen tőlem lehet átvenni majd a félév végén, amit aztán majd bele kell köttetni a dolgozatba.
 
 ## Diplomamunka portál
 A szakdolgozathoz tartozó anyagokat a Diplomáztatási Csoport elvárásai alapján kell majd feltölteni a portálra. Ebben benne van a szakdolgozat digitális verziója (pdf **és** docx egyaránt!), a prezentáció (pdf **és** pptx egyaránt!), valamint minden olyan egyéb kód, forráskód és egyéb, ami a munkát képviseli.
