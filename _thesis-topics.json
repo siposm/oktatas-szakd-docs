@@ -1,0 +1,12 @@
+[
+    {
+        "title": "title 1",
+        "description": "lorem",
+        "taken": false
+    },
+    {
+        "title": "title 2",
+        "description": "ipsum dolor sit amet\nthis is on a new line",
+        "taken": true
+    }
+]
