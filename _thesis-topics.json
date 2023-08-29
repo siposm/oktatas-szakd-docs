@@ -1,12 +1,17 @@
 [
     {
         "title": "ChatGPT integrálása chatbot alkalmazásba",
-        "description": "A feladat egy olyan chatbot létrehozása ami a chatGPT-t felhasználva (proxy tervezési mintához hasonlóan) segíti a felhasználót egy webalkalmazásban.\n\nRészletekért egyeztetés szükséges.\n\nElvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
+        "description": "A feladat egy olyan chatbot létrehozása ami a chatGPT-t felhasználva (proxy tervezési mintához hasonlóan) segíti a felhasználót egy webalkalmazásban.<br>Részletekért egyeztetés szükséges.<br>Elvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
         "taken": false
     },
     {
         "title": "ChatGPT és Google translate fordítási eredményeinek összehasonlítása",
-        "description": "A feladat, hogy hasonlítsa össze a Google translate (és egyéb fordító programok) által adott eredményeket a chatGPT által adott fordításokkal. A cél a fordított szöveg pontosságának elemzése, értékelése szemantikai szempontból.\n\nRészletekért egyeztetés szükséges.\n\nElvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
+        "description": "A feladat, hogy hasonlítsa össze a Google translate (és egyéb fordító programok) által adott eredményeket a chatGPT által adott fordításokkal. A cél a fordított szöveg pontosságának elemzése, értékelése szemantikai szempontból.<br>Részletekért egyeztetés szükséges.<br>Elvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
+        "taken": true
+    },
+    {
+        "title": "Tananyag értékelő platform",
+        "description": "A feladat elkészíteni egy olyan platformot, ahol moderátorok és céges partnerek tudnak tananyagokat kiírni, majd a hallgatók ezeket tudják értékelni hasznosság és egyéb szempontok alapján. A cél, hogy egy olyan értékelőrendszer legyen elérhető, ahol oktatótól függetlenül, csak a tananyagot, annak hasznosságát lehet vizsgálni és mérni egyetemi és ipari vonatkozásban. Hozzon létre egy CRUD felület ahol be lehet lépni a fentebb felsorolt szerepkörökben. A moderátor tananyagot tud felvinni, és minden meglévő dolgot módosítani. Céges képviselők tananyagokat tudnak kiírni. Hallgatók pedig csak értékelni tudják a tananyagokat. Értékelés alatt 1-5 csillaggal jelzett skálán lehet értékelni, illetve szöveges tartalmat is meg lehet/kell adni.<br>Elvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
         "taken": true
     }
 ]
