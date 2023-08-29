@@ -1,12 +1,12 @@
 [
     {
-        "title": "title 1",
-        "description": "lorem",
+        "title": "ChatGPT integrálása chatbot alkalmazásba",
+        "description": "A feladat egy olyan chatbot létrehozása ami a chatGPT-t felhasználva (proxy tervezési mintához hasonlóan) segíti a felhasználót egy webalkalmazásban.\n\nRészletekért egyeztetés szükséges.\n\nElvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
         "taken": false
     },
     {
-        "title": "title 2",
-        "description": "ipsum dolor sit amet\nthis is on a new line",
+        "title": "ChatGPT és Google translate fordítási eredményeinek összehasonlítása",
+        "description": "A feladat, hogy hasonlítsa össze a Google translate (és egyéb fordító programok) által adott eredményeket a chatGPT által adott fordításokkal. A cél a fordított szöveg pontosságának elemzése, értékelése szemantikai szempontból.\n\nRészletekért egyeztetés szükséges.\n\nElvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
         "taken": true
     }
 ]
