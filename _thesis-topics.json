@@ -1,5 +1,10 @@
 [
     {
+        "title": "Szakmai hallgatói közösségépítésre szolgáló platform létrehozása",
+        "description": "A feladat egy olyan platform létrehozása, ahol a hallgatók gamifikációs formában tudnak szakmaileg előremutató kapcsolatokat építeni jelenlegi hallgatótársaikkal. A rendszerben legyen lehetőség biztonságos, titkosított módon a hallgatóknak egymást értékelni. Dolgozzon ki egy rendszert, amiben a jó értékelést kapott hallgatók valamilyen módon kapcsolatba tudnak kerülni (tehát a kilétük felfedődik) az őket pozitívan értékelőkkel. Így az egymástól kapott elismerő szavakat akár valós szakmai közösségi profilokon is beválthatják pl. LinkedIn-en.<br><br>A megvalósítás folyamán használjon modern CSS keretrendszereket (pl. material ui, tailwind css, bootstrap) és ehhez ideálisan választott frontend keretrendszert (pl. vue, angular). A rendszerhez szükséges backend-et javasolt dotnet környezetben elkészíteni.",
+        "taken": false
+    },
+    {
         "title": "ChatGPT integrálása chatbot alkalmazásba",
         "description": "A feladat egy olyan chatbot létrehozása ami a chatGPT-t felhasználva (proxy tervezési mintához hasonlóan) segíti a felhasználót egy webalkalmazásban.<br><br>Részletekért, bővebb információért egyeztetés szükséges.<br><br>Elvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
         "taken": false
@@ -15,6 +20,16 @@
         "taken": true
     },
     {
+        "title": "Digitális identitáskezelő rendszer blokklánc használatával",
+        "description": "A blokklánc a digitális identitás felépítését lehetővé tevő technológia, amely decentralizált és biztonságos környezetet kínál. Hozzon létre egy C# alapú alkalmazást amiben okosszerződéseken (ehhez használja fel a Microsoft által biztosított SmartContract osztályt) keresztül, legyen lehetőség a rendszerbe felhasználóknak saját magukról adatokat rögzíteni. Ezen adatokat aztán egyéb alkalmazások, cégek, stb. el tudnak kérni.",
+        "taken": false
+    },
+    {
+        "title": "Chat alkalmazás létrehozása blokkláncon",
+        "description": "A feladat egy olyan alkalmazás megalkotása amelyben két fél tud kommunikálni egymással, hasonlóan mint emailváltás esetén, viszont az egyes üzeneteket blokklánc és okosszerződés segítségével tárolja el, így biztonságossá téve az alkalmazást adatmanipuláció ellen.",
+        "taken": false
+    },
+    {
         "title": "Influenszer követő-like korreláció vizsgálata, elemzése",
         "description": "A feladat megvizsgálni, hogy adott influenszer követőszáma és a posztokra adott like-ok száma (és kommentek száma) között milyen korreláció van. Ehhez készítsen egy olyan rendszert, ahol influenszer profil linket lehet megadni, ezt követően a rendszer a szükséges elemzéseket a háttérben lefuttatja, majd az eredményt megjeleníti.<br><br>Elvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
         "taken": false
@@ -27,11 +42,6 @@
     {
         "title": "Közösségi profilok kapcsolatának gráfalapú reprezentációja",
         "description": "A feladat, egy olyan rendszer elkészítése amely begyűjtött közösségi profilokról szóló adatokat gráf-alapú reprezentációban rendez el, oly módon, hogy a kapcsolatok az egyes csomópontok (profilok) között valamilyen vonatkozásban összefüggnek a közösségi profilokkal. Például A személy követi B személyt, akkor A->B irányított kapcsolatról beszélhetünk. A rendszer legyen képes pillanatképeket is készíteni ezekről, így időben visszamenőleg 2 állapot (gráf) összehasonlítható kell legyen.",
-        "taken": true
-    },
-    {
-        "title": "Szakmai hallgatói közösségépítésre szolgáló platform létrehozása",
-        "description": "A feladat egy olyan platform létrehozása, ahol a hallgatók gamifikációs formában tudnak szakmaileg előremutató kapcsolatokat építeni jelenlegi hallgatótársaikkal. A rendszerben legyen lehetőség biztonságos, titkosított módon a hallgatóknak egymást értékelni. Dolgozzon ki egy rendszert, amiben a jó értékelést kapott hallgatók valamilyen módon kapcsolatba tudnak kerülni (tehát a kilétük felfedődik) az őket pozitívan értékelőkkel. Így az egymástól kapott elismerő szavakat akár valós szakmai közösségi profilokon is beválthatják pl. LinkedIn-en.<br><br>A megvalósítás folyamán használjon modern CSS keretrendszereket (pl. material ui, tailwind css, bootstrap) és ehhez ideálisan választott frontend keretrendszert (pl. vue, angular). A rendszerhez szükséges backend-et javasolt dotnet környezetben elkészíteni.",
         "taken": true
     }
 ]
