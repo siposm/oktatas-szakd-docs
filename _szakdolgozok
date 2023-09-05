@@ -1,5 +1,5 @@
 @Kerékpár személyre szabását segítő alkalmazás valósidejű képfeldolgozás felhasználásával#Konyári László
-@Adaptív mesterséges intelligencia fejlesztés 3D szimulációs tesztkörnyezetben objektumok vezérléséhez#Kaló Áron
+Adaptív mesterséges intelligencia fejlesztés 3D szimulációs tesztkörnyezetben objektumok vezérléséhez#Kaló Áron
 Testhőmérséklet mérő beléptetőrendszer készítése deep learning alapú maszkfelismeréssel#Tóth Krisztián
 Autókölcsönzők ajánlatainak összesítésére létrehozott webapplikáció, web scraping segítségével#Lengyel Tamás
 Hangalapú csoportmunkát támogató webalkalmazás készítése#Riczu Csaba
@@ -30,3 +30,10 @@ Zene streaming Angular alkalmazás geodata támogatással#Szanyi Szabolcs
 Valós idejű csomagfutár webalkalmazás Angular-ban#Borossa Zoltán
 Otthonápolás digitalizálása a betegbiztonságért#Bognár Bence
 ChatGPT integrálása chatbottal rendelkező webalkalmazásba#Acsai András
+Lakótárs értékelő alkalmazás hallgatóknak Angular keretrendszerben#Sörös Bence
+Blokklánc alapú orvos értékelő rendszer Metamask integrációval#Pongor Péter
+YouDo: Teendő és időmenedzsment alkalmazás Angular-ban#Molnár Ákos Benedek
+Egyetemi navigációs fullstack alkalmazás fejlesztése#Gyöngyösi Dávid
+Webalkalmazásba integrált biztonságos felhasználói azonosítás blokkláncon#Schäffer Tamás
+Edzésterv kezelő Angular alkalmazás blokklánc adattárolással, ASP.NET backenddel#Szalai István Dávid
+ChatGPT alapú tanulástámogató rendszer#Rajnai Gábor
