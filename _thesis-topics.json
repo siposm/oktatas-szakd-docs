@@ -12,7 +12,7 @@
     {
         "title": "ChatGPT és Google translate fordítási eredményeinek összehasonlítása",
         "description": "A feladat, hogy hasonlítsa össze a Google translate (és egyéb fordító programok) által adott eredményeket a chatGPT által adott fordításokkal. A cél a fordított szöveg pontosságának elemzése, értékelése szemantikai szempontból.<br><br>Elvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Tananyag értékelő platform",
@@ -22,7 +22,7 @@
     {
         "title": "Digitális identitáskezelő rendszer blokklánc használatával",
         "description": "A blokklánc a digitális identitás felépítését lehetővé tevő technológia, amely decentralizált és biztonságos környezetet kínál. Hozzon létre egy C# alapú alkalmazást amiben okosszerződéseken (ehhez használja fel a Microsoft által biztosított SmartContract osztályt) keresztül, legyen lehetőség a rendszerbe felhasználóknak saját magukról adatokat rögzíteni. Ezen adatokat aztán egyéb alkalmazások, cégek, stb. el tudnak kérni.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Chat alkalmazás létrehozása blokkláncon",
