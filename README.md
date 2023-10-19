@@ -114,18 +114,25 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 
 ### Javasolt fejezetcímek:
     
-1. **`Absztrakt`**
+- **`Absztrakt`**
+    - sorszámozás nélküli fejezet
     - rövid, háromnegyed oldalas **kivonata** a teljes dolgozat tartalmának
     - az absztrakt tartalmazza majd a Szakdolgozat II. tárgyon véglegesített dokumentum **teljes** tartalmát, tehát az elért eredményeket is, röviden, tényszerűen tőmondatokban
-2. **`Abstract`**
+- **`Abstract`**
+    - sorszámozás nélküli fejezet
     - ugyan az, angolul
-3. **`Bevezetés`** (max 2 oldal)
+- **`Tartalomjegyzék`**
+    - sorszámozás nélküli fejezet
+    - a következő fejezeteket tartalmazó tartalomjegyzék
+    - harmadik szintű mélységig jelenjenek meg a fejezetek nevei és a hozzá tartozó oldalszámok (jó az, amit a Word/LaTeX generál)
+- **`Bevezetés`** (max 2 oldal)
+    - innen induljon a fejezetek sorszámozása, tehát ez az 1. fejezet
     - bevezető leírása a teljes dolgozatnak
       - ismertető, hogy miről lesz szó
       - a cél megfogalmazása
       - motiváció a probléma megoldására
     - (szemben az absztrakttal, ebben nincsenek benne az elért eredmények, tehát ténylegesen csak egy kedvcsináló, bevezető (~trailer) a teljes dolgozathoz)
-4. **`Irodalomkutatás`** (~ 20 - 25 oldal)
+- **`Irodalomkutatás`** (~ 20 - 25 oldal)
     - **Hasonló rendszerek** (ez fix fejezet)
         - azon belül a vizsgált rendszerek bemutatása és levont következtetések
         - a fejezet végén legyen egy táblázatos összefoglalása a vizsgált rendszereknek
@@ -142,9 +149,9 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
         - különböző algoritmusok amelyeket a szakterületen alkalmaznak (pl. képfeldolgozó vagy útkereső algoritmusok)
     - **Összegzés** (ez fix fejezet)
         - összefoglalása az irodalomkutatásnak, mire jutottunk, ez alapján mit fogok csinálni a megvalósítás kapcsán
-5. **`Követelmény specifikáció`** (~ 1 oldal)
+- **`Követelmény specifikáció`** (~ 1 oldal)
     - definiálni, hogy mik azok a szempontok, amiket elvárunk a rendszertől
-6. **`Tervezés`** (~ 10 oldal)
+- **`Tervezés`** (~ 10 oldal)
     - készítendő rendszer megtervezése
     - rendszerterv: (ez fix fejezet) 
         - ahol minden mindennel kommunikál, egyben legyen látható az egész szakdoga (=fejlesztendő rendszer) tartalma
@@ -155,10 +162,10 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
     - fejlesztés tervezett menete: (ez fix fejezet)
         - legyen egy konkrét roadmap vagy Gantt-diagram alapú szemléltetése annak, hogy honnan fogod kezdeni a szakdoga2-őt és abban milyen sorrendben és milyen lépésekkel fogsz haladni
     - bővebben, ábrákkal szemléltetett leírás a tervezésről [itt olvasható](#tervezés)
-7. ***`Fejlesztés`**: ha van rá idő, egy minimálisan működő demó rendszer elkészítése*
-8. **`Irodalomjegyzék`**
-9. **`Ábrajegyzék`**
-10. **`Táblajegyzék`** (ha van)
+- ***`Fejlesztés`**: ha van rá idő, egy minimálisan működő demó rendszer elkészítése*
+- **`Irodalomjegyzék`**
+- **`Ábrajegyzék`**
+- **`Táblajegyzék`** (ha van)
 
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalnyi (releváns) terjedelemmel kell rendelkezzen. Ebbe a 8., 9. és 10. fejezetek által hozott oldalak nem számítanak bele. A 7. fejezet tartalma sem számítandó bele, ugyanis az a rész tekinthető úgy, hogy a Szakdolgozat II.-ről kerül "előrehozásra".
@@ -212,30 +219,30 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 
 *Folytatva, a szakdolgozat I.-ben abbahagyott sorszámozást.*
 
-7. **`Fejlesztés`** (~ 10 oldal)
+- **`Fejlesztés`** (~ 10 oldal)
     - itt majdhogynem fejlesztési naplóként nyugodtan le lehet írni a dolgokat, annyi megkötéssel/javaslattal, hogy:
     - minden apró-cseprő dolgot ne írjatok bele, törekedjetek a fontos dolgokat kiemelni; mindenképpen ilyen egy-egy probléma amibe belefutottatok, ami kapcsán aztán hoztatok egy döntést (ugye egy mérnök sok szívással szembesül, azok közül mérlegel, döntést hoz és halad tovább >> ezt volna jó viszont olvasni a dolgozatban is)
-8. **`Tesztelés`** (~ 5 oldal)
+- **`Tesztelés`** (~ 5 oldal)
     - elengedhetetlen része a Szakdolgozatnak; enélkül nem fogom elfogadni a Szakdolgozat 2-őt senkinek (hovatovább, záróvizsgán is sanszos ez)
     - a lényeg, hogy meggyőződjünk arról, hogy amit csináltunk az jó-e / működik-e
     - kicsit nézzetek utána, hogy milyen tesztek vannak (ezeket egyébként utólagosan az ir.kut-ba is nyugodtan bele lehet tenni)
       - amit sw fejlsztés esetén mindig elő lehet kapni: unit teszt, manuális teszt, funkcionális teszt >> ezekhez többé kevésbé vannak dedikált tool-ok / keretrendszerek, nézzetek utána és válasszatok (a döntési folyamatot itt is lehet dokumentálni)
     - tesztelésről bővebben [itt írok](#tesztelés)
-9. **`Értékelés`** (2 oldal)
+- **`Értékelés`** (2 oldal)
     - „miután lefejlesztettem amit kértek tőlem
     - és leteszteltem, hogy azt csinálja-e amit kértek tőlem
     - értékelem, hogy az elvárásokhoz képest mit tud / nem tud / miben tud többet”
-10. **`Továbbfejlesztési lehetőségek`** (1 oldal)
+- **`Továbbfejlesztési lehetőségek`** (1 oldal)
     - milyen potenciális dolgokat látsz benne még, amire nem jutott idő / energia , de nagyon jó lenne ha még benne lenne
     - az ötletek megalapozottak legyenek, ne légbőlkapottak
-11. **`Összegzés`** (3/4 oldal)
+- **`Összegzés`** (3/4 oldal)
     - rövid összefoglalás a dolgozatról, eredmények bemutatása
     - nagyon hasonló, mint az absztrakt, sok esetben vele megegyezik (viszont akinél megegyezik ott javasolt csak az egyiket megtartani)
     - attól függően, hogy absztrakt vagy befejezés van, kell egy magyar és egy angol verzió is (ha van mind a kettő, akkor az absztrakt legyen a magyar, és utána egy 'abstract' ami angol, a befejezés meg sima magyar)
-12. **`Irodalomjegyzék`**
-13. **`Ábrajegyzék`**
-14. **`Táblajegyzék`** (ha van)
-15. **`Mellékletek`** (ha van)
+- **`Irodalomjegyzék`**
+- **`Ábrajegyzék`**
+- **`Táblajegyzék`** (ha van)
+- **`Mellékletek`** (ha van)
     - aki olyan rendszert csinált ami online, ott javasolt mellékletekben megadni, hogy hol és hogyan érhető el a rendszer, milyen login adatokkal stb.
     - akinél nem ilyen dologról van szó, ott pedig leírni azokat a lépéseket ahogy a rendszert be lehet üzemelni
     - a kész rendszerről képeket, funkciók bemutatását képekkel is ide kell elhelyezni és röviden leírni, hogy mit látunk 
