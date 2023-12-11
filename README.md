@@ -395,7 +395,7 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
         - hallgató neptunkód
         - hallgató törzsszám
         - végzés féléve
-        - konzulens neve és titulusa
+        - konzulens neve és titulusa (a lentebbi minta borító képek régebben készültek, jelenleg "Egyetemi Tanársegéd" a titulusom)
         - szakirány megnevezése ahova jársz (teljes kiírás)
         
 ### Amit érdemes kerülni
