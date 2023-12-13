@@ -2,9 +2,11 @@
 .\
 .
 
-### Figyelem! Jelen útmutató illetve követelményleírás csak Sipos Miklós szakdolgozói számára vonatkozik.
+### Figyelem!
 
-Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek eltérhetnek!
+* Jelen útmutató, illetve követelményleírás csak Sipos Miklós szakdolgozói számára vonatkozik.
+* Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek eltérhetnek.
+* A repót csillagozzátok be és kövessetek be GitHubon, hogy lássátok a frissítéseket. Plusz nagyon sokan olvassátok a doksit annak ellenére, hogy nem nálam szakdolgoztok, így amolyan "like" funkciónak is nézem.
 
 .\
 .
@@ -106,6 +108,24 @@ A félév végén, de legkésőbb Szakdolgozat II. leadást követően -- még z
 
 Az alábbi képen bal oldalt látható a végső számérték, lebontva, hogy mely forrásokból történt a plagizálás; jobb oldalt pedig a leadott dolgozat oldalanként végigvezetve (amelyből csak 1 oldalt emeltem most ki) és kiemelve, hogy mely részek, mettől-meddig számítanak plagizálásnak.
 
+#### Irodalom lehivatkozása
+
+A felhasznált irodalmakat (ahol törekedni kell a könyvek, folyóiratok, cikkek felhasználására, szemben random netes linkekkel) forrásként le is kell hivatkozni. Ezt azt jelenti, hogy a dolgozatban bizonyos részeknél amikor állítást fogalmaztok meg oda kell rakni, hogy ezt az állítást milyen forrásból szedted, mivel támasztod alá. Például, ha azt állítom, hogy a Vue a leggyorsabb keretrendszer akkor ezt alá kell tudjam támasztani valamilyen statisztikai adattal ami mondjuk az elmúlt 1 évben jelent meg lehetőség szerint valamilyen könyvben, vagy hivatalosnak tekinthető forrásban.
+
+A lehivatkozásokat IEEE formában kell megtenni. Egy magyarázó link alább található a "Javasolt fejezetcímek / Irodalomjegyzék" részben.
+
+#### Ábrák lehivatkozása
+
+A folyószövegben az dolgozatba berakott ábrákat le kell hivatkozni! Ennek egyik része az, hogy a szövegben konkrétan bele kell írni azt, amikor valami olyanról írunk, amihez / ami miatt az adott ábrát beraktuk. Ekkor jelenjen meg a szövegben pl. a következő: "... ahogy az a(z) X. ábrán látható", ahol X az adott ábra sorszáma lesz. Ez kiváltható azzal is, ha zárójelben odaírjuk a mondat végére, hogy: "(X. ábra)"
+
+A lehivatkozás másik része, hogy az ábrának forrását meg kell jelölni, mint az irodalom lehivatkozása esetén. Erről alább, a "Javasolt fejezetcímek / Ábrajegyzék" részben írok.
+
+Az ábrákat a dolgozatba berakva olyan stílusban kell használni, hogy felette / alatta legyen szöveg, ilyen szöveg-körbefuttatás ne legyen. Mondatot ne vágjon ketté ábra.
+
+Az ábráknak legyen egy sorszáma, amely csak simán egyszintű legyen (tehát 1-től indul és n-ig tart), ne pedig fejezetenként újrainduló.
+
+Az ábra címe mindig úgy épüljön fel, hogy: "X. ábra: Valami rövidebb vagy hosszabb magyarázó mondat arról, hogy éppen mit látunk a képen és ez miért fontos. Nyugodtan lehet akár két mondatot is írni!" Tehát legyen egy sorszám, utána pont, majd az a szó, hogy ábra, majd egy kettősponttal legyen elválasztva a rövidebb vagy hosszabb magyarázó szöveg.
+
 ![plagiarism example output](./plagium.jpg)
 
 ### Szerkesztő
@@ -181,6 +201,12 @@ Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállít
 
 Kérek mindenkit, hogy a naplóra nagyon vigyázzon, mert majd a leköttetéskor (szakdoga 2 végén) ugyan ezt a példányt kell vinni és a szakdolgozatba belekötni. Ha összegyűrődik, eltűnik stb. akkor baj van.
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
@@ -283,6 +309,12 @@ Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalos
 <br><br>
 <br><br>
 <br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 # Tervezés
 
@@ -372,13 +404,20 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
 <br><br>
 <br><br>
 <br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 # Prezentáció, védés, beszámoló
 
 ## Szakdolgozat I.-re vonatkozó információk
 
 ### Általános információk
-- 10 perces előadással készüljetek (a 10 percet **nagyon** komolyan vegyétek), de a hivatalos tájékoztató ettől eltérhet, így van, hogy csak 8 perc áll rendelkezésre
+- általában 8-10 perces előadással készüljetek, de a hivatalos, adott félévre vonatkozó tájékoztató ettől eltérhet, így van, hogy csak 8, vagy akár csak 5 perc áll rendelkezésre
+- az előadást úgy kell tudni felépíteni, hogy ha a helyszínen derül ki, hogy csak 5 perc áll rendelkezésre, akkor bizonyos részeket tudj rövidebben elmondani amik amúgy nem annyira lényegesek
 - a tartalom tükrözze a féléves munkátokat
     - mivel eddig (sokatoknál) csak irodalomkutatás van, leginkább egy "fejtágító" dologról lesz szó
     - DE már van rendszerterv, specifikáció stb. azokat nyugodtan bele lehet tenni és beszélni róluk
@@ -419,7 +458,7 @@ A [hivatalos szakdolgozat tájékoztató weboldalon](https://to.nik.uni-obuda.hu
 ## Szakdolgozat II.-re vonatkozó információk
 Nagyon hasonló a helyzet mint Szakdolgozat I. esetén, ami a változás: **elkészült a rendszer**. Ebből adódóan erről a kész rendszerről kell 60-70%-ban beszélni, és ami korábban szd1 beszámolóban volt az értelemszerűen redukálódni fog, ez megmarad 40-30%-ban.
 
-A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján 3 perc bevezető (~szd1) és 7 perc eredmények bemutatása. (A 10 perces intervallum félévenként esetleg eltérhet. Vagy 10 vagy 15 perces blokkok szoktak lenni, erről a hivatalos tájékoztató emailben kell legyen információ. Ha nincs, kérdezzetek inkább rá.)
+A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján 3 perc bevezető (~szd1) és 7 perc eredmények bemutatása. (A 10 perces intervallum félévenként esetleg eltérhet. Vagy 10 vagy 15 perces blokkok szoktak lenni (de előfordulhat 8 perc is akár szintén), erről a hivatalos tájékoztatóban kell legyen információ. Ha nincs, kérdezzetek inkább rá.)
 
 ### Legyen bemutatva
 - szakd1-ről a bevezetése a témádnak, probléma felvetése és hogy mit készítettél, milyen eszközöket esetleg programnyelveket használtál (ez legyen tempós és gyors, nem ez a lényeg hanem a munka, lásd további pontok)
