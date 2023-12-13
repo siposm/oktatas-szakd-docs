@@ -108,6 +108,8 @@ A félév végén, de legkésőbb Szakdolgozat II. leadást követően -- még z
 
 Az alábbi képen bal oldalt látható a végső számérték, lebontva, hogy mely forrásokból történt a plagizálás; jobb oldalt pedig a leadott dolgozat oldalanként végigvezetve (amelyből csak 1 oldalt emeltem most ki) és kiemelve, hogy mely részek, mettől-meddig számítanak plagizálásnak.
 
+![plagiarism example output](./plagium.jpg)
+
 #### Irodalom lehivatkozása
 
 A felhasznált irodalmakat (ahol törekedni kell a könyvek, folyóiratok, cikkek felhasználására, szemben random netes linkekkel) forrásként le is kell hivatkozni. Ezt azt jelenti, hogy a dolgozatban bizonyos részeknél amikor állítást fogalmaztok meg oda kell rakni, hogy ezt az állítást milyen forrásból szedted, mivel támasztod alá. Például, ha azt állítom, hogy a Vue a leggyorsabb keretrendszer akkor ezt alá kell tudjam támasztani valamilyen statisztikai adattal ami mondjuk az elmúlt 1 évben jelent meg lehetőség szerint valamilyen könyvben, vagy hivatalosnak tekinthető forrásban.
@@ -116,17 +118,15 @@ A lehivatkozásokat IEEE formában kell megtenni. Egy magyarázó link alább ta
 
 #### Ábrák lehivatkozása
 
-A folyószövegben az dolgozatba berakott ábrákat le kell hivatkozni! Ennek egyik része az, hogy a szövegben konkrétan bele kell írni azt, amikor valami olyanról írunk, amihez / ami miatt az adott ábrát beraktuk. Ekkor jelenjen meg a szövegben pl. a következő: "... ahogy az a(z) X. ábrán látható", ahol X az adott ábra sorszáma lesz. Ez kiváltható azzal is, ha zárójelben odaírjuk a mondat végére, hogy: "(X. ábra)"
+A folyószövegben az dolgozatba berakott ábrákat le kell hivatkozni! Ennek egyik része az, hogy a szövegben konkrétan bele kell írni azt, amikor valami olyanról írunk, amihez / ami miatt az adott ábrát beraktuk. Ekkor jelenjen meg a szövegben pl. a következő: "... ahogy az a(z) X.Y. ábrán látható", ahol X.Y. az adott ábra sorszáma lesz. Ez kiváltható azzal is, ha zárójelben odaírjuk a mondat végére, hogy: "(X.Y. ábra)"
 
 A lehivatkozás másik része, hogy az ábrának forrását meg kell jelölni, mint az irodalom lehivatkozása esetén. Erről alább, a "Javasolt fejezetcímek / Ábrajegyzék" részben írok.
 
 Az ábrákat a dolgozatba berakva olyan stílusban kell használni, hogy felette / alatta legyen szöveg, ilyen szöveg-körbefuttatás ne legyen. Mondatot ne vágjon ketté ábra.
 
-Az ábráknak legyen egy sorszáma, amely csak simán egyszintű legyen (tehát 1-től indul és n-ig tart), ne pedig fejezetenként újrainduló.
+Az ábráknak legyen egy sorszáma, amely tartalmazza a fejezet sorszámát, majd fejezetenként egy egytől induló számozást. A fentebbi példában az X.Y. esetén az X a fejezet, az Y az ábra sorszáma a fejzeten belül.
 
-Az ábra címe mindig úgy épüljön fel, hogy: "X. ábra: Valami rövidebb vagy hosszabb magyarázó mondat arról, hogy éppen mit látunk a képen és ez miért fontos. Nyugodtan lehet akár két mondatot is írni!" Tehát legyen egy sorszám, utána pont, majd az a szó, hogy ábra, majd egy kettősponttal legyen elválasztva a rövidebb vagy hosszabb magyarázó szöveg.
-
-![plagiarism example output](./plagium.jpg)
+Az ábra címe mindig úgy épüljön fel, hogy: "X.Y. ábra: Valami rövidebb vagy hosszabb magyarázó mondat arról, hogy éppen mit látunk a képen és ez miért fontos. Nyugodtan lehet akár két mondatot is írni!" Tehát legyen egy sorszám, utána pont, majd az a szó, hogy ábra, majd egy kettősponttal legyen elválasztva a rövidebb vagy hosszabb magyarázó szöveg.
 
 ### Szerkesztő
 
