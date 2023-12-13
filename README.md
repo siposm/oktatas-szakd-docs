@@ -21,43 +21,44 @@
   * [Szakdolgozat I. védés](#szakdolgozat-i-védés)
   * [Feladatkiírási lap](#feladatkiírási-lap)
   * [Javaslat, hogy hogyan írd](#javaslat-hogy-hogyan-írd)
-    + [Plágium, lehivatkozások](#plágium-lehivatkozások)
-    + [Szerkesztő](#szerkeszt)
-    + [Javasolt fejezetcímek:](#javasolt-fejezetcímek)
-    + [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám)
-  * [Konzultációs napló](#konzultációs-napló)
+    * [Formázási beállítások](#formázási-beállítások)
+    * [Plágium, lehivatkozások](#plágium-lehivatkozások)
+      * [Irodalom lehivatkozása](#irodalom-lehivatkozása)
+      * [Ábrák lehivatkozása](#ábrák-lehivatkozása)
+    * [Szerkesztő](#szerkesztő)
+    * [Javasolt fejezetcímek:](#javasolt-fejezetcímek)
+    * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám)
+  * [Konzultációs napló I.](#konzultációs-napló-i)
 - [Szakdolgozat II. tájékoztató](#szakdolgozat-ii-tájékoztató)
-  * [Félévi mérföldkövek](#félévi-mérföldkövek-1)
-  * [Repository létrehozása](#repository-létrehozása)
-  * [Javasolt fejezetcímek](#javasolt-fejezetcímek-1)
-    + [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám-1)
-  * [Konzultációs napló](#konzultációs-napló-1)
-  * [Diplomamunka portál](#diplomamunka-portál)
-  * [Leadás menete (félév vége)](#leadás-menete-félév-vége)
-  * [Szakdolgozat köttetés](#szakdolgozat-köttetés)
-  * [Védés](#védés)
+   * [Félévi mérföldkövek](#félévi-mérföldkövek-1)
+   * [Repository létrehozása](#repository-létrehozása)
+   * [Javasolt fejezetcímek](#javasolt-fejezetcímek-1)
+      * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám-1)
+   * [Konzultációs napló II.](#konzultációs-napló-ii)
+   * [Diplomamunka portál](#diplomamunka-portál)
+   * [Leadás menete (félév vége)](#leadás-menete-félév-vége)
+   * [Szakdolgozat köttetés](#szakdolgozat-köttetés)
+   * [Védés](#védés)
 - [Tervezés](#tervezés)
-    + [Szekvencia diagram](#szekvencia-diagram)
-    + [Folyamatábra](#folyamatábra)
-    + [Teljes rendszer terve](#teljes-rendszer-terve)
-    + [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete)
-  * [Példák](#példák)
-    + [Rendszertervek](#rendszertervek)
-    + [Szekvencia diagramok](#szekvencia-diagramok)
-    + [Folyamatábrák](#folyamatábrák)
-    + [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete-1)
+    * [Szekvencia diagram](#szekvencia-diagram)
+    * [Folyamatábra](#folyamatábra)
+    * [Teljes rendszer terve](#teljes-rendszer-terve)
+    * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete)
+    * [Példák](#példák)
+      * [Rendszertervek](#rendszertervek)
+      * [Szekvencia diagramok](#szekvencia-diagramok)
+      * [Folyamatábrák](#folyamatábrák)
+      * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete-1)
 - [Tesztelés](#tesztelés)
-  * [Példák](#példák-1)
 - [Prezentáció, védés, beszámoló](#prezentáció-védés-beszámoló)
-  * [Szakdolgozat I.-re vonatkozó információk](#szakdolgozat-i-re-vonatkozó-információk)
-    + [Általános információk](#általános-információk)
-    + [Amit érdemes kerülni](#amit-érdemes-kerülni)
-    + [Amit érdemes alkalmazni](#amit-érdemes-alkalmazni)
-  * [Prezentáció sablon](#prezentáció-sablon)
-  * [Szakdolgozat II.-re vonatkozó információk](#szakdolgozat-ii-re-vonatkozó-információk)
-    + [Legyen bemutatva](#legyen-bemutatva)
-  * [Minta borító I.](#minta-borító-i)
-  * [Minta borító II.](#minta-borító-ii)
+   * [Szakdolgozat I.-re vonatkozó információk](#szakdolgozat-i-re-vonatkozó-információk)
+      * [Általános információk](#általános-információk)
+      * [Amit érdemes kerülni](#amit-érdemes-kerülni)
+      * [Amit érdemes alkalmazni](#amit-érdemes-alkalmazni)
+   * [Prezentáció sablon](#prezentáció-sablon)
+   * [Szakdolgozat II.-re vonatkozó információk](#szakdolgozat-ii-re-vonatkozó-információk)
+   * [Minta borító I.](#minta-borító-i)
+   * [Minta borító II.](#minta-borító-ii)
 
 <br>
 <br>
@@ -100,6 +101,23 @@ Határidő: 2. szorgalmi hét vége (vasárnap 23:59)
 ## Javaslat, hogy hogyan írd
 Érdemes már most a sablon ([elérhető az oldalamon](https://nik.siposm.hu/szakd) Hivatalos Szakdolgozat tájékoztató néven) alapján elkezdeni (sorköz, térköz, margók stb. legyenek rendben). Azért lenne jó így haladni, mert akkor nem csak kilóra (karakter- és szószám) látjuk, hogy mennyi, hanem oldalak számára nézve is. Illetve nektek is talán könnyebb, ha már látjátok, hogy vannak fejezetcímek stb. Plusz, a félév végén amúgy is ilyen formázásban kell leadni is a dolgokat.
 
+### Formázási beállítások
+
+A hivatalos tájékoztatóban megadot paraméterek csak ajánlások, ezektől el lehet térni, ha az jobbá teszi a munkát. Az én javaslataim az alábbiak:
+- a beépített Word-féle default kék fejezetcímes sablont engedjük el, legyen minden szöveges rész fekete
+- a fejezetcímek sorszámai ne római számmal legyenek írva, hanem rendes arab számokkal
+- a fejezetcímek sorszámaiban minden szám után legyen pont (tehát pl.: 2.1.1 Fejezet címe --> 2.1.1. Fejezet címe)
+- a folyószöveg mérete legyen 12-es méretű, ehhez képest nézve:
+  - a 4. szintű fejezetcím legyen 13-as méretű és félkövér
+  - a 3. szintű fejezetcím legyen 14-es méretű és félkövér
+  - a 2. szintű fejezetcím legyen 16-os méretű és félkövér
+  - az 1. szintű fejezetcím legyen 20-as méretű és félkövér
+- minden 1. szintű fejezet kezdődjön fixen új oldalon
+- a fejezetek legyenek balra igazítva
+- a folyószöveg legyen sorkizárt stílusú mindenhol
+- a betűtípus Times New Roman (de mindenképpen valamilyen talpas típus)
+- az alfejezetek három szint mélységig legyenek sorszámozva (negyedik szintig még el lehet menni sorszámozással, de törekedni kell arra, hogy ilyen mélység esetén máshogy legyen strukturálva a dokumentum)
+
 ### Plágium, lehivatkozások
 
 Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! Utólag keresgélni nagyon rossz dolog.
@@ -132,7 +150,7 @@ Az ábra címe mindig úgy épüljön fel, hogy: "X.Y. ábra: Valami rövidebb v
 
 Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternatívában (bár Macre van Word)) dolgoztok, vagy pedig LaTex-ben. Ha utóbbihoz már értesz, vagy érdekel és szeretnéd megtanulni, akkor én javasolnám, hogy itt az idő. Egy idő után sokkal jobb lesz benne szerkeszteni és kevesebb szívás lesz vele mint Wordben. Ha így tesztek és Tex-ben dolgoztok akkor a leadáskor doc/docx verziótok nem lesz, csak pdf. Ez esetben annyit meg lehet tenni, hogy készítetek egy külön Word fájlt a fedlappal és beleírjátok, hogy a dolgozat tex-ben került elkészítésre, ezért pdf-ként érhető el a dokumentum.
 
-### Javasolt fejezetcímek:
+### Javasolt fejezetcímek
     
 - **`Absztrakt`**
     - sorszámozás nélküli fejezet
@@ -196,7 +214,7 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalnyi (releváns) terjedelemmel kell rendelkezzen. Ebbe a 8., 9. és 10. fejezetek által hozott oldalak nem számítanak bele. A 7. fejezet tartalma sem számítandó bele, ugyanis az a rész tekinthető úgy, hogy a Szakdolgozat II.-ről kerül "előrehozásra".
 
-## Konzultációs napló
+## Konzultációs napló I.
 Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat személyesen kell átvenni a félév végén tőlem, majd ezt le is kell adjátok a szakdolgozat feltöltésekor, mint bizonyíték, hogy a konzulens jóváhagyta a féléves munkát.
 
 Kérek mindenkit, hogy a naplóra nagyon vigyázzon, mert majd a leköttetéskor (szakdoga 2 végén) ugyan ezt a példányt kell vinni és a szakdolgozatba belekötni. Ha összegyűrődik, eltűnik stb. akkor baj van.
@@ -285,7 +303,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [elvárások](#nettó-terjedelem-oldalszám) (~40 oldal) esetén a kész Szakdolgozat ideálisan 60-65 oldalas kell, hogy legyen. A kevesebb ugyan úgy nem jó, mint a (jelentősen) több! A Hivatalos Szakdolgozat tájékoztató [(link az oldal alján)](https://users.nik.uni-obuda.hu/siposm/szakd) szerint 60 oldal az elvárt, ezt pár oldallal feljebb tudjuk tolni (innen a 65) ha ez szakmailag indokolt a dolgozatban.
 
-## Konzultációs napló
+## Konzultációs napló II.
 Ugyan az igaz rá, mint szakdolgozat 1 esetén. A félévi mérföldköveket dokumentálja hivatalosan. Személyesen tőlem lehet átvenni majd a félév végén, amit aztán majd bele kell köttetni a dolgozatba.
 
 ## Diplomamunka portál
