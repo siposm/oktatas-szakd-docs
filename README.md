@@ -395,7 +395,7 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
         - hallgató neptunkód
         - hallgató törzsszám
         - végzés féléve
-        - konzulens neve és titulusa (a lentebbi minta borító képek régebben készültek, jelenleg "Egyetemi Tanársegéd" a titulusom)
+        - konzulens neve és titulusa (a lentebbi minta borítóképek régebben készültek, jelenleg "Egyetemi Tanársegéd" a titulusom)
         - szakirány megnevezése ahova jársz (teljes kiírás)
         
 ### Amit érdemes kerülni
@@ -414,7 +414,7 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
 - a legtöbb kivetítő 4:3 képaránnyal tud dolgozni, így javasolt ennek megfelelően készíteni a prezentációt
 
 ## Prezentáció sablon
-A [hivatalos szakdolgozat tájékoztató weboldalon](https://to.nik.uni-obuda.hu/szakdolgozat-tajekoztato/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet.
+A [hivatalos szakdolgozat tájékoztató weboldalon](https://to.nik.uni-obuda.hu/szakdolgozat-tajekoztato/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet, de biztatnék mindenkit, hogy valami saját és egyedi sablont csináljon.
 
 ## Szakdolgozat II.-re vonatkozó információk
 Nagyon hasonló a helyzet mint Szakdolgozat I. esetén, ami a változás: **elkészült a rendszer**. Ebből adódóan erről a kész rendszerről kell 60-70%-ban beszélni, és ami korábban szd1 beszámolóban volt az értelemszerűen redukálódni fog, ez megmarad 40-30%-ban.
