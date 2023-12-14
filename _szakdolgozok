@@ -1,18 +1,11 @@
 @Kerékpár személyre szabását segítő alkalmazás valósidejű képfeldolgozás felhasználásával#Konyári László
-Adaptív mesterséges intelligencia fejlesztés 3D szimulációs tesztkörnyezetben objektumok vezérléséhez#Kaló Áron
 Testhőmérséklet mérő beléptetőrendszer készítése deep learning alapú maszkfelismeréssel#Tóth Krisztián
-Autókölcsönzők ajánlatainak összesítésére létrehozott webapplikáció, web scraping segítségével#Lengyel Tamás
 Hangalapú csoportmunkát támogató webalkalmazás készítése#Riczu Csaba
 Papír alapú nyugta feldolgozása OCR segítségével#Kiss Gabriella
-Edzést támogató analitikai alkalmazás készítése okostelefonra#Farkas Előd
 Kártya katalógus digitalizáló android alkalmazás képfelismerő algoritmusok és felhő szolgáltatások alkalmazásával#Nagy Bálint
-Blokklánc alapú egészségügyi rendszer#Kuglics Barnabás
-Blokklánc alapú szavazórendszer#Csikós Benedek
 Hangulat monitorozó közösségi alkalmazás#Takács Petra
-Web scraping alkalmazás használt autók piaci árának értékeléséhez#Karmacsi Tamás
-Okos kereszteződésen alapuló forgalomirányító rendszerek szimulálása és optimalizálása Unity-ben#Djuroska Gergő
 Emlékgyűjtő modul fejlesztése Microsoft Teams rendszerhez#Márkus Roland
-Teljeskörű eSport menedzser alkalmazás készítése#Bíró Zsombor
+Teljeskörű eSport menedzser alkalmazás készítése#Biró Zsombor
 FriendZone - barátkereső alkalmazás készítése Flutter-ben#Vass Bence
 Elektronikus vállalati aláíró és munkafolyamat platform UI fejlesztése és tesztelése#Káposzta Kolos
 Újonnan listázott kriptovaluta viselkedésének predikciójára szolgáló deep learning rendszer#Bálint Ábel
@@ -21,7 +14,6 @@ Követők felderítése és elemzése szociális platformokon#Mátyus Márkó
 Profilhoz rendelt dokumentum hitelesítő cross-platform rendszer#Taraczközi Máté
 Közösségi média felhasználói aktivitás és viselkedés elemzése#Suri Kristóf
 Procedurális pályagenerálás videójátékban#Farkas Elek
-Biztonságos webalkalmazás készítése 2FA és OTP felhasználással#Németh Donát
 Tananyag értékelő platform Angular és DevExtreme felhasználásával#Sillye Gergely
 Minőségbiztosítást támogató reporting alkalmazás Angular és Java környezetben#Nagy Zsolt
 Tesztautomatizálás Microsoft Dynamics 365 Business Central-ban#Szilágyi Ferenc
