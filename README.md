@@ -136,7 +136,7 @@ A lehivatkozásokat IEEE formában kell megtenni. Egy magyarázó link alább ta
 
 #### Ábrák lehivatkozása
 
-A folyószövegben az dolgozatba berakott ábrákat le kell hivatkozni! Ennek egyik része az, hogy a szövegben konkrétan bele kell írni azt, amikor valami olyanról írunk, amihez / ami miatt az adott ábrát beraktuk. Ekkor jelenjen meg a szövegben pl. a következő: "... ahogy az a(z) X.Y. ábrán látható", ahol X.Y. az adott ábra sorszáma lesz. Ez kiváltható azzal is, ha zárójelben odaírjuk a mondat végére, hogy: "(X.Y. ábra)"
+A folyószövegben a dolgozatba berakott ábrákat le kell hivatkozni! Ennek egyik része az, hogy a szövegben konkrétan bele kell írni azt, amikor valami olyanról írunk, amihez / ami miatt az adott ábrát beraktuk. Ekkor jelenjen meg a szövegben pl. a következő: "... ahogy az a(z) X.Y. ábrán látható", ahol X.Y. az adott ábra sorszáma lesz. Ez kiváltható azzal is, ha zárójelben odaírjuk a mondat végére, hogy: "(X.Y. ábra)"
 
 A lehivatkozás másik része, hogy az ábrának forrását meg kell jelölni, mint az irodalom lehivatkozása esetén. Erről alább, a "Javasolt fejezetcímek / Ábrajegyzék" részben írok.
 
