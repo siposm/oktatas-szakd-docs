@@ -1,5 +1,10 @@
 [
     {
+        "title": "Blokklánc tranzakciós gráf elemzése képfeldolgozási eljárásokkal",
+        "description": "A feladat blokkláncok tranzakciós adatainak megjelenítése gráfok segítségével, majd ezen gráfok elemzése képfeldolgozási eljárásokkal, problémás részek azonosítása.",
+        "taken": false
+    },
+    {
         "title": "Szakmai hallgatói közösségépítésre szolgáló platform létrehozása",
         "description": "A feladat egy olyan platform létrehozása, ahol a hallgatók gamifikációs formában tudnak szakmaileg előremutató kapcsolatokat építeni jelenlegi hallgatótársaikkal. A rendszerben legyen lehetőség biztonságos, titkosított módon a hallgatóknak egymást értékelni. Dolgozzon ki egy rendszert, amiben a jó értékelést kapott hallgatók valamilyen módon kapcsolatba tudnak kerülni (tehát a kilétük felfedődik) az őket pozitívan értékelőkkel. Így az egymástól kapott elismerő szavakat akár valós szakmai közösségi profilokon is beválthatják pl. LinkedIn-en.<br><br>A megvalósítás folyamán használjon modern CSS keretrendszereket (pl. material ui, tailwind css, bootstrap) és ehhez ideálisan választott frontend keretrendszert (pl. vue, angular). A rendszerhez szükséges backend-et javasolt dotnet környezetben elkészíteni.",
         "taken": false
