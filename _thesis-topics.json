@@ -17,7 +17,7 @@
     {
         "title": "ChatGPT és Google translate fordítási eredményeinek összehasonlítása",
         "description": "A feladat, hogy hasonlítsa össze a Google translate (és egyéb fordító programok) által adott eredményeket a chatGPT által adott fordításokkal. A cél a fordított szöveg pontosságának elemzése, értékelése szemantikai szempontból.<br><br>Elvárt használandó keretrendszerek: asp.net, angular/vue (vagy egyeztetés szükséges).",
-        "taken": true
+        "taken": false
     },
     {
         "title": "Tananyag értékelő platform",
