@@ -2,9 +2,11 @@
 .\
 .
 
-### Figyelem! Jelen útmutató illetve követelményleírás csak Sipos Miklós szakdolgozói számára vonatkozik.
+### Figyelem!
 
-Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek eltérhetnek!
+* Jelen útmutató, illetve követelményleírás csak Sipos Miklós szakdolgozói számára vonatkozik.
+* Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek eltérhetnek.
+* A repót csillagozzátok be és kövessetek be GitHubon, hogy lássátok a frissítéseket. Plusz nagyon sokan olvassátok a doksit annak ellenére, hogy nem nálam szakdolgoztok, így amolyan "like" funkciónak is nézem.
 
 .\
 .
@@ -19,43 +21,44 @@ Más oktatóknál a pontos elvárások, határidők valamint egyéb részletek e
   * [Szakdolgozat I. védés](#szakdolgozat-i-védés)
   * [Feladatkiírási lap](#feladatkiírási-lap)
   * [Javaslat, hogy hogyan írd](#javaslat-hogy-hogyan-írd)
-    + [Plágium, lehivatkozások](#plágium-lehivatkozások)
-    + [Szerkesztő](#szerkeszt)
-    + [Javasolt fejezetcímek:](#javasolt-fejezetcímek)
-    + [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám)
-  * [Konzultációs napló](#konzultációs-napló)
+    * [Formázási beállítások](#formázási-beállítások)
+    * [Plágium, lehivatkozások](#plágium-lehivatkozások)
+      * [Irodalom lehivatkozása](#irodalom-lehivatkozása)
+      * [Ábrák lehivatkozása](#ábrák-lehivatkozása)
+    * [Szerkesztő](#szerkesztő)
+    * [Javasolt fejezetcímek:](#javasolt-fejezetcímek)
+    * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám)
+  * [Konzultációs napló I.](#konzultációs-napló-i)
 - [Szakdolgozat II. tájékoztató](#szakdolgozat-ii-tájékoztató)
-  * [Félévi mérföldkövek](#félévi-mérföldkövek-1)
-  * [Repository létrehozása](#repository-létrehozása)
-  * [Javasolt fejezetcímek](#javasolt-fejezetcímek-1)
-    + [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám-1)
-  * [Konzultációs napló](#konzultációs-napló-1)
-  * [Diplomamunka portál](#diplomamunka-portál)
-  * [Leadás menete (félév vége)](#leadás-menete-félév-vége)
-  * [Szakdolgozat köttetés](#szakdolgozat-köttetés)
-  * [Védés](#védés)
+   * [Félévi mérföldkövek](#félévi-mérföldkövek-1)
+   * [Repository létrehozása](#repository-létrehozása)
+   * [Javasolt fejezetcímek](#javasolt-fejezetcímek-1)
+      * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám-1)
+   * [Konzultációs napló II.](#konzultációs-napló-ii)
+   * [Diplomamunka portál](#diplomamunka-portál)
+   * [Leadás menete (félév vége)](#leadás-menete-félév-vége)
+   * [Szakdolgozat köttetés](#szakdolgozat-köttetés)
+   * [Védés](#védés)
 - [Tervezés](#tervezés)
-    + [Szekvencia diagram](#szekvencia-diagram)
-    + [Folyamatábra](#folyamatábra)
-    + [Teljes rendszer terve](#teljes-rendszer-terve)
-    + [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete)
-  * [Példák](#példák)
-    + [Rendszertervek](#rendszertervek)
-    + [Szekvencia diagramok](#szekvencia-diagramok)
-    + [Folyamatábrák](#folyamatábrák)
-    + [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete-1)
+    * [Szekvencia diagram](#szekvencia-diagram)
+    * [Folyamatábra](#folyamatábra)
+    * [Teljes rendszer terve](#teljes-rendszer-terve)
+    * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete)
+    * [Példák](#példák)
+      * [Rendszertervek](#rendszertervek)
+      * [Szekvencia diagramok](#szekvencia-diagramok)
+      * [Folyamatábrák](#folyamatábrák)
+      * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete-1)
 - [Tesztelés](#tesztelés)
-  * [Példák](#példák-1)
 - [Prezentáció, védés, beszámoló](#prezentáció-védés-beszámoló)
-  * [Szakdolgozat I.-re vonatkozó információk](#szakdolgozat-i-re-vonatkozó-információk)
-    + [Általános információk](#általános-információk)
-    + [Amit érdemes kerülni](#amit-érdemes-kerülni)
-    + [Amit érdemes alkalmazni](#amit-érdemes-alkalmazni)
-  * [Prezentáció sablon](#prezentáció-sablon)
-  * [Szakdolgozat II.-re vonatkozó információk](#szakdolgozat-ii-re-vonatkozó-információk)
-    + [Legyen bemutatva](#legyen-bemutatva)
-  * [Minta borító I.](#minta-borító-i)
-  * [Minta borító II.](#minta-borító-ii)
+   * [Szakdolgozat I.-re vonatkozó információk](#szakdolgozat-i-re-vonatkozó-információk)
+      * [Általános információk](#általános-információk)
+      * [Amit érdemes kerülni](#amit-érdemes-kerülni)
+      * [Amit érdemes alkalmazni](#amit-érdemes-alkalmazni)
+   * [Prezentáció sablon](#prezentáció-sablon)
+   * [Szakdolgozat II.-re vonatkozó információk](#szakdolgozat-ii-re-vonatkozó-információk)
+   * [Minta borító I.](#minta-borító-i)
+   * [Minta borító II.](#minta-borító-ii)
 
 <br>
 <br>
@@ -76,7 +79,7 @@ Adott hét `vasárnapjának 23:59 percéig` szeretném Teams privát üzenet for
 Küldéskor pdf verziót küldjetek.\
 A küldött dokumentum neve ez legyen: `SZD1_MK[#]_[NEPTUN]_[TELJES-NÉV].pdf`
 
-(Értelemszerűen a `[]` jelek nem kellenek egyik esetben sem, oda a megefelelő értéket kell behelyettesíteni.)
+(Értelemszerűen a `[]` jelek nem kellenek egyik esetben sem, oda a megefelelő értéket kell behelyettesíteni. Minden résznek végig nagybetűvel kell lennie.)
 
 Ha valaki nem halad egyik mérföldkőről a másikra, akkor ilyen egyetlen alkalommal fordulhat elő. Ha egynél többször fordul elő, akkor a szakdoga1-et nem fogom aláírni félév végén. Ennek oka, hogy a félév utolsó hetében nem szeretnék senkinél/vel tüzet oltani, és lutrira sem fogok senkit átengedni. Legyen benne a munka és akkor nem lesz gond - mondanom sem kell, ez egyben a Ti érdeketek is!
 
@@ -98,6 +101,23 @@ Határidő: 2. szorgalmi hét vége (vasárnap 23:59)
 ## Javaslat, hogy hogyan írd
 Érdemes már most a sablon ([elérhető az oldalamon](https://nik.siposm.hu/szakd) Hivatalos Szakdolgozat tájékoztató néven) alapján elkezdeni (sorköz, térköz, margók stb. legyenek rendben). Azért lenne jó így haladni, mert akkor nem csak kilóra (karakter- és szószám) látjuk, hogy mennyi, hanem oldalak számára nézve is. Illetve nektek is talán könnyebb, ha már látjátok, hogy vannak fejezetcímek stb. Plusz, a félév végén amúgy is ilyen formázásban kell leadni is a dolgokat.
 
+### Formázási beállítások
+
+A hivatalos tájékoztatóban megadot paraméterek csak ajánlások, ezektől el lehet térni, ha az jobbá teszi a munkát. Az én javaslataim az alábbiak:
+- a beépített Word-féle default kék fejezetcímes sablont engedjük el, legyen minden szöveges rész fekete
+- a fejezetcímek sorszámai ne római számmal legyenek írva, hanem rendes arab számokkal
+- a fejezetcímek sorszámaiban minden szám után legyen pont (tehát pl.: 2.1.1 Fejezet címe --> 2.1.1. Fejezet címe)
+- a folyószöveg mérete legyen 12-es méretű, ehhez képest nézve:
+  - a 4. szintű fejezetcím legyen 13-as méretű és félkövér
+  - a 3. szintű fejezetcím legyen 14-es méretű és félkövér
+  - a 2. szintű fejezetcím legyen 16-os méretű és félkövér
+  - az 1. szintű fejezetcím legyen 20-as méretű és félkövér
+- minden 1. szintű fejezet kezdődjön fixen új oldalon
+- a fejezetek legyenek balra igazítva
+- a folyószöveg legyen sorkizárt stílusú mindenhol
+- a betűtípus Times New Roman (de mindenképpen valamilyen talpas típus)
+- az alfejezetek három szint mélységig legyenek sorszámozva (negyedik szintig még el lehet menni sorszámozással, de törekedni kell arra, hogy ilyen mélység esetén máshogy legyen strukturálva a dokumentum)
+
 ### Plágium, lehivatkozások
 
 Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! Utólag keresgélni nagyon rossz dolog.
@@ -108,25 +128,50 @@ Az alábbi képen bal oldalt látható a végső számérték, lebontva, hogy me
 
 ![plagiarism example output](./plagium.jpg)
 
+#### Irodalom lehivatkozása
+
+A felhasznált irodalmakat (ahol törekedni kell a könyvek, folyóiratok, cikkek felhasználására, szemben random netes linkekkel) forrásként le is kell hivatkozni. Ezt azt jelenti, hogy a dolgozatban bizonyos részeknél amikor állítást fogalmaztok meg oda kell rakni, hogy ezt az állítást milyen forrásból szedted, mivel támasztod alá. Például, ha azt állítom, hogy a Vue a leggyorsabb keretrendszer akkor ezt alá kell tudjam támasztani valamilyen statisztikai adattal ami mondjuk az elmúlt 1 évben jelent meg lehetőség szerint valamilyen könyvben, vagy hivatalosnak tekinthető forrásban.
+
+A lehivatkozásokat IEEE formában kell megtenni. Egy magyarázó link alább található a "Javasolt fejezetcímek / Irodalomjegyzék" részben.
+
+#### Ábrák lehivatkozása
+
+A folyószövegben a dolgozatba berakott ábrákat le kell hivatkozni! Ennek egyik része az, hogy a szövegben konkrétan bele kell írni azt, amikor valami olyanról írunk, amihez / ami miatt az adott ábrát beraktuk. Ekkor jelenjen meg a szövegben pl. a következő: "... ahogy az a(z) X.Y. ábrán látható", ahol X.Y. az adott ábra sorszáma lesz. Ez kiváltható azzal is, ha zárójelben odaírjuk a mondat végére, hogy: "(X.Y. ábra)"
+
+A lehivatkozás másik része, hogy az ábrának forrását meg kell jelölni, mint az irodalom lehivatkozása esetén. Erről alább, a "Javasolt fejezetcímek / Ábrajegyzék" részben írok.
+
+Az ábrákat a dolgozatba berakva olyan stílusban kell használni, hogy felette / alatta legyen szöveg, ilyen szöveg-körbefuttatás ne legyen. Mondatot ne vágjon ketté ábra.
+
+Az ábráknak legyen egy sorszáma, amely tartalmazza a fejezet sorszámát, majd fejezetenként egy egytől induló számozást. A fentebbi példában az X.Y. esetén az X a fejezet, az Y az ábra sorszáma a fejzeten belül.
+
+Az ábra címe mindig úgy épüljön fel, hogy: "X.Y. ábra: Valami rövidebb vagy hosszabb magyarázó mondat arról, hogy éppen mit látunk a képen és ez miért fontos. Nyugodtan lehet akár két mondatot is írni!" Tehát legyen egy sorszám, utána pont, majd az a szó, hogy ábra, majd egy kettősponttal legyen elválasztva a rövidebb vagy hosszabb magyarázó szöveg.
+
 ### Szerkesztő
 
 Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternatívában (bár Macre van Word)) dolgoztok, vagy pedig LaTex-ben. Ha utóbbihoz már értesz, vagy érdekel és szeretnéd megtanulni, akkor én javasolnám, hogy itt az idő. Egy idő után sokkal jobb lesz benne szerkeszteni és kevesebb szívás lesz vele mint Wordben. Ha így tesztek és Tex-ben dolgoztok akkor a leadáskor doc/docx verziótok nem lesz, csak pdf. Ez esetben annyit meg lehet tenni, hogy készítetek egy külön Word fájlt a fedlappal és beleírjátok, hogy a dolgozat tex-ben került elkészítésre, ezért pdf-ként érhető el a dokumentum.
 
-### Javasolt fejezetcímek:
+### Javasolt fejezetcímek
     
-1. **`Absztrakt`**
+- **`Absztrakt`**
+    - sorszámozás nélküli fejezet
     - rövid, háromnegyed oldalas **kivonata** a teljes dolgozat tartalmának
     - az absztrakt tartalmazza majd a Szakdolgozat II. tárgyon véglegesített dokumentum **teljes** tartalmát, tehát az elért eredményeket is, röviden, tényszerűen tőmondatokban
-2. **`Abstract`**
+- **`Abstract`**
+    - sorszámozás nélküli fejezet
     - ugyan az, angolul
-3. **`Bevezetés`** (max 2 oldal)
+- **`Tartalomjegyzék`**
+    - sorszámozás nélküli fejezet
+    - a következő fejezeteket tartalmazó tartalomjegyzék
+    - harmadik szintű mélységig jelenjenek meg a fejezetek nevei és a hozzá tartozó oldalszámok (jó az, amit a Word/LaTeX generál)
+- **`1. Bevezetés`** (max 2 oldal)
+    - innen induljon a fejezetek sorszámozása, tehát ez az 1. fejezet
     - bevezető leírása a teljes dolgozatnak
       - ismertető, hogy miről lesz szó
       - a cél megfogalmazása
       - motiváció a probléma megoldására
     - (szemben az absztrakttal, ebben nincsenek benne az elért eredmények, tehát ténylegesen csak egy kedvcsináló, bevezető (~trailer) a teljes dolgozathoz)
-4. **`Irodalomkutatás`** (~ 20 - 25 oldal)
-    - **Hasonló rendszerek** (ez fix fejezet)
+- **`2. Irodalomkutatás`** (~ 20 - 25 oldal)
+    - **2.1. Hasonló rendszerek** (ez fix fejezet)
         - azon belül a vizsgált rendszerek bemutatása és levont következtetések
         - a fejezet végén legyen egy táblázatos összefoglalása a vizsgált rendszereknek
         - a táblázatban legyenek benne a szempontok, hogy mik alapján hasonlítottad össze a rendszereket, majd a szempontok alapján pontozd az egyes rendszereket
@@ -142,9 +187,9 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
         - különböző algoritmusok amelyeket a szakterületen alkalmaznak (pl. képfeldolgozó vagy útkereső algoritmusok)
     - **Összegzés** (ez fix fejezet)
         - összefoglalása az irodalomkutatásnak, mire jutottunk, ez alapján mit fogok csinálni a megvalósítás kapcsán
-5. **`Követelmény specifikáció`** (~ 1 oldal)
+- **`3. Követelmény specifikáció`** (~ 1 oldal)
     - definiálni, hogy mik azok a szempontok, amiket elvárunk a rendszertől
-6. **`Tervezés`** (~ 10 oldal)
+- **`4. Tervezés`** (~ 10 oldal)
     - készítendő rendszer megtervezése
     - rendszerterv: (ez fix fejezet) 
         - ahol minden mindennel kommunikál, egyben legyen látható az egész szakdoga (=fejlesztendő rendszer) tartalma
@@ -155,19 +200,31 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
     - fejlesztés tervezett menete: (ez fix fejezet)
         - legyen egy konkrét roadmap vagy Gantt-diagram alapú szemléltetése annak, hogy honnan fogod kezdeni a szakdoga2-őt és abban milyen sorrendben és milyen lépésekkel fogsz haladni
     - bővebben, ábrákkal szemléltetett leírás a tervezésről [itt olvasható](#tervezés)
-7. ***`Fejlesztés`**: ha van rá idő, egy minimálisan működő demó rendszer elkészítése*
-8. **`Irodalomjegyzék`**
-9. **`Ábrajegyzék`**
-10. **`Táblajegyzék`** (ha van)
+- ***`5. Fejlesztés`**: ha van rá idő, egy minimálisan működő demó rendszer elkészítése*
+- **`Irodalomjegyzék`**
+    - sorszámozás nélküli fejezet
+    - IEEE formátumban kell elkészíteni ([részletes leírás itt](https://medium.com/academicianhelp/ieee-referencing-using-microsoft-word-66c855181d64))
+- **`Ábrajegyzék`**
+    - sorszámozás nélküli fejezet
+    - érdemes törekedni a saját készítésű ábrákra, így ha van rá mód, akkor érdemes és javasolt egy ábrát újra megrajzolni (pl. blokkos ábrák könnyen előállíthatók powerpoint-ban vagy draw.io-ban)
+    - amely ábra saját készítésű azok az ábrajegyzékben legyenek megjelölve, hogy "Saját készítésű ábra", így nem kell hozzá hivatkozást társítani; egyéb esetben jelenjen meg, hogy adott ábra milyen hivatkozásból származik (ezt a hivatkozást az irodalmi hivatkozások közé is nyugodtan fel lehet venni és akkor az ábránál csak a hivatkozás száma pl. `[10]` jelenik meg)
+- **`Táblajegyzék`** (ha van)
+    - sorszámozás nélküli fejezet
 
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalnyi (releváns) terjedelemmel kell rendelkezzen. Ebbe a 8., 9. és 10. fejezetek által hozott oldalak nem számítanak bele. A 7. fejezet tartalma sem számítandó bele, ugyanis az a rész tekinthető úgy, hogy a Szakdolgozat II.-ről kerül "előrehozásra".
 
-## Konzultációs napló
+## Konzultációs napló I.
 Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat személyesen kell átvenni a félév végén tőlem, majd ezt le is kell adjátok a szakdolgozat feltöltésekor, mint bizonyíték, hogy a konzulens jóváhagyta a féléves munkát.
 
 Kérek mindenkit, hogy a naplóra nagyon vigyázzon, mert majd a leköttetéskor (szakdoga 2 végén) ugyan ezt a példányt kell vinni és a szakdolgozatba belekötni. Ha összegyűrődik, eltűnik stb. akkor baj van.
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
@@ -188,7 +245,7 @@ Adott hét `vasárnapjának 23:59 percéig` szeretném Teams privát üzenet for
 Küldéskor pdf verziót küldjetek.\
 A küldött dokumentum neve ez legyen: `SZD2_MK[#]_[NEPTUN]_[TELJES-NÉV].pdf`
 
-(Értelemszerűen a `[]` jelek nem kellenek egyik esetben sem, oda a megefelelő értéket kell behelyettesíteni.)
+(Értelemszerűen a `[]` jelek nem kellenek egyik esetben sem, oda a megefelelő értéket kell behelyettesíteni. Minden résznek végig nagybetűvel kell lennie.)
 
 Ha valaki nem halad egyik mérföldkőről a másikra, akkor ilyen egyetlen alkalommal fordulhat elő. Ha egynél többször fordul elő, akkor a szakdoga2-őt nem fogom aláírni félév végén. Ennek oka, hogy a félév utolsó hetében nem szeretnék senkinél/vel tüzet oltani, és lutrira sem fogok senkit átengedni. Legyen benne a munka és akkor nem lesz gond - mondanom sem kell, ez egyben a Ti érdeketek is!
 
@@ -212,30 +269,33 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 
 *Folytatva, a szakdolgozat I.-ben abbahagyott sorszámozást.*
 
-7. **`Fejlesztés`** (~ 10 oldal)
+- **`5. Fejlesztés`** (~ 10 oldal)
     - itt majdhogynem fejlesztési naplóként nyugodtan le lehet írni a dolgokat, annyi megkötéssel/javaslattal, hogy:
     - minden apró-cseprő dolgot ne írjatok bele, törekedjetek a fontos dolgokat kiemelni; mindenképpen ilyen egy-egy probléma amibe belefutottatok, ami kapcsán aztán hoztatok egy döntést (ugye egy mérnök sok szívással szembesül, azok közül mérlegel, döntést hoz és halad tovább >> ezt volna jó viszont olvasni a dolgozatban is)
-8. **`Tesztelés`** (~ 5 oldal)
+- **`6. Tesztelés`** (~ 5 oldal)
     - elengedhetetlen része a Szakdolgozatnak; enélkül nem fogom elfogadni a Szakdolgozat 2-őt senkinek (hovatovább, záróvizsgán is sanszos ez)
     - a lényeg, hogy meggyőződjünk arról, hogy amit csináltunk az jó-e / működik-e
     - kicsit nézzetek utána, hogy milyen tesztek vannak (ezeket egyébként utólagosan az ir.kut-ba is nyugodtan bele lehet tenni)
       - amit sw fejlsztés esetén mindig elő lehet kapni: unit teszt, manuális teszt, funkcionális teszt >> ezekhez többé kevésbé vannak dedikált tool-ok / keretrendszerek, nézzetek utána és válasszatok (a döntési folyamatot itt is lehet dokumentálni)
     - tesztelésről bővebben [itt írok](#tesztelés)
-9. **`Értékelés`** (2 oldal)
+- **`7. Értékelés`** (2 oldal)
     - „miután lefejlesztettem amit kértek tőlem
     - és leteszteltem, hogy azt csinálja-e amit kértek tőlem
     - értékelem, hogy az elvárásokhoz képest mit tud / nem tud / miben tud többet”
-10. **`Továbbfejlesztési lehetőségek`** (1 oldal)
+- **`8. Továbbfejlesztési lehetőségek`** (1 oldal)
     - milyen potenciális dolgokat látsz benne még, amire nem jutott idő / energia , de nagyon jó lenne ha még benne lenne
     - az ötletek megalapozottak legyenek, ne légbőlkapottak
-11. **`Összegzés`** (3/4 oldal)
+- **`9. Összegzés`** (3/4 oldal)
     - rövid összefoglalás a dolgozatról, eredmények bemutatása
     - nagyon hasonló, mint az absztrakt, sok esetben vele megegyezik (viszont akinél megegyezik ott javasolt csak az egyiket megtartani)
     - attól függően, hogy absztrakt vagy befejezés van, kell egy magyar és egy angol verzió is (ha van mind a kettő, akkor az absztrakt legyen a magyar, és utána egy 'abstract' ami angol, a befejezés meg sima magyar)
-12. **`Irodalomjegyzék`**
-13. **`Ábrajegyzék`**
-14. **`Táblajegyzék`** (ha van)
-15. **`Mellékletek`** (ha van)
+- **`Irodalomjegyzék`**
+    - lásd Szakdolgozat 1.-ben taglaltak szerint
+- **`Ábrajegyzék`**
+    - lásd Szakdolgozat 1.-ben taglaltak szerint
+- **`Táblajegyzék`** (ha van)
+    - lásd Szakdolgozat 1.-ben taglaltak szerint
+- **`Mellékletek`** (ha van)
     - aki olyan rendszert csinált ami online, ott javasolt mellékletekben megadni, hogy hol és hogyan érhető el a rendszer, milyen login adatokkal stb.
     - akinél nem ilyen dologról van szó, ott pedig leírni azokat a lépéseket ahogy a rendszert be lehet üzemelni
     - a kész rendszerről képeket, funkciók bemutatását képekkel is ide kell elhelyezni és röviden leírni, hogy mit látunk 
@@ -243,7 +303,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [elvárások](#nettó-terjedelem-oldalszám) (~40 oldal) esetén a kész Szakdolgozat ideálisan 60-65 oldalas kell, hogy legyen. A kevesebb ugyan úgy nem jó, mint a (jelentősen) több! A Hivatalos Szakdolgozat tájékoztató [(link az oldal alján)](https://users.nik.uni-obuda.hu/siposm/szakd) szerint 60 oldal az elvárt, ezt pár oldallal feljebb tudjuk tolni (innen a 65) ha ez szakmailag indokolt a dolgozatban.
 
-## Konzultációs napló
+## Konzultációs napló II.
 Ugyan az igaz rá, mint szakdolgozat 1 esetén. A félévi mérföldköveket dokumentálja hivatalosan. Személyesen tőlem lehet átvenni majd a félév végén, amit aztán majd bele kell köttetni a dolgozatba.
 
 ## Diplomamunka portál
@@ -264,6 +324,12 @@ A szakdolgozathoz tartozó anyagokat a Diplomáztatási Csoport elvárásai alap
 ## Védés
 Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalosan a szakdoga2 leadását követné a záróvizsga, ahol hasonlóan, mint szd1 esetén meg kell védeni és elő kell adni a dolgozatot amin dolgoztál. Természetesen a záróvizsga ideje csúszhat, ha te nem éppen akkor végzel. A védéshez szükséges szintén egy prezentáció, csak úgy mint szd1 esetén, erről mindenkivel egyeztetek majd ha ott tartunk. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](#prezentáció-védés-beszámoló).
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
@@ -356,13 +422,20 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
 <br><br>
 <br><br>
 <br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 # Prezentáció, védés, beszámoló
 
 ## Szakdolgozat I.-re vonatkozó információk
 
 ### Általános információk
-- 10 perces előadással készüljetek (a 10 percet **nagyon** komolyan vegyétek), de a hivatalos tájékoztató ettől eltérhet, így van, hogy csak 8 perc áll rendelkezésre
+- általában 8-10 perces előadással készüljetek, de a hivatalos, adott félévre vonatkozó tájékoztató ettől eltérhet, így van, hogy csak 8, vagy akár csak 5 perc áll rendelkezésre
+- az előadást úgy kell tudni felépíteni, hogy ha a helyszínen derül ki, hogy csak 5 perc áll rendelkezésre, akkor bizonyos részeket tudj rövidebben elmondani amik amúgy nem annyira lényegesek
 - a tartalom tükrözze a féléves munkátokat
     - mivel eddig (sokatoknál) csak irodalomkutatás van, leginkább egy "fejtágító" dologról lesz szó
     - DE már van rendszerterv, specifikáció stb. azokat nyugodtan bele lehet tenni és beszélni róluk
@@ -379,7 +452,7 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
         - hallgató neptunkód
         - hallgató törzsszám
         - végzés féléve
-        - konzulens neve és titulusa
+        - konzulens neve és titulusa (a lentebbi minta borítóképek régebben készültek, jelenleg "Egyetemi Tanársegéd" a titulusom)
         - szakirány megnevezése ahova jársz (teljes kiírás)
         
 ### Amit érdemes kerülni
@@ -398,12 +471,12 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
 - a legtöbb kivetítő 4:3 képaránnyal tud dolgozni, így javasolt ennek megfelelően készíteni a prezentációt
 
 ## Prezentáció sablon
-A [hivatalos szakdolgozat tájékoztató weboldalon](https://to.nik.uni-obuda.hu/szakdolgozat-tajekoztato/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet.
+A [hivatalos szakdolgozat tájékoztató weboldalon](https://to.nik.uni-obuda.hu/szakdolgozat-tajekoztato/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet, de biztatnék mindenkit, hogy valami saját és egyedi sablont csináljon.
 
 ## Szakdolgozat II.-re vonatkozó információk
 Nagyon hasonló a helyzet mint Szakdolgozat I. esetén, ami a változás: **elkészült a rendszer**. Ebből adódóan erről a kész rendszerről kell 60-70%-ban beszélni, és ami korábban szd1 beszámolóban volt az értelemszerűen redukálódni fog, ez megmarad 40-30%-ban.
 
-A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján 3 perc bevezető (~szd1) és 7 perc eredmények bemutatása. (A 10 perces intervallum félévenként esetleg eltérhet. Vagy 10 vagy 15 perces blokkok szoktak lenni, erről a hivatalos tájékoztató emailben kell legyen információ. Ha nincs, kérdezzetek inkább rá.)
+A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján 3 perc bevezető (~szd1) és 7 perc eredmények bemutatása. (A 10 perces intervallum félévenként esetleg eltérhet. Vagy 10 vagy 15 perces blokkok szoktak lenni (de előfordulhat 8 perc is akár szintén), erről a hivatalos tájékoztatóban kell legyen információ. Ha nincs, kérdezzetek inkább rá.)
 
 ### Legyen bemutatva
 - szakd1-ről a bevezetése a témádnak, probléma felvetése és hogy mit készítettél, milyen eszközöket esetleg programnyelveket használtál (ez legyen tempós és gyors, nem ez a lényeg hanem a munka, lásd további pontok)
