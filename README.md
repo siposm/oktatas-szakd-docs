@@ -155,6 +155,7 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
 - **`Absztrakt`**
     - sorszámozás nélküli fejezet
     - rövid, háromnegyed oldalas **kivonata** a teljes dolgozat tartalmának
+    - elolvasva az olvasó egy átfogó képet kell kapjon a teljes munkáról / dolgozatról (mi volt a cél, mik voltak elemezve, mi lett megtervezve és milyen eredmények lettek elérve)
     - az absztrakt tartalmazza majd a Szakdolgozat II. tárgyon véglegesített dokumentum **teljes** tartalmát, tehát az elért eredményeket is, röviden, tényszerűen tőmondatokban
 - **`Abstract`**
     - sorszámozás nélküli fejezet
@@ -279,6 +280,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
       - amit sw fejlsztés esetén mindig elő lehet kapni: unit teszt, manuális teszt, funkcionális teszt >> ezekhez többé kevésbé vannak dedikált tool-ok / keretrendszerek, nézzetek utána és válasszatok (a döntési folyamatot itt is lehet dokumentálni)
     - tesztelésről bővebben [itt írok](#tesztelés)
 - **`7. Értékelés`** (2 oldal)
+    - eredmények bemutatása
     - „miután lefejlesztettem amit kértek tőlem
     - és leteszteltem, hogy azt csinálja-e amit kértek tőlem
     - értékelem, hogy az elvárásokhoz képest mit tud / nem tud / miben tud többet”
@@ -286,9 +288,11 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
     - milyen potenciális dolgokat látsz benne még, amire nem jutott idő / energia , de nagyon jó lenne ha még benne lenne
     - az ötletek megalapozottak legyenek, ne légbőlkapottak
 - **`9. Összegzés`** (3/4 oldal)
-    - rövid összefoglalás a dolgozatról, eredmények bemutatása
-    - nagyon hasonló, mint az absztrakt, sok esetben vele megegyezik (viszont akinél megegyezik ott javasolt csak az egyiket megtartani)
-    - attól függően, hogy absztrakt vagy befejezés van, kell egy magyar és egy angol verzió is (ha van mind a kettő, akkor az absztrakt legyen a magyar, és utána egy 'abstract' ami angol, a befejezés meg sima magyar)
+    - rövid összefoglalás a dolgozatról, eredmények szummázása és a dolgozat lezárása
+    - az összegzés lehet kicsit személyesebb hangvételű is akár (pl. köszönetnyilvánítás)
+    - nagyon hasonló, mint az absztrakt, de:
+        - az absztrakt egy tömör kivonata a teljes munkának, amit elolvasva az olvasó egy átfogó képet kell kapjon a teljes munkáról / dolgozatról (mi volt a cél, mik voltak elemezve, mi lett megtervezve és milyen eredmények lettek elérve)
+        - az összegzés ehhez képest önmagában nem értelmezhető, csak akkor, ha a teljes dolgozatot végigolvasta az olvasó
 - **`Irodalomjegyzék`**
     - lásd Szakdolgozat 1.-ben taglaltak szerint
 - **`Ábrajegyzék`**
