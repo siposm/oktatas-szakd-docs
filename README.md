@@ -443,11 +443,12 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
 ### Általános információk
 - általában 8-10 perces előadással készüljetek, de a hivatalos, adott félévre vonatkozó tájékoztató ettől eltérhet, így van, hogy csak 8, vagy akár csak 5 perc áll rendelkezésre
 - az előadást úgy kell tudni felépíteni, hogy ha a helyszínen derül ki, hogy csak 5 perc áll rendelkezésre, akkor bizonyos részeket tudj rövidebben elmondani amik amúgy nem annyira lényegesek
-- a tartalom tükrözze a féléves munkátokat
-    - mivel eddig (sokatoknál) csak irodalomkutatás van, leginkább egy "fejtágító" dologról lesz szó
-    - DE már van rendszerterv, specifikáció stb. azokat nyugodtan bele lehet tenni és beszélni róluk
-    - akiknek van munka projektmunka tárgyakról ott természetesen az is legyen benne mint "már fejlesztés alatt álló rendszer", esetleg rövid bemutatóval, hogy mit tud jelenleg. (bemutató esetén javaslom .gif készítését, mivel a ppt-ben vetítés közben az fixen és jól működik. Videóval lehetnek gondok)
-    - tehát a fő lényeg, hogy a **saját munkáról** beszéljetek (**mit** csináltál, **miért** csináltad, **hogyan** csináltad) ne pedig arról, hogy a 128. keretrendszerben melyik függvényt hívnád meg itt-ott
+- a tartalom tükrözze a féléves munkátokat, tehát:
+    - mi a dolgozat célja: az alap probléma és a célkitűzés bemutatása
+    - miket, miért és hogyan vizsgáltál meg: az irodalomkutatás bemutatása, a szakmai háttér ismertetése
+    - mit, miért és hogyan terveztél meg: kapjanak nagy hangsúlyt a tervezéssel kapcsolatos részek, úgy mint rendszerterv, specifikáció, diagrammok stb. (ez az a rész, ami már kézzel fogható saját munka)
+    - akiknek van munka projektmunka tárgyakról ott természetesen az is legyen benne mint "már fejlesztés alatt álló rendszer", esetleg rövid bemutatóval, hogy mit tud jelenleg. (bemutató esetén javaslom .gif készítését, mivel a ppt-ben vetítés közben az fixen és jól működik, videóval lehetnek gondok)
+    - tehát a fő lényeg, hogy a **saját munkáról** beszéljetek (**mit** csináltál, **miért** csináltad, **hogyan** csináltad) ne pedig arról, hogy a 128. keretrendszerben melyik függvényt hívnád majd meg itt-ott
 - előre meghatározott "ennyi legyen" diaszám így konkrétan nincsen, de főbb fejezeteknek érdemes a szakdoga fejezeteit választani
 - az előadást feltétlen gyakorold át párszor, legyen egy gondolatmenet a fejedben, hogy mi alapján akarod végigmondani az egészet
 - ami mindenképpen legyen a diában:
