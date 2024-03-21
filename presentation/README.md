@@ -19,7 +19,7 @@
         - hallgató törzsszám
         - végzés féléve
         - konzulens neve és titulusa
-        - szakirány megnevezése ahova jársz (teljes kiírás)
+        - specializáció megnevezése ahova jársz (teljes kiírás)
         
 ## Amit érdemes kerülni
 - nem begyakorolni a védést, mondván "úgyis menni fog majd"

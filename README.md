@@ -461,7 +461,7 @@ Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból sz
         - hallgató törzsszám
         - végzés féléve
         - konzulens neve és titulusa (a lentebbi minta borítóképek régebben készültek, jelenleg "Egyetemi Tanársegéd" a titulusom)
-        - szakirány megnevezése ahova jársz (teljes kiírás)
+        - specializáció megnevezése ahova jársz (teljes kiírás)
         
 ### Amit érdemes kerülni
 - nem begyakorolni a védést, mondván "úgyis menni fog majd"
