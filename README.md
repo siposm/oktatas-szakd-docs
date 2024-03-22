@@ -353,6 +353,9 @@ A tervezés fejezetben mindenképpen jelenjenek meg konkrét ábrák a különb�
 ### Folyamatábra
 Szintén vannak bizonyos folyamatok, amelyek nagyon jól szemléltethetők folyamatábra segítségével. Akár a rendszer teljes egészét, akár egy bizonyos kiemelendő részét érdemes így bemutatni.
 
+### Use-case diagram
+A use-case diagramok használatát érdemes limitálni. Amennyiben a rendszer nem kellően komplex, akkor az ilyen típusú diagramok túl egyszerűen néznek ki, ekkor pedig a dolgozat komolyságát rombolják.
+
 ### Teljes rendszer terve
 Fontos, hogy megjelenjen egy high-level terv arról, amit szeretnél készíteni. Ez azért kell, mert máskülönben nem lesz "kézzel fogható" kimenete a tervezésnek. Itt nagyjából rád van bízva, hogy mennyire szeretnél részletes tervet készíteni, de mindenképpen tükröződnie kell a főbb moduloknak a tervből.
 
