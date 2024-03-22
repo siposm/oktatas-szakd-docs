@@ -365,44 +365,24 @@ Szintén érdemes meghatározni egy agenda-szerűséget, hogy pontosan melyik ko
 Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból származnak, melyek felhasználhatóságát ezúton is köszönök hallgatóimnak.
 
 ### Rendszertervek
-#### Csuzdi Bence & Seres Richárd
-![rendszerterv](planning/rendszerterv.png)
-
-#### Kaló Áron
-![rendszerterv](planning/rendszerterv2.png)
-
-#### Kaló Áron
-![rendszerterv](planning/rendszerterv3.png)
-
-#### Falus Dániel
-![rendszerterv](planning/rendszerterv4.png)
+- [Csuzdi Bence & Seres Richárd](planning/rendszerterv.png)
+- [Kaló Áron](planning/rendszerterv2.png)
+- [Kaló Áron](planning/rendszerterv3.png)
+- [Falus Dániel](planning/rendszerterv4.png)
 
 ### Szekvencia diagramok
-#### Csuzdi Bence
-![szekvencia diagram](planning/szekvencia-diagram.png)
-
-#### Falus Dániel
-![szekvencia diagram](planning/szekvencia-diagram2.png)
-
-#### Félix Bálint
-![szekvencia diagram](planning/szekvencia-diagram3.png)
+- [Csuzdi Bence](planning/szekvencia-diagram.png)
+- [Falus Dániel](planning/szekvencia-diagram2.png)
+- [Félix Bálint](planning/szekvencia-diagram3.png)
 
 ### Folyamatábrák
-#### Csuzdi Bence
-![folyamatabra](planning/folyamatabra.png)
-
-#### Falus Dániel
-![folyamatabra](planning/folyamatabra2.png)
+- [Csuzdi Bence](planning/folyamatabra.png)
+- [Falus Dániel](planning/folyamatabra2.png)
 
 ### Fejlesztés tervezett menete
-#### Félix Bálint
-![fejlmenet](planning/fejlmenet.png)
-
-#### Róth Bence
-![fejlmenet](planning/fejlmenet2.png)
-
-#### Béres Mátyás
-![fejlmenet](planning/fejlmenet3.png)
+- [Félix Bálint](planning/fejlmenet.png)
+- [Róth Bence](planning/fejlmenet2.png)
+- [Béres Mátyás](planning/fejlmenet3.png)
 
 <br><br>
 <br><br>
@@ -414,17 +394,13 @@ A tesztelés rész lényege, hogy valamilyen bizonyítékot tudjunk szolgáltatn
 
 Fontos, hogy a tesztelésből készüljön egy táblázatos, jól feldolgozható és egyértelmű kimenet, ahol látható, hogy mit és miért teszteltünk és sikeres volt-e. Erről az alábbi ábra ad egy nagyon jó mintát/kiindulási alapot.
 
-Természetesen ha egy teszt nem sikeres, mert valamilyen okból kifolyólag pl. azt a részét a fejlesztésnek nem sikerült sikeresen teljesítenünk nincs semmi gond, nyugodtan belekerülhet pl. piros iksz jelöléssel, hogy sikertelen. Ha az összkép szerint a lényeges és legtöbb dolog teljesül és sikeresen le lett fejlesztve, akkor nincs gond. A valósághoz hozzátartozik, hogy bizonyos dologra nem maradt kellő mértékű idő, ettől nem kell tartani.
+Természetesen ha egy teszt nem sikeres, mert valamilyen okból kifolyólag pl. azt a részét a fejlesztésnek nem sikerült sikeresen teljesítenünk, akkor nincs semmi gond, nyugodtan belekerülhet pl. piros x jelöléssel, hogy sikertelen. Ha az összkép szerint a lényeges és legtöbb dolog teljesül és sikeresen le lett fejlesztve, akkor nincs gond. A valósághoz hozzátartozik, hogy bizonyos dologra nem maradt kellő mértékű idő, ettől nem kell tartani.
 
 ## Példák
 Az alább látható példák kész szakdolgozatokból vagy TDK dolgozatokból származnak, melyek felhasználhatóságát ezúton is köszönök hallgatóimnak.
 
-#### Falus Dániel
-![teszt](testing/teszt1.png)
-![teszt](testing/teszt2.png)
-![teszt](testing/teszt3.png)
-#### Buzási Simon
-![teszt](testing/teszt4.png)
+- [Falus Dániel](testing/testing1.png)
+- [Buzási Simon](testing/testing2.png)
 
 <br><br>
 <br><br>
