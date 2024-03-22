@@ -365,7 +365,10 @@ Szintén vannak bizonyos folyamatok, amelyek nagyon jól szemléltethetők folya
 - [Falus Dániel](planning/folyamatabra2.png)
 
 ### Use case diagram
-A use case diagramok használatát érdemes limitálni. Amennyiben a rendszer nem kellően komplex, akkor az ilyen típusú diagramok túl egyszerűen néznek ki, ekkor pedig a dolgozat komolyságát rombolják.
+A use case diagramok használatát érdemes limitálni, vagy legalábbis körültekintéssel kezelni. Amennyiben a rendszer nem kellően komplex, akkor az ilyen típusú diagramok túl egyszerűen néznek ki, ekkor pedig a dolgozat komolyságát rombolják.
+
+#### Példák, minták
+- [Szanyi Szabolcs](planning/usecase.png)
 
 ### Teljes rendszer terve
 Fontos, hogy megjelenjen egy high-level terv arról, amit szeretnél készíteni. Ez azért kell, mert máskülönben nem lesz "kézzel fogható" kimenete a tervezésnek. Itt nagyjából rád van bízva, hogy mennyire szeretnél részletes tervet készíteni, de mindenképpen tükröződnie kell a főbb moduloknak a tervből.
@@ -375,6 +378,7 @@ Fontos, hogy megjelenjen egy high-level terv arról, amit szeretnél készíteni
 - [Kaló Áron](planning/rendszerterv2.png)
 - [Kaló Áron](planning/rendszerterv3.png)
 - [Falus Dániel](planning/rendszerterv4.png)
+- [Szanyi Szabolcs](planning/rendszerterv5.png)
 
 ### Fejlesztés tervezett menete
 Szintén érdemes meghatározni egy agenda-szerűséget, hogy pontosan melyik komponensek fejlesztése élvez prioritást, valamint, hogy pontosan mi lesz a fejlesztésnek az általános üteme. Ezt lehet akár folyamatábrával vagy pedig Gantt-diagrammal is ábrázolni. Minden esetben jelenjen meg a tesztelés is, valamint erősen javasolt csúszási időtartalékkal is számolni.
@@ -383,6 +387,12 @@ Szintén érdemes meghatározni egy agenda-szerűséget, hogy pontosan melyik ko
 - [Félix Bálint](planning/fejlmenet.png)
 - [Róth Bence](planning/fejlmenet2.png)
 - [Béres Mátyás](planning/fejlmenet3.png)
+
+### API végpont lista, funkciólista
+A funkciólista akár egybe is vonható egy API végpont listával (amennyiben a feladat ezt a fajta fejlesztési módszert használja), de kezelhető külön fejezetként is. Amennyiben a feladatban van szerver-kliens kapcsolat és API alapú kommunikáció, úgy elvárt egy API végpont lista tervet készíteni, ami egybevághat a funkciólistával, de lehetnek eltérések is.
+
+#### Példák, minták
+- [Szanyi Szabolcs](planning/apiendpointlist.png)
 
 <br><br>
 <br><br>
