@@ -262,7 +262,21 @@ A repository létrehozásának a következő a menete:
 
 Ha valaki korábbi **projektmunkázó** hallgató, akkor a már meglévő repóját fogom átmigrálni a [projektmunkázó csoportból](https://github.com/projektmunkazok-siposm) a [szakdolgozó csoportba](https://github.com/szakdolgozok-siposm). Tehát újat nem kell majd létrehozni. A szükséges módosításokról majd Teams-en értesítek mindenkit.
 
-A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén szeretnék látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről-hétre lehetőleg. Erről egy elvárt commit history itt alább látható.
+## Kódolási elvárások
+### Readme
+A repó gyökerében ha én nem hozok létre alapból, akkor ti hozzatok létre egy `README.md` nevű és kiterjesztésű állományt. Az ebben foglaltak később felhasználhatók a dolgozat Mellékletek című fejezetében (ahogy erről lentebb is írok). Ebbe a readme-be kéretik röviden leírni, hogy:
+- a projekt beüzemeléséhez milyen alkalmazások kellenek (és melyiket mire lehet használni); valamint, hogy milyen eszközök kellenek telepítve legyenek
+    - példa:
+        - alkalmazások: VSCode (kód megnyitása), DataGrip (adatbázis figyelése)
+        - eszközök: node, npm, angular cli (Angular frontend futtatásához), dotnet core xy verzió (backend futtatásához)
+- a projekt elindítása honnan és milyen paranccsal tehető meg
+    - példa: a backend-et a `dotnet build`, majd `dotnet run` paranccsal lehet futtatni a `/backend` mappából, a frontendet pedig a `/client` mappából az `npm i` parancsot követően az `ng serve` paranccsal lehet futtatni
+- a beüzemelést követően mi honnan érhető el
+    - példa: a backend a `127.0.0.1/api/xy` végpontokon fogad kéréseket, de a swagger a `localhost:5000/api/swagger` url-ől érhető el, a frontend pedig a `localhost:5500` végpontről érhető el böngészőből
+- miután fut az alkalmazás, hol és milyen előre létrehozott user-pass párossal lehet belépni és tesztelni a funkciókat
+
+### Commit
+A repót természetesen rendeltetésszerűen használjátok, tehát nem a félév végén szeretnék látni 1 db commit + push kombinációt, hanem szépen a munka előrehaladását, hétről-hétre lehetőleg. Erről egy elvárt commit history itt alább látható. A félév végére, a leadásnál minden a master branch-be legyen bemergelve, az tekinthető a végleges, leadott állapotnak.
 
 ![commits example image](commits-example.jpg)
 
@@ -300,9 +314,10 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 - **`Táblajegyzék`** (ha van)
     - lásd Szakdolgozat 1.-ben taglaltak szerint
 - **`Mellékletek`** (ha van)
-    - aki olyan rendszert csinált ami online, ott javasolt mellékletekben megadni, hogy hol és hogyan érhető el a rendszer, milyen login adatokkal stb.
-    - akinél nem ilyen dologról van szó, ott pedig leírni azokat a lépéseket ahogy a rendszert be lehet üzemelni
-    - a kész rendszerről képeket, funkciók bemutatását képekkel is ide kell elhelyezni és röviden leírni, hogy mit látunk 
+    - aki olyan rendszert csinált ami online is elérhető, ott javasolt mellékletekben megadni, hogy hol és hogyan érhető el a rendszer, milyen login adatokkal lehet belépni, stb.
+    - akinél nem ilyen dologról van szó, ott pedig leírni azokat a lépéseket amikkel a rendszert egy üres gépen be lehet üzemelni (tehát milyen szükséges keretrendszerek szükségesek a futtatáshoz (pl. node, dotnetcore stb.))
+    - itt egy az egyben felhasználók a repository readme-jében leírtak
+    - a kész rendszerről képeket, az egyes főbb funkciók bemutatását képekkel is ide kell elhelyezni és röviden leírni, hogy mit látunk
 
 ### Nettó terjedelem (oldalszám)
 A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [elvárások](#nettó-terjedelem-oldalszám) (~40 oldal) esetén a kész Szakdolgozat ideálisan 60-65 oldalas kell, hogy legyen. A kevesebb ugyan úgy nem jó, mint a (jelentősen) több! A Hivatalos Szakdolgozat tájékoztató [(link az oldal alján)](https://users.nik.uni-obuda.hu/siposm/szakd) szerint 60 oldal az elvárt, ezt pár oldallal feljebb tudjuk tolni (innen a 65) ha ez szakmailag indokolt a dolgozatban.
