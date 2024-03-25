@@ -341,7 +341,11 @@ A szakdolgozathoz tartozó anyagokat a Diplomáztatási Csoport elvárásai alap
   - Mivel mindenki ilyenkor megy, ezért úgy dolgoznak, hogy 1 nap átfutás van (általában minden helyen 1-2 nap); de van SOS köttetés ami feláras, de akkor instant megcsinálják. 
 
 ## Bírálat
-A szakdolgozat leadását követően, a konzulens egy külső, független bíráló személy bírálatát kezdeményezi. A bíráló személye alapvetően független az egyetemtől, de nem szükségszerűen. A bíráló egy olyan személy, aki a szakdolgozat témájában jártas, magas szintű szaktudással rendelkezik, így releváns megítéléssel tud lenni a szakdolgozat tartalmával kapcsolatban. A bíráló vizsgálja a dolgozat külső, formai megjelenését; a szakmai tartalom komplexitását; a szakmai tartalom kidolgozásának részletességét és mélységét; valamint az elért eredményeket (azok összhangját az eredeti célkitűzéssel) és azok bemutatását.
+A szakdolgozat leadását követően, a konzulens egy külső, független bíráló személy bírálatát kezdeményezi. A bíráló személye alapvetően független az egyetemtől, de nem szükségszerűen. A bíráló egy olyan személy, aki a szakdolgozat témájában jártas, magas szintű szaktudással rendelkezik, így releváns megítéléssel tud lenni a szakdolgozat tartalmával kapcsolatban.
+
+A bíráló vizsgálja a dolgozat külső, formai megjelenését; a szakmai tartalom komplexitását; a szakmai tartalom kidolgozásának részletességét és mélységét; valamint az elért eredményeket (azok összhangját az eredeti célkitűzéssel) és azok bemutatását.
+
+Ezekhez az is hozzá tartozik, hogy a kódba belenéz, esetlegesen futtatja az alkalmazást - így meggyőződve arról, hogy minden tényleg elkészült-e és jól készült-e el. Éppen ezért fontos, hogy a repóban a readme-t ha megfelelően kitöltitek a fentebb írt elvárásoknak megfelelően, majd ugyan ezek mentén a dolgozat mellékletek fejezetében is leírjátok ezeket, akkor a bíráló könnyen be tudja üzemelni szükség esetén a leadott kódbázist.
 
 ## Védés
 Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalosan a szakdoga2 leadását követné a záróvizsga, ahol hasonlóan, mint szd1 esetén meg kell védeni és elő kell adni a dolgozatot amin dolgoztál. Természetesen a záróvizsga ideje csúszhat, ha te nem éppen akkor végzel. A védéshez szükséges szintén egy prezentáció, csak úgy mint szd1 esetén, erről mindenkivel egyeztetek majd ha ott tartunk. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](#prezentáció-védés-beszámoló).
