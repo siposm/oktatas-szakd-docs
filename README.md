@@ -401,6 +401,7 @@ Fontos, hogy megjelenjen egy high-level terv arról, amit szeretnél készíteni
 - [Kaló Áron](planning/rendszerterv3.png)
 - [Falus Dániel](planning/rendszerterv4.png)
 - [Szanyi Szabolcs](planning/rendszerterv5.png)
+- [Rajnai Gábor](planning/rendszerterv6.png)
 
 ### Fejlesztés tervezett menete
 Szintén érdemes meghatározni egy agenda-szerűséget, hogy pontosan melyik komponensek fejlesztése élvez prioritást, valamint, hogy pontosan mi lesz a fejlesztésnek az általános üteme. Ezt lehet akár folyamatábrával vagy pedig Gantt-diagrammal is ábrázolni. Minden esetben jelenjen meg a tesztelés is, valamint erősen javasolt csúszási időtartalékkal is számolni.
