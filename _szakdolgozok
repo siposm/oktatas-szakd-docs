@@ -1,38 +1,19 @@
 @Kerékpár személyre szabását segítő alkalmazás valósidejű képfeldolgozás felhasználásával#Konyári László
-Testhőmérséklet mérő beléptetőrendszer készítése deep learning alapú maszkfelismeréssel#Tóth Krisztián
+@Testhőmérséklet mérő beléptetőrendszer készítése deep learning alapú maszkfelismeréssel#Tóth Krisztián
 Hangalapú csoportmunkát támogató webalkalmazás készítése#Riczu Csaba
-Papír alapú nyugta feldolgozása OCR segítségével#Kiss Gabriella
 Kártya katalógus digitalizáló android alkalmazás képfelismerő algoritmusok és felhő szolgáltatások alkalmazásával#Nagy Bálint
 Hangulat monitorozó közösségi alkalmazás#Takács Petra
-Emlékgyűjtő modul fejlesztése Microsoft Teams rendszerhez#Márkus Roland
-Teljeskörű eSport menedzser alkalmazás készítése#Biró Zsombor
-FriendZone - barátkereső alkalmazás készítése Flutter-ben#Vass Bence
+@Emlékgyűjtő modul fejlesztése Microsoft Teams rendszerhez#Márkus Roland
 Elektronikus vállalati aláíró és munkafolyamat platform UI fejlesztése és tesztelése#Káposzta Kolos
 Újonnan listázott kriptovaluta viselkedésének predikciójára szolgáló deep learning rendszer#Bálint Ábel
-Közösségi profilok kapcsolatának gráfalapú reprezentációja#Pomázi Marcell
 Követők felderítése és elemzése szociális platformokon#Mátyus Márkó
-Profilhoz rendelt dokumentum hitelesítő cross-platform rendszer#Taraczközi Máté
-Közösségi média felhasználói aktivitás és viselkedés elemzése#Suri Kristóf
-Procedurális pályagenerálás videójátékban#Farkas Elek
-Tananyag értékelő platform Angular és DevExtreme felhasználásával#Sillye Gergely
-Minőségbiztosítást támogató reporting alkalmazás Angular és Java környezetben#Nagy Zsolt
+@Tananyag értékelő platform Angular és DevExtreme felhasználásával#Sillye Gergely
 Tesztautomatizálás Microsoft Dynamics 365 Business Central-ban#Szilágyi Ferenc
-Tananyag értékelő alkalmazás Angular-ban#Budai Dávid
-Zene streaming Angular alkalmazás geodata támogatással#Szanyi Szabolcs
-Valós idejű csomagfutár webalkalmazás Angular-ban#Borossa Zoltán
-Otthonápolás digitalizálása a betegbiztonságért#Bognár Bence
-ChatGPT integrálása chatbottal rendelkező webalkalmazásba#Acsai András
-Lakótárs értékelő alkalmazás hallgatóknak Angular keretrendszerben#Sörös Bence
 Blokklánc alapú orvos értékelő rendszer Metamask integrációval#Pongor Péter
-YouDo: Teendő és időmenedzsment alkalmazás Angular-ban#Molnár Ákos Benedek
-Egyetemi navigációs fullstack alkalmazás fejlesztése#Gyöngyösi Dávid
 Webalkalmazásba integrált biztonságos felhasználói azonosítás blokkláncon#Schäffer Tamás
 Angular-ban létrehozott hallgatói fórum OTP-alapú biztonságos belépéssel#Szalai István
-ChatGPT alapú tanulástámogató rendszer#Rajnai Gábor
-ChatGPT és Google translate fordítási eredményeinek összehasonlítása#Keresztúri András
-Véletlenszerű játékpálya-generálás változó algoritmusok használatával#Marosffy Bálint Géza
 ChatGPT integrálása tanulást segítő chatbot alkalmazásba#Ambrus Attila
-Digitális identitáskezelő rendszer blokklánc használatával#Szentgyörgyi Zoltán
+@Digitális identitáskezelő rendszer blokklánc használatával#Szentgyörgyi Zoltán
 Tananyag értékelő platfrom mesterséges intelligencia támogatással#Tasi Tamás
 Követői adatok elemzése szociális platformokon big data eszközökkel#Füzér Levente
 Felhő alapú influenszer követő-like korreláció elemzés#Bedő Sebestyén
