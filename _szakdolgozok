@@ -1,26 +1,19 @@
 @Kerékpár személyre szabását segítő alkalmazás valósidejű képfeldolgozás felhasználásával#Konyári László
 @Testhőmérséklet mérő beléptetőrendszer készítése deep learning alapú maszkfelismeréssel#Tóth Krisztián
-Hangalapú csoportmunkát támogató webalkalmazás készítése#Riczu Csaba
-Kártya katalógus digitalizáló android alkalmazás képfelismerő algoritmusok és felhő szolgáltatások alkalmazásával#Nagy Bálint
 Hangulat monitorozó közösségi alkalmazás#Takács Petra
 @Emlékgyűjtő modul fejlesztése Microsoft Teams rendszerhez#Márkus Roland
 Elektronikus vállalati aláíró és munkafolyamat platform UI fejlesztése és tesztelése#Káposzta Kolos
 Újonnan listázott kriptovaluta viselkedésének predikciójára szolgáló deep learning rendszer#Bálint Ábel
 Követők felderítése és elemzése szociális platformokon#Mátyus Márkó
 @Tananyag értékelő platform Angular és DevExtreme felhasználásával#Sillye Gergely
-Tesztautomatizálás Microsoft Dynamics 365 Business Central-ban#Szilágyi Ferenc
 Blokklánc alapú orvos értékelő rendszer Metamask integrációval#Pongor Péter
 Webalkalmazásba integrált biztonságos felhasználói azonosítás blokkláncon#Schäffer Tamás
-Angular-ban létrehozott hallgatói fórum OTP-alapú biztonságos belépéssel#Szalai István
 ChatGPT integrálása tanulást segítő chatbot alkalmazásba#Ambrus Attila
 @Digitális identitáskezelő rendszer blokklánc használatával#Szentgyörgyi Zoltán
 Tananyag értékelő platfrom mesterséges intelligencia támogatással#Tasi Tamás
-Követői adatok elemzése szociális platformokon big data eszközökkel#Füzér Levente
-Felhő alapú influenszer követő-like korreláció elemzés#Bedő Sebestyén
 Blokklánc-alapú kommunikációs alkalmazás#Licciardello Claudio
 Chat alkalmazás létrehozása blokkláncon#Andruskó Zoltán
 ChatGPT és Google Translate fordítási erdeményeinek elemzése felhőtechnológiákkal#Egyed Pál
-Procedurálisan generált labirintusok létrehozása és validálása#Varga Zsombor
 Szakmai hallgatói közösségépítésre szolgáló platform létrehozása#Szappanos Benedek
 AI chatbot integrálása webalkalmazásba#Kovács Róbert [MSc]
 Blokklánc tranzakciós gráf elemzése képfeldolgozási eljárásokkal#Győri Bence [MSc]
@@ -31,6 +24,6 @@ Influenszer adatok statisztikai vizsgálata, elemzése#Bereczki István
 Blokklánc tranzakciós gráfok elemzése MI módszerekkel#Ragály Szabolcs
 Kardiovaszkuláris betegségek predikciója klinikai adatok alapján#Rahyab Ábel
 Mesterséges intelligencia alapú ajánlórendszer fejlesztése webshophoz#Zsolt Szilvási
-Forgalom analízis és előrejelzés mély tanulás segítségével.#Gubányi Ferenc
+Forgalom analízis és előrejelzés mély tanulás segítségével#Gubányi Ferenc
 Online áruház (weboldal) és alkalmazás fejlesztése egy mezőgazdasági vállalat számára a hazámban#Degenbaev Iskender S.
 Ügyféltámogató chatbot fejlesztése a ChatGPT segítségével#Tenuun Enhzsargal
