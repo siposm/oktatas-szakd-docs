@@ -344,7 +344,7 @@ A repót természetesen rendeltetésszerűen használjátok, tehát nem a félé
 
 ### Nettó terjedelem (oldalszám)
 
-A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [elvárások](#nettó-terjedelem-oldalszám) (~40 oldal) esetén a kész Szakdolgozat ideálisan 60-65 oldalas kell, hogy legyen. A kevesebb ugyan úgy nem jó, mint a (jelentősen) több! A Hivatalos Szakdolgozat tájékoztató [(link az oldal alján)](https://users.nik.uni-obuda.hu/siposm/szakd) szerint 60 oldal az elvárt, ezt pár oldallal feljebb tudjuk tolni (innen a 65) ha ez szakmailag indokolt a dolgozatban.
+A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [elvárások](#nettó-terjedelem-oldalszám) (~40 oldal) esetén a kész Szakdolgozat ideálisan 60-65 oldalas kell, hogy legyen. A kevesebb ugyan úgy nem jó, mint a (jelentősen) több! A Hivatalos Szakdolgozat tájékoztató [(Szakdolgozóimnak szóló anyagok rész)](https://users.nik.uni-obuda.hu/siposm/szakd) szerint 60 oldal az elvárt, ezt pár oldallal feljebb tudjuk tolni (innen a 65) ha ez szakmailag indokolt a dolgozatban.
 
 ## Konzultációs napló II
 
@@ -356,17 +356,15 @@ A szakdolgozathoz tartozó anyagokat a Diplomáztatási Csoport elvárásai alap
 
 ## Leadás menete (félév vége)
 
-* Megírjátok a dolgozatot.
-* A félév végén ha minden ok, elfogadom.
-* Átadom a konz. naplót (nem aláírva).
-* A konz. naplóval együtt (+ még sok dolog, amiket a Diplomáztatási Csoport ír meg nektek) elmentek kinyomtatni és leköttetni.
-* A lekötött szakdogát visszahozzátok nekem és az utolsó lépés, hogy a konz. naplót aláírom a már bekötött szakdogában.
-* Utána mehettek leadni a Diplomáztatási Csoport irodájába, aminek a határideje emlékeim szerint mindig: 14. szorgalmi hét szerda 15:00-ig bezárólag. Tehát én azt javasolnám, hogy 13. szorgalmi hét végére már 100%-os legyen a munka, hétfőn / kedden nyomtatás és köttetés, szerda leadás. (Megj.: nem tudom, hogy van-e ilyen +1 hét határidő díj ellenében, de nem is szeretnék ezzel foglalkozni; tartsuk magunkat a menetrendhez.)
+A leadás menetét (hol mit mikor meddig hogyan) a Diplomáztatási Csoport hivatalos csatornán megküldi. Az utolsó MK után mindenkinek megírom, hogy elfogadható-e a munkája a félévben és ha igen, akkor hol és mikor tudja a konzultációs naplót átvenni.
+
+A konzultációs napló átvételekor már hozzátok magatokkal az eredeti feladatkiírási lap példányát, amelyet a Diplomáztatási Csoportnál tudtok átvenni. Ezt nekem alá kell írnom, egyéb esetben nem elfogadható a szakdolgozat és ennek hiányában a konzultációs naplót sem adom át.
+
+Ezt követően a dolgozat leadható az instrukciók mentén. A szakdolgozatba kötelezően bele kell tenni: a hallgatói nyilatkozatot megfelelően kitöltve és aláírva, az 1. aláírt konzultációs naplót és a 2. aláírt konzultációs naplót. Ezek hiányában a dolgozat nem elfogadható.
 
 ## Szakdolgozat köttetés
 
-* Köttetésnél én a CopyGuru-t javaslom, van egy a Jászai Mari tér környékén, szép munkát csinálnak.
-* Mivel mindenki ilyenkor megy, ezért úgy dolgoznak, hogy 1 nap átfutás van (általában minden helyen 1-2 nap); de van SOS köttetés ami feláras, de akkor instant megcsinálják.
+Hivatalosan már nem kell leköttetni a dolgozatot, azonban az én javaslatom az, hogy ezt mégis tegyétek meg, akár záróvizsga után. Szép emlék, egy korszak lezárását szimbolizálja.
 
 ## Bírálat
 
@@ -378,7 +376,7 @@ Ezekhez az is hozzá tartozik, hogy a kódba belenéz, esetlegesen futtatja az a
 
 ## Védés
 
-Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalosan a szakdoga2 leadását követné a záróvizsga, ahol hasonlóan, mint szd1 esetén meg kell védeni és elő kell adni a dolgozatot amin dolgoztál. Természetesen a záróvizsga ideje csúszhat, ha te nem éppen akkor végzel. A védéshez szükséges szintén egy prezentáció, csak úgy mint szd1 esetén, erről mindenkivel egyeztetek majd ha ott tartunk. A prezentációról, annak tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](#prezentáció-védés-beszámoló).
+Szakdolgozat II-ből nincsen olyan védés, mint szd1 esetén, viszont hivatalosan a szakdoga2 leadását követné a záróvizsga, ahol hasonlóan, mint szd1 esetén meg kell védeni és elő kell adni a dolgozatot amin dolgoztál. Természetesen a záróvizsga ideje csúszhat, ha te nem éppen akkor végzel. A védéshez szükséges szintén egy prezentáció, csak úgy mint szd1 esetén, aminek tartalmáról, terjedelméről és kinézetéről [itt írok bővebben](#prezentáció-védés-beszámoló).
 
 <br><br>
 <br><br>
@@ -521,7 +519,6 @@ Természetesen ha egy teszt nem sikeres, mert valamilyen okból kifolyólag pl. 
 ### Amit érdemes kerülni
 
 * nem begyakorolni a védést, mondván "úgyis menni fog majd"
-
 * felolvasni a mondandó szöveget (ez ciki is és nincs rá lehetőség -- az felolvasás lenne, nem pedig előadás)
 * hatalmas fejezetek rámásolva folyószövegként a diára
   * nincs idő elolvasnia senkinek az előadás alatt
@@ -531,7 +528,6 @@ Természetesen ha egy teszt nem sikeres, mert valamilyen okból kifolyólag pl. 
 ### Amit érdemes alkalmazni
 
 * saját munkát előtérbe helyezni
-
 * (mérnöki) döntési pontokat hangsúlyozni (indokolni, hogy miért úgy döntöttél ahogy)
 * ábrákat alkalmazni, amiről könnyen és jól be lehet azonosítani a mondandó lényegét (pl. rendszerterv)
 * legyen erős kontraszt a betűk és a háttér között pl. fehér háttér fekete betű. persze lehet színeket is használni de érdemes figyelni arra, hogy olvasható maradjon (és ez nem csak a 4K-s otthoni monitorra igaz, hanem egy gyengébb minőségű projektorra is legyen igaz! ez utóbbi sokszor nem színhelyes, nem éles)
@@ -550,7 +546,6 @@ A prezentáció időtartama szintén 10 perc. A százalékos felbontás alapján
 ### Legyen bemutatva
 
 * szakd1-ről a bevezetése a témádnak, probléma felvetése és hogy mit készítettél, milyen eszközöket esetleg programnyelveket használtál (ez legyen tempós és gyors, nem ez a lényeg hanem a munka, lásd további pontok)
-
 * hogyan jutottál el ide, milyen problémákkal szembesültél és ezeket hogyan oldottad meg (mérnöki döntések)
 * mit tud a rendszer jelenleg (ehhez képest mi volt az elvárás / specifikáció)
 * hogyan tesztelted a rendszert
