@@ -1,29 +1,31 @@
-@Kerékpár személyre szabását segítő alkalmazás valósidejű képfeldolgozás felhasználásával#Konyári László
-@Testhőmérséklet mérő beléptetőrendszer készítése deep learning alapú maszkfelismeréssel#Tóth Krisztián
+@Újonnan listázott kriptovaluta viselkedésének predikciójára szolgáló deep learning rendszer#Bálint Ábel
+Emlékgyűjtő modul fejlesztése Microsoft Teams rendszerhez#Márkus Roland
+Tananyag értékelő platform Angular és DevExtreme felhasználásával#Sillye Gergely
+Digitális identitáskezelő rendszer blokklánc használatával#Szentgyörgyi Zoltán
 Hangulat monitorozó közösségi alkalmazás#Takács Petra
-@Emlékgyűjtő modul fejlesztése Microsoft Teams rendszerhez#Márkus Roland
 Elektronikus vállalati aláíró és munkafolyamat platform UI fejlesztése és tesztelése#Káposzta Kolos
-Újonnan listázott kriptovaluta viselkedésének predikciójára szolgáló deep learning rendszer#Bálint Ábel
 Követők felderítése és elemzése szociális platformokon#Mátyus Márkó
-@Tananyag értékelő platform Angular és DevExtreme felhasználásával#Sillye Gergely
 Blokklánc alapú orvos értékelő rendszer Metamask integrációval#Pongor Péter
 Webalkalmazásba integrált biztonságos felhasználói azonosítás blokkláncon#Schäffer Tamás
+Szakmai hallgatói közösségépítésre szolgáló platform létrehozása#Szappanos Benedek
 ChatGPT integrálása tanulást segítő chatbot alkalmazásba#Ambrus Attila
-@Digitális identitáskezelő rendszer blokklánc használatával#Szentgyörgyi Zoltán
 Tananyag értékelő platfrom mesterséges intelligencia támogatással#Tasi Tamás
 Blokklánc-alapú kommunikációs alkalmazás#Licciardello Claudio
 Chat alkalmazás létrehozása blokkláncon#Andruskó Zoltán
 ChatGPT és Google Translate fordítási erdeményeinek elemzése felhőtechnológiákkal#Egyed Pál
-Szakmai hallgatói közösségépítésre szolgáló platform létrehozása#Szappanos Benedek
-AI chatbot integrálása webalkalmazásba#Kovács Róbert [MSc]
-Blokklánc tranzakciós gráf elemzése képfeldolgozási eljárásokkal#Győri Bence [MSc]
+AI chatbot integrálása webalkalmazásba [MSc]#Kovács Róbert
+Blokklánc tranzakciós gráf elemzése képfeldolgozási eljárásokkal [MSc]#Győri Bence
 AI chatbot létrehozása ChatGPT integráció segítségével#Hunyadi Mátyás
 Kulturális faktorok áthidalása a globális szoftverfejlesztésben#Szénási Levente
 Adatbáziskezelés ChatGPT-n keresztül webes applikációban#Veres Bálint
 Influenszer adatok statisztikai vizsgálata, elemzése#Bereczki István
 Blokklánc tranzakciós gráfok elemzése MI módszerekkel#Ragály Szabolcs
-Kardiovaszkuláris betegségek predikciója klinikai adatok alapján#Rahyab Ábel [MSc]
-Mesterséges intelligencia alapú ajánlórendszer fejlesztése webshophoz#Zsolt Szilvási [MSc]
-Forgalom analízis és előrejelzés mély tanulás segítségével#Gubányi Ferenc [MSc]
-Online áruház (weboldal) és alkalmazás fejlesztése egy mezőgazdasági vállalat számára a hazámban#Degenbaev Iskender S.
-Ügyféltámogató chatbot fejlesztése a ChatGPT segítségével#Tenuun Enhzsargal [MSc]
+Kardiovaszkuláris betegségek predikciója klinikai adatok alapján [MSc]#Rahyab Ábel
+Mesterséges intelligencia alapú ajánlórendszer fejlesztése webshophoz [MSc]#Zsolt Szilvási
+Forgalom analízis és előrejelzés mély tanulás segítségével [MSc]#Gubányi Ferenc
+Ügyféltámogató chatbot fejlesztése a ChatGPT segítségével [MSc]#Tenuun Enhzsargal
+Természetes nyelvű adatbázis kezelés megvalósítása nagy nyelvi modell segítségével#Szalai Benjámin
+Mesterséges intelligenciával támogatott tanulókártya-generáló alkalmazás hallgatók számára#Dóra Zoltán
+Streaming platformok nézői szokásainak korrelációs vizsgálata, elemzése#Szabó Ádám Márk
+tidy: Könnyen használható, erősen típusos nyelv létrehozása Rust-ban a gyors szoftverfejlesztéshez#Dóczi Dominik
+Edzésoptimalizáló rendszer készítése mozgás- és pulzusadatok gépi tanuláson keresztüli elemzésével#Kovács Jácint
