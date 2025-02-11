@@ -29,3 +29,5 @@ Mesterséges intelligenciával támogatott tanulókártya-generáló alkalmazás
 Streaming platformok nézői szokásainak korrelációs vizsgálata, elemzése#Szabó Ádám Márk
 tidy: Könnyen használható, erősen típusos nyelv létrehozása Rust-ban a gyors szoftverfejlesztéshez#Dóczi Dominik
 Edzésoptimalizáló rendszer készítése mozgás- és pulzusadatok gépi tanuláson keresztüli elemzésével#Kovács Jácint
+Gráfalgoritmusok dinamikus szemléltetése tanulást támogató környezetben#Lestár Szebasztián Róbert
+Gyalogos figyelmetlenség kockázatának csökkentése valós idejű gyalogátkelőhely felismeréssel, és több szintes figyelmeztető rendszerrel#Endl Levente
