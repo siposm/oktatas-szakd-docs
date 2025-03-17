@@ -129,7 +129,7 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
     * motiváció a probléma megoldására
   * (szemben az absztrakttal, ebben nincsenek benne az elért eredmények, tehát ténylegesen csak egy kedvcsináló, bevezető (~trailer) a teljes dolgozathoz)
 * **`2. Irodalomkutatás`** (~ 20 - 25 oldal)
-  * **2.1. Hasonló rendszerek** (ez fix fejezet)
+  * **`2.1. Hasonló rendszerek`** (ez fix fejezet)
     * azon belül a vizsgált rendszerek bemutatása és levont következtetések
     * a fejezet végén legyen egy táblázatos összefoglalása a vizsgált rendszereknek
     * a táblázatban legyenek benne a szempontok, hogy mik alapján hasonlítottad össze a rendszereket, majd a szempontok alapján pontozd az egyes rendszereket
@@ -137,14 +137,14 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
     * a szempontok pl. olyanok legyenek, amelyek alapján a saját készítendő rendszeredet értékelni szeretnéd
     * a táblázat további célja, hogy egyértelműen (számszerűen!) kiderüljön, hogy mely funkciók érhetők el a vizsgált hasonló rendszerekben és ha elérhetők akkor mennyire működnek jól
       * nincs oldalszámnyi megkötés, de általánosan elmondható, hogy 3-4 db hasonló rendszer legyen elemezve, rendszerenként 1-1 oldalnyi terjedelemben, és ezen felül az (táblázatos és szöveges) összefoglalás is plusz 1 oldal
-  * egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
-  * egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
+  * **`2.x. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
+  * **`2.y. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
   * ...
-  * egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
+  * **`2.z. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
     * ilyen témák azok, amelyek kapcsolódnak a te munkádhoz
       * szoftverfejlesztés esetén pl. lehet írni a Git-ről és különböző workflow-król, elemezni azokat, hogy melyiket fogod választani
       * különböző algoritmusok amelyeket a szakterületen alkalmaznak (pl. képfeldolgozó vagy útkereső algoritmusok)
-  * **Összegzés** (ez fix fejezet)
+  * **`2.n. Összegzés`** (ez fix fejezet)
     * összefoglalása az irodalomkutatásnak, mire jutottunk, ez alapján mit fogok csinálni a megvalósítás kapcsán
 * **`3. Követelmény specifikáció`** (~ 1 oldal)
   * definiálni, hogy mik azok a szempontok, amiket elvárunk a rendszertől
