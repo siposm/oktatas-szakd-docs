@@ -14,60 +14,6 @@
 <br>
 <br>
 
-# Tartalomjegyzék
-
-* [Szakdolgozat I. tájékoztató](#szakdolgozat-i-tájékoztató)
-  * [Félévi mérföldkövek](#félévi-mérföldkövek)
-  * [A félév tartalma](#a-félév-tartalma)
-  * [Szakdolgozat I. védés](#szakdolgozat-i-védés)
-  * [Feladatkiírási lap](#feladatkiírási-lap)
-  * [Javaslat, hogy hogyan írd](#javaslat-hogy-hogyan-írd)
-    * [Formázási beállítások](#formázási-beállítások)
-    * [Plágium, lehivatkozások](#plágium-lehivatkozások)
-      * [Irodalom lehivatkozása](#irodalom-lehivatkozása)
-      * [Ábrák lehivatkozása](#ábrák-lehivatkozása)
-    * [Szerkesztő](#szerkesztő)
-    * [Javasolt fejezetcímek:](#javasolt-fejezetcímek)
-    * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám)
-  * [Konzultációs napló I.](#konzultációs-napló-i)
-
-* [Szakdolgozat II. tájékoztató](#szakdolgozat-ii-tájékoztató)
-  * [Félévi mérföldkövek](#félévi-mérföldkövek-1)
-  * [Repository létrehozása](#repository-létrehozása)
-  * [Kódolási elvárások](#kódolási-elvárások)
-    * [Readme](#readme)
-    * [Commit](#commit)
-  * [Javasolt fejezetcímek](#javasolt-fejezetcímek-1)
-    * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám-1)
-  * [Konzultációs napló II.](#konzultációs-napló-ii)
-  * [Diplomamunka portál](#diplomamunka-portál)
-  * [Leadás menete (félév vége)](#leadás-menete-félév-vége)
-  * [Szakdolgozat köttetés](#szakdolgozat-köttetés)
-  * [Védés](#védés)
-* [Tervezés](#tervezés)
-  * [Szekvencia diagram](#szekvencia-diagram)
-  * [Folyamatábra](#folyamatábra)
-  * [Teljes rendszer terve](#teljes-rendszer-terve)
-  * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete)
-  * [Példák](#példák)
-    * [Rendszertervek](#rendszertervek)
-    * [Szekvencia diagramok](#szekvencia-diagramok)
-    * [Folyamatábrák](#folyamatábrák)
-    * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete-1)
-* [Tesztelés](#tesztelés)
-* [Prezentáció, védés, beszámoló](#prezentáció-védés-beszámoló)
-  * [Szakdolgozat I.-re vonatkozó információk](#szakdolgozat-i-re-vonatkozó-információk)
-    * [Általános információk](#általános-információk)
-    * [Amit érdemes kerülni](#amit-érdemes-kerülni)
-    * [Amit érdemes alkalmazni](#amit-érdemes-alkalmazni)
-  * [Prezentáció sablon](#prezentáció-sablon)
-  * [Szakdolgozat II.-re vonatkozó információk](#szakdolgozat-ii-re-vonatkozó-információk)
-  * [Minta borító I.](#minta-borító-i)
-  * [Minta borító II.](#minta-borító-ii)
-
-<br>
-<br>
-
 # Szakdolgozat I. tájékoztató
 
 Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat I. tárgy menetrendjét, követelményeit és elvárásait`. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
