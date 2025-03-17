@@ -75,6 +75,12 @@ A hivatalos tájékoztatóban megadot paraméterek csak ajánlások, ezektől el
 * a betűtípus Times New Roman (de mindenképpen valamilyen talpas típus)
 * az alfejezetek három szint mélységig legyenek sorszámozva (negyedik szintig még el lehet menni sorszámozással, de törekedni kell arra, hogy ilyen mélység esetén máshogy legyen strukturálva a dokumentum)
 
+### Nyelvezet
+
+**A szakdolgozatnak egy összefüggő, folyószöveges formában megírt, olvasmányos terjedelmű műnek kell lennie, amely részletesen kifejti a választott témát, logikusan felépített szerkezetben, megfelelő szakmai nyelvezettel és alátámasztott érvekkel.**
+
+Ebből adódóan nem megfelelő, ha mondatonként új sor van kezdve (nem fb messenger beszélgetésben vagyunk), és az sem, ha minden egyes gondolat egy-egy lista felsorolásban van. Törekedni kell a bővített mondatokban történő megfogalmazásra, a bekezdések használatára (egy-egy bekezdés egy-egy összefüggő logikai egységet jelentsen). Listát ott és akkor használjunk, ha annak van értelme. Alfejezetek használatát is átgondoltan kell használni. Ha például létrehozunk 5 db 4-es szintű alfejezetet és mindegyikben csak 1-1 mondat van írva, akkor ott valamilyen más formában kéne inkább megírni. Pl. ilyen esetben nyugodtan folyószövegbe meg lehet fogalmazni ezt.
+
 ### Plágium, lehivatkozások
 
 Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! Utólag keresgélni nagyon rossz dolog.
