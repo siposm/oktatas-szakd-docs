@@ -306,7 +306,7 @@ A leadás menetét (hol mit mikor meddig hogyan) a Diplomáztatási Csoport hiva
 
 A konzultációs napló átvételekor már hozzátok magatokkal az eredeti feladatkiírási lap példányát, amelyet a Diplomáztatási Csoportnál tudtok átvenni. Ezt nekem alá kell írnom, egyéb esetben nem elfogadható a szakdolgozat és ennek hiányában a konzultációs naplót sem adom át.
 
-Ezt követően a dolgozat leadható az instrukciók mentén. A szakdolgozatba kötelezően bele kell tenni: a hallgatói nyilatkozatot megfelelően kitöltve és aláírva, az 1. aláírt konzultációs naplót és a 2. aláírt konzultációs naplót. Ezek hiányában a dolgozat nem elfogadható.
+Ezt követően a dolgozat leadható az instrukciók mentén. A szakdolgozatba kötelezően bele kell tenni: a hallgatói nyilatkozatot megfelelően kitöltve és aláírva, az 1. aláírt konzultációs naplót és a 2. aláírt konzultációs naplót. Ezek hiányában a dolgozat nem elfogadható. Hallgatói nyilatkozat esetén a a BSc képzés esetén a "szakdolgozat" szót, míg MSc képzésen esetén a "diplomamunka" szót kell aláhúzni.
 
 ## Szakdolgozat köttetés
 
