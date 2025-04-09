@@ -31,5 +31,5 @@ tidy: Könnyen használható, erősen típusos nyelv létrehozása Rust-ban a gy
 Edzésoptimalizáló rendszer készítése mozgás- és pulzusadatok gépi tanuláson keresztüli elemzésével#Kovács Jácint
 Gráfalgoritmusok dinamikus szemléltetése tanulást támogató környezetben#Lestár Szebasztián Róbert
 Gyalogos figyelmetlenség kockázatának csökkentése valós idejű gyalogátkelőhely felismeréssel, és több szintes figyelmeztető rendszerrel#Endl Levente
-Videojáték-szerverek teljesítményének skálázása szerver mesh technológia alkalmazásával [MSc]#Türk Balázs István
-Plágium detektálása szoftverkódokban mesterséges intelligencia segítségével [MSc]#Lőrincz Gergő Bence
+Videojáték-szerverek teljesítményének skálázása szerver mesh technológia alkalmazásával#Türk Balázs István
+Plágium detektálása szoftverkódokban mesterséges intelligencia segítségével#Lőrincz Gergő Bence
