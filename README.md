@@ -14,60 +14,6 @@
 <br>
 <br>
 
-# Tartalomjegyzék
-
-* [Szakdolgozat I. tájékoztató](#szakdolgozat-i-tájékoztató)
-  * [Félévi mérföldkövek](#félévi-mérföldkövek)
-  * [A félév tartalma](#a-félév-tartalma)
-  * [Szakdolgozat I. védés](#szakdolgozat-i-védés)
-  * [Feladatkiírási lap](#feladatkiírási-lap)
-  * [Javaslat, hogy hogyan írd](#javaslat-hogy-hogyan-írd)
-    * [Formázási beállítások](#formázási-beállítások)
-    * [Plágium, lehivatkozások](#plágium-lehivatkozások)
-      * [Irodalom lehivatkozása](#irodalom-lehivatkozása)
-      * [Ábrák lehivatkozása](#ábrák-lehivatkozása)
-    * [Szerkesztő](#szerkesztő)
-    * [Javasolt fejezetcímek:](#javasolt-fejezetcímek)
-    * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám)
-  * [Konzultációs napló I.](#konzultációs-napló-i)
-
-* [Szakdolgozat II. tájékoztató](#szakdolgozat-ii-tájékoztató)
-  * [Félévi mérföldkövek](#félévi-mérföldkövek-1)
-  * [Repository létrehozása](#repository-létrehozása)
-  * [Kódolási elvárások](#kódolási-elvárások)
-    * [Readme](#readme)
-    * [Commit](#commit)
-  * [Javasolt fejezetcímek](#javasolt-fejezetcímek-1)
-    * [Nettó terjedelem (oldalszám)](#nettó-terjedelem-oldalszám-1)
-  * [Konzultációs napló II.](#konzultációs-napló-ii)
-  * [Diplomamunka portál](#diplomamunka-portál)
-  * [Leadás menete (félév vége)](#leadás-menete-félév-vége)
-  * [Szakdolgozat köttetés](#szakdolgozat-köttetés)
-  * [Védés](#védés)
-* [Tervezés](#tervezés)
-  * [Szekvencia diagram](#szekvencia-diagram)
-  * [Folyamatábra](#folyamatábra)
-  * [Teljes rendszer terve](#teljes-rendszer-terve)
-  * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete)
-  * [Példák](#példák)
-    * [Rendszertervek](#rendszertervek)
-    * [Szekvencia diagramok](#szekvencia-diagramok)
-    * [Folyamatábrák](#folyamatábrák)
-    * [Fejlesztés tervezett menete](#fejlesztés-tervezett-menete-1)
-* [Tesztelés](#tesztelés)
-* [Prezentáció, védés, beszámoló](#prezentáció-védés-beszámoló)
-  * [Szakdolgozat I.-re vonatkozó információk](#szakdolgozat-i-re-vonatkozó-információk)
-    * [Általános információk](#általános-információk)
-    * [Amit érdemes kerülni](#amit-érdemes-kerülni)
-    * [Amit érdemes alkalmazni](#amit-érdemes-alkalmazni)
-  * [Prezentáció sablon](#prezentáció-sablon)
-  * [Szakdolgozat II.-re vonatkozó információk](#szakdolgozat-ii-re-vonatkozó-információk)
-  * [Minta borító I.](#minta-borító-i)
-  * [Minta borító II.](#minta-borító-ii)
-
-<br>
-<br>
-
 # Szakdolgozat I. tájékoztató
 
 Jelen dokumentum keretein belül szeretném összefoglalni a `Szakdolgozat I. tárgy menetrendjét, követelményeit és elvárásait`. Kérnék mindenkit, hogy figyelmesen olvassa át és a félévben az itt leírtaknak megfelelően járjon el.
@@ -129,6 +75,12 @@ A hivatalos tájékoztatóban megadot paraméterek csak ajánlások, ezektől el
 * a betűtípus Times New Roman (de mindenképpen valamilyen talpas típus)
 * az alfejezetek három szint mélységig legyenek sorszámozva (negyedik szintig még el lehet menni sorszámozással, de törekedni kell arra, hogy ilyen mélység esetén máshogy legyen strukturálva a dokumentum)
 
+### Nyelvezet
+
+**A szakdolgozatnak egy összefüggő, folyószöveges formában megírt, olvasmányos terjedelmű műnek kell lennie, amely részletesen kifejti a választott témát, logikusan felépített szerkezetben, megfelelő szakmai nyelvezettel és alátámasztott érvekkel.**
+
+Ebből adódóan nem megfelelő, ha mondatonként új sor van kezdve (nem fb messenger beszélgetésben vagyunk), és az sem, ha minden egyes gondolat egy-egy lista felsorolásban van. Törekedni kell a bővített mondatokban történő megfogalmazásra, a bekezdések használatára (egy-egy bekezdés egy-egy összefüggő logikai egységet jelentsen). Listát ott és akkor használjunk, ha annak van értelme. Alfejezetek használatát is átgondoltan kell használni. Ha például létrehozunk 5 db 4-es szintű alfejezetet és mindegyikben csak 1-1 mondat van írva, akkor ott valamilyen más formában kéne inkább megírni. Pl. ilyen esetben nyugodtan folyószövegbe meg lehet fogalmazni ezt.
+
 ### Plágium, lehivatkozások
 
 Szintén javaslom, hogy könyvjelzőzzetek el minden képet / hivatkozást / irodalmat, amikkel találkoztok, mert ezeket mind bele kell majd tenni és lehivatkozni! Utólag keresgélni nagyon rossz dolog.
@@ -183,7 +135,7 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
     * motiváció a probléma megoldására
   * (szemben az absztrakttal, ebben nincsenek benne az elért eredmények, tehát ténylegesen csak egy kedvcsináló, bevezető (~trailer) a teljes dolgozathoz)
 * **`2. Irodalomkutatás`** (~ 20 - 25 oldal)
-  * **2.1. Hasonló rendszerek** (ez fix fejezet)
+  * **`2.1. Hasonló rendszerek`** (ez fix fejezet)
     * azon belül a vizsgált rendszerek bemutatása és levont következtetések
     * a fejezet végén legyen egy táblázatos összefoglalása a vizsgált rendszereknek
     * a táblázatban legyenek benne a szempontok, hogy mik alapján hasonlítottad össze a rendszereket, majd a szempontok alapján pontozd az egyes rendszereket
@@ -191,14 +143,14 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
     * a szempontok pl. olyanok legyenek, amelyek alapján a saját készítendő rendszeredet értékelni szeretnéd
     * a táblázat további célja, hogy egyértelműen (számszerűen!) kiderüljön, hogy mely funkciók érhetők el a vizsgált hasonló rendszerekben és ha elérhetők akkor mennyire működnek jól
       * nincs oldalszámnyi megkötés, de általánosan elmondható, hogy 3-4 db hasonló rendszer legyen elemezve, rendszerenként 1-1 oldalnyi terjedelemben, és ezen felül az (táblázatos és szöveges) összefoglalás is plusz 1 oldal
-  * egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
-  * egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
+  * **`2.x. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
+  * **`2.y. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
   * ...
-  * egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
+  * **`2.z. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
     * ilyen témák azok, amelyek kapcsolódnak a te munkádhoz
       * szoftverfejlesztés esetén pl. lehet írni a Git-ről és különböző workflow-król, elemezni azokat, hogy melyiket fogod választani
       * különböző algoritmusok amelyeket a szakterületen alkalmaznak (pl. képfeldolgozó vagy útkereső algoritmusok)
-  * **Összegzés** (ez fix fejezet)
+  * **`2.n. Összegzés`** (ez fix fejezet)
     * összefoglalása az irodalomkutatásnak, mire jutottunk, ez alapján mit fogok csinálni a megvalósítás kapcsán
 * **`3. Követelmény specifikáció`** (~ 1 oldal)
   * definiálni, hogy mik azok a szempontok, amiket elvárunk a rendszertől
@@ -360,7 +312,7 @@ A leadás menetét (hol mit mikor meddig hogyan) a Diplomáztatási Csoport hiva
 
 A konzultációs napló átvételekor már hozzátok magatokkal az eredeti feladatkiírási lap példányát, amelyet a Diplomáztatási Csoportnál tudtok átvenni. Ezt nekem alá kell írnom, egyéb esetben nem elfogadható a szakdolgozat és ennek hiányában a konzultációs naplót sem adom át.
 
-Ezt követően a dolgozat leadható az instrukciók mentén. A szakdolgozatba kötelezően bele kell tenni: a hallgatói nyilatkozatot megfelelően kitöltve és aláírva, az 1. aláírt konzultációs naplót és a 2. aláírt konzultációs naplót. Ezek hiányában a dolgozat nem elfogadható.
+Ezt követően a dolgozat leadható az instrukciók mentén. A szakdolgozatba kötelezően bele kell tenni: a hallgatói nyilatkozatot megfelelően kitöltve és aláírva, az 1. aláírt konzultációs naplót és a 2. aláírt konzultációs naplót. Ezek hiányában a dolgozat nem elfogadható. Hallgatói nyilatkozat esetén a a BSc képzés esetén a "szakdolgozat" szót, míg MSc képzésen esetén a "diplomamunka" szót kell aláhúzni.
 
 ## Szakdolgozat köttetés
 
