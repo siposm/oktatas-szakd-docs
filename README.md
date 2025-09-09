@@ -143,10 +143,10 @@ Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternat
     * a szempontok pl. olyanok legyenek, amelyek alapján a saját készítendő rendszeredet értékelni szeretnéd
     * a táblázat további célja, hogy egyértelműen (számszerűen!) kiderüljön, hogy mely funkciók érhetők el a vizsgált hasonló rendszerekben és ha elérhetők akkor mennyire működnek jól
       * nincs oldalszámnyi megkötés, de általánosan elmondható, hogy 3-4 db hasonló rendszer legyen elemezve, rendszerenként 1-1 oldalnyi terjedelemben, és ezen felül az (táblázatos és szöveges) összefoglalás is plusz 1 oldal
-  * **`2.x. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
-  * **`2.y. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
+  * **`2.x. X-téma`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #1
+  * **`2.y. Z-téma`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #2
   * ...
-  * **`2.z. Összegzés`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
+  * **`2.z. Y-téma`** egyéb, az irodalomkutatáshoz kapcsolódó feldolgozandó téma #n
     * ilyen témák azok, amelyek kapcsolódnak a te munkádhoz
       * szoftverfejlesztés esetén pl. lehet írni a Git-ről és különböző workflow-król, elemezni azokat, hogy melyiket fogod választani
       * különböző algoritmusok amelyeket a szakterületen alkalmaznak (pl. képfeldolgozó vagy útkereső algoritmusok)
