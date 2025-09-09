@@ -109,6 +109,15 @@ Az ábráknak legyen egy sorszáma, amely tartalmazza a fejezet sorszámát, maj
 
 Az ábra címe mindig úgy épüljön fel, hogy: "X.Y. ábra: Valami rövidebb vagy hosszabb magyarázó mondat arról, hogy éppen mit látunk a képen és ez miért fontos. Nyugodtan lehet akár két mondatot is írni!" Tehát legyen egy sorszám, utána pont, majd az a szó, hogy ábra, majd egy kettősponttal legyen elválasztva a rövidebb vagy hosszabb magyarázó szöveg.
 
+#### AI használat
+
+Mesterséges intelligencia használata a kutatómunkához elfogadható a következő megkötések mellett:
+
+* az AI eszköznek támogató eszközként kell működnie és nem a munka kiváltására szolgálóként
+* nem másolható egy az egyben AI generált szöveg be a dolgozatba (lehet, hogy AI detektoron fennakad a plágiumellenőrzéskor ami a dolgozat bukását is jelentheti)
+* minden fontos tényszerű állítást fact-check-elni kell, hogy biztosan úgy van-e tényleg
+* semmilyen AI eszköz nem hivatkozható le forrásként, tehát a megtett állításoknál szükséges hivatkozások valós dokumentumra kell, hogy mutassanak
+
 ### Szerkesztő
 
 Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternatívában (bár Macre van Word)) dolgoztok, vagy pedig LaTex-ben. Ha utóbbihoz már értesz, vagy érdekel és szeretnéd megtanulni, akkor én javasolnám, hogy itt az idő. Egy idő után sokkal jobb lesz benne szerkeszteni és kevesebb szívás lesz vele mint Wordben. Ha így tesztek és Tex-ben dolgoztok akkor a leadáskor doc/docx verziótok nem lesz, csak pdf. Ez esetben annyit meg lehet tenni, hogy készítetek egy külön Word fájlt a fedlappal és beleírjátok, hogy a dolgozat tex-ben került elkészítésre, ezért pdf-ként érhető el a dokumentum.
