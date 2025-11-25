@@ -307,7 +307,7 @@ A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [el
 
 ## Konzultációs napló II
 
-Ugyan az igaz rá, mint szakdolgozat 1 esetén. A félévi mérföldköveket dokumentálja hivatalosan. Személyesen tőlem lehet átvenni majd a félév végén, amit aztán le kell adni a megfelelő platformon.
+Ugyan az igaz rá, mint szakdolgozat 1 esetén. A félévi mérföldköveket dokumentálja hivatalosan. Személyesen tőlem lehet átvenni majd a félév végén, amit aztán le kell adni a ugyan úgy a megfelelő platformon.
 
 ## Diplomamunka portál
 
