@@ -49,7 +49,7 @@ A félév végén, vizsgaidőszak eleje környékén lesz szakdoga1 bemutató / 
 
 ## Feladatkiírási lap
 
-A feladatkiírási lap az, amely a hivatalos elvárásokat és cél megfogalmazását tartalmazza a szakdolgozat egészével kapcsolatban. Ennek megírásában számítanék rátok. Első körben ki kellene tölteni [ezt a formot](https://forms.gle/dNMAxvtJK4os3XHn9) ahol kérlek pontosan adjátok meg az adataitokat (fontos, hogy minden úgy legyen ahogy az Neptunban is szerepel). A [mintákhoz](https://github.com/siposm/oktatas-szakd-docs/blob/master/szakd_feladatkiiras_sablon.md) hasonló terjedelemben és fogalmazási stílusban kellene megírni a feladattal kapcsolatban támasztott elvárásokat és elküldeni nekem sima szövegként, Teams privát üzenetben. A kész feladatlapot ezt követően majd előállítom és leadom a Diplomáztatási Csoport irányába, illetve megküldöm részetekre is (így a félév végén le tudjátok adni).
+A feladatkiírási lap az, amely a hivatalos elvárásokat és cél megfogalmazását tartalmazza a szakdolgozat egészével kapcsolatban. Ennek megírásában számítanék rátok. A [mintákhoz](https://github.com/siposm/oktatas-szakd-docs/blob/master/szakd_feladatkiiras_sablon.md) hasonló terjedelemben és fogalmazási stílusban kellene megírni a feladattal kapcsolatban támasztott elvárásokat és elküldeni nekem sima szövegként, Teams privát üzenetben. A kész feladatlapot ezt követően majd előállítom és leadom a Diplomáztatási Csoport irányába, illetve megküldöm részetekre is (így a félév végén le tudjátok adni).
 
 Határidő: 2. szorgalmi hét vége (vasárnap 23:59)
 
