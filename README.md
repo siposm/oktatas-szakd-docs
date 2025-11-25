@@ -191,9 +191,7 @@ A fentiek értelmében a Szakdolgozat I.-re elkészített dokumentum ~40 oldalny
 
 ## Konzultációs napló I
 
-Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat személyesen kell átvenni a félév végén tőlem, majd ezt le is kell adjátok a szakdolgozat feltöltésekor, mint bizonyíték, hogy a konzulens jóváhagyta a féléves munkát.
-
-Kérek mindenkit, hogy a naplóra nagyon vigyázzon, mert majd a leköttetéskor (szakdoga 2 végén) ugyan ezt a példányt kell vinni és a szakdolgozatba belekötni. Ha összegyűrődik, eltűnik stb. akkor baj van.
+Ezt majd félév végén egyben mindenkinek aki jogosult rá én fogom kiállítani, ha minden rendben volt a félévben. A lényege, hogy azok a mérföldkövek hivatalosan dokumentálva legyenek, amelyeket a félév folyamán érintettünk. A kész konzultációs naplókat személyesen kell átvenni a félév végén tőlem, majd ezt le is kell adjátok a szakdolgozat feltöltésekor, mint bizonyíték, hogy a konzulens jóváhagyta a féléves munkát. A dokumentumra vigyázzatok, eredeti példányt csak 1x állítok ki, ha bármikor szükség van rá a későbbiekben, ezt birtokolnotok kell.
 
 <br><br>
 <br><br>
@@ -309,7 +307,7 @@ A fentiek értelmében (~20 oldal), valamint a Szakdolgozat I.-ben követett [el
 
 ## Konzultációs napló II
 
-Ugyan az igaz rá, mint szakdolgozat 1 esetén. A félévi mérföldköveket dokumentálja hivatalosan. Személyesen tőlem lehet átvenni majd a félév végén, amit aztán majd bele kell köttetni a dolgozatba.
+Ugyan az igaz rá, mint szakdolgozat 1 esetén. A félévi mérföldköveket dokumentálja hivatalosan. Személyesen tőlem lehet átvenni majd a félév végén, amit aztán le kell adni a megfelelő platformon.
 
 ## Diplomamunka portál
 
