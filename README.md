@@ -472,7 +472,7 @@ Természetesen ha egy teszt nem sikeres, mert valamilyen okból kifolyólag pl. 
     * hallgató neptunkód
     * hallgató törzsszám
     * végzés féléve
-    * konzulens neve és titulusa (a lentebbi minta borítóképek régebben készültek, jelenleg "Egyetemi Tanársegéd" a titulusom)
+    * konzulens neve és titulusa
     * specializáció megnevezése ahova jársz (teljes kiírás)
 
 ### Amit érdemes kerülni
@@ -494,7 +494,7 @@ Természetesen ha egy teszt nem sikeres, mert valamilyen okból kifolyólag pl. 
 
 ## Prezentáció sablon
 
-A [hivatalos szakdolgozat tájékoztató weboldalon](https://nik.uni-obuda.hu/altalanos-tudnivalok/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet, de biztatnék mindenkit, hogy valami saját és egyedi sablont csináljon.
+A [hivatalos szakdolgozat tájékoztató weboldalon](https://nik.uni-obuda.hu/altalanos-tudnivalok/) elérhető egy sablon amely már az új ÓE brand stílusához van igazítva, azonban ennek konkrét felhasználása kapcsán óvatosságra intenék mindenkit, ugyanis ha megnézitek, akkor a legtöbb dia sablon nem egészen úgy van kitalálva, hogy pl. szakdolgozattal kapcsolatos szakmai és technikai dolgokkal jól ki lehessen tölteni a helyet. Ettől függetlenül egy alapnak, kezdeti látványvilágnak teljesen jó ugródeszka lehet, de biztatnék mindenkit, hogy valami saját és egyedi sablont csináljon. Így sokkal színesebb és a többi munkától jobban kitűnő végeredmény születhet.
 
 ## Szakdolgozat II.-re vonatkozó információk
 
