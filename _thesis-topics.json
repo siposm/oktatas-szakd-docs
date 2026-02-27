@@ -1,5 +1,30 @@
 [
     {
+        "title": "Blokklánc tranzakciós gráfok típusfelismerése képalapú hasonlóságméréssel",
+        "description": "A dolgozat célja különböző tranzakciós minták (pl. sok-bemenet/sok-kimenet, fan-in/fan-out, keverésre utaló struktúrák) automatikus azonosítása a tranzakciós gráfok renderelt képei alapján. A rendszer képgenerálást, előfeldolgozást és pixel-/struktúra-alapú hasonlósági metrikákat használ, majd kiértékeli, milyen pontossággal különíthetők el a mintázatok.",
+        "taken": false
+    },
+    {
+        "title": "Anomáliadetektálás blokklánc tranzakciós hálózatokban vizuális ujjlenyomatokkal",
+        "description": "A téma egy olyan megközelítést vizsgál, ahol a tranzakciós algráfokból vizuális ujjlenyomat készül, és ehhez képest az outlierek eltérése mérhető. A dolgozatban adatgyűjtés, gráf-szeletelés, kép-alapú összehasonlítás és anomáliák rangsorolása történik, majd esettanulmányokkal (szokatlan forgalom, csomóponti kiugrás) validál.",
+        "taken": false
+    },
+    {
+        "title": "Adatvédelmi modell tervezése blokklánc-alapú egészségügyi rendszerekhez: off-chain tárolás + on-chain bizonyíthatóság",
+        "description": "A téma olyan architektúrát tervez és értékel, amely érzékeny adatokat nem közvetlenül láncon tárol, hanem off-chain megoldással (pl. titkosított adattár), miközben on-chain rögzíti az integritást és a hozzáférési eseményeket. A dolgozat célja a megfelelőség, az auditálhatóság és a rendszerterhelés összehangolása.",
+        "taken": false
+    },
+    {
+        "title": "Rövid videós tartalmak sikerének előrejelzése: idősoros és tartalomfüggetlen engagement minták elemzése",
+        "description": "A dolgozat nagy mintán (több ezer/tízezer videó) vizsgálja, milyen korai interakciós jelek (nézettség-gyorsulás, like/view arány, kommentdinamika) jelzik a későbbi kiugró teljesítményt. Cél egy egyszerű, magyarázható modell és dashboard, amely a tartalom ismerete nélkül is előrejelzést ad.",
+        "taken": false
+    },
+    {
+        "title": "Megtévesztő vélemények detektálása magyar nyelven: transformer alapmodell hibrid (CNN + BiLSTM) kiterjesztéssel",
+        "description": "A dolgozat célja egy szövegklasszifikációs rendszer, amely értékeli, mennyire gyanús egy online vélemény. A kutatás összehasonlít több architektúrát (alap transformer vs. kiegészített konvolúciós és BiLSTM réteg), és mérőszámokkal (F1, confusion matrix) elemzi a teljesítményt különböző tanítóhalmazokon.",
+        "taken": false
+    },
+    {
         "title": "Láncolt lista és blokklánc adatstruktúrák teljesítményének összehasonlító elemzése",
         "description": "A feladat egy olyan mérési és elemző keretrendszer megtervezése és megvalósítása, amely a klasszikus láncolt lista és a blokklánc adatstruktúra teljesítményének összehasonlító vizsgálatát teszi lehetővé. A dolgozat keretében a hallgatónak mindkét adatstruktúra működő implementációját el kell készítenie, majd ezek alapján egy olyan benchmark rendszert kell kialakítania, amely képes a legfontosabb műveletek - például az elemek beszúrása, a keresési műveletek végrehajtása, a lánc integritásának ellenőrzése és a memóriahasználat - objektív mérésére. A vizsgálatnak ki kell terjednie arra is, hogy a blokklánc sajátosságai, mint a hash pointerek alkalmazása, az adatok megváltoztathatatlansága és a blokkok közötti kriptográfiai kapcsolatok miként befolyásolják a műveletek költségeit és a rendszer általános hatékonyságát. A mérési eredményeket tudományos igényességgel kell feldolgozni, grafikus vagy táblázatos formában bemutatni, majd összevetni a klasszikus láncolt lista teljesítményével, és ezek alapján következtetéseket kell levonni a két adatstruktúra előnyeiről, hátrányairól és alkalmazhatósági területeiről. A technológiai részletek és specifikációk pontosítása további egyeztetést igényel, a téma véglegesítése előtt konzultáció szükséges.",
         "taken": false
