@@ -11,7 +11,7 @@
     },
     {
         "title": "Adatvédelmi modell tervezése blokklánc-alapú egészségügyi rendszerekhez: off-chain tárolás + on-chain bizonyíthatóság",
-        "description": "A téma olyan architektúrát tervez és értékel, amely érzékeny adatokat nem közvetlenül láncon tárol, hanem off-chain megoldással (pl. titkosított adattár), miközben on-chain rögzíti az integritást és a hozzáférési eseményeket. A dolgozat célja a megfelelőség, az auditálhatóság és a rendszerterhelés összehangolása.",
+        "description": "A téma olyan architektúrát tervez és értékel, amely az érzékeny egészségügyi adatokat (például leleteket, képalkotó felvételeket, diagnózisokat, recepteket vagy naplókat) nem közvetlenül a blokkláncon tárolja, hanem egy off-chain megoldásban helyezi el, tipikusan titkosított adattárban. Ennek oka, hogy a blokklánc ezeknél az adatoknál nem jó adattároló: a sok adat és a gyakori műveletek miatt drága és rosszul skálázódik, adatvédelmi szempontból kockázatos, mert a láncon rögzített információ tartós és gyakorlatilag nem törölhető, valamint a GDPR-szerű elvárások (például törölhetőség, adatminimalizálás, célhoz kötött adatkezelés) teljesítését is megnehezíti. A megközelítés lényege ezért az, hogy a szenzitív adat láncon kívül maradjon, miközben a blokklánc biztosítsa a bizonyíthatóságot: on-chain módon rögzíthető az adatok integritása és időbélyege („ez az adat ebben a formában létezett ekkor”), a hozzáférési események naplója („ki kért hozzáférést és mikor”), illetve a jogosultságok és feltételek kezelése („ki jogosult rá és milyen feltételekkel”).",
         "taken": false
     },
     {
