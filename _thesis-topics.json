@@ -17,12 +17,12 @@
     {
         "title": "Blokklánc tranzakciós gráfok típusfelismerése képalapú hasonlóságméréssel",
         "description": "A dolgozat célja különböző tranzakciós minták (pl. sok-bemenet/sok-kimenet, fan-in/fan-out, keverésre utaló struktúrák) automatikus azonosítása a tranzakciós gráfok renderelt képei alapján. A rendszer képgenerálást, előfeldolgozást és pixel-/struktúra-alapú hasonlósági metrikákat használ, majd kiértékeli, milyen pontossággal különíthetők el a mintázatok.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Anomáliadetektálás blokklánc tranzakciós hálózatokban vizuális ujjlenyomatokkal",
         "description": "A téma egy olyan megközelítést vizsgál, ahol a tranzakciós algráfokból vizuális ujjlenyomat készül, és ehhez képest az outlierek eltérése mérhető. A dolgozatban adatgyűjtés, gráf-szeletelés, kép-alapú összehasonlítás és anomáliák rangsorolása történik, majd esettanulmányokkal (szokatlan forgalom, csomóponti kiugrás) validál.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Adatvédelmi modell tervezése blokklánc-alapú egészségügyi rendszerekhez: off-chain tárolás + on-chain bizonyíthatóság",
@@ -52,7 +52,7 @@
     {
         "title": "AI-vezérelt digitális oktatási mentor rendszer létrehozása",
         "description": "A feladat egy olyan keretrendszer megtervezése és megvalósítása, amely támogatja a diákok tanulási folyamatát egy folyamatosan elérhető, mesterséges intelligencia alapú oktatói modul segítségével. Az MI-komponens helyettesíthető például a ChatGPT-hez hasonló nagy nyelvi modellekkel. A rendszernek biztosítania kell a kérdés-válasz alapú interakciót, ahol a diák kérdéseket tehet fel, az oktató modul pedig magyarázatot ad, összefüggésekre mutat rá, és kapcsolódó témaköröket ismertet. Az oktatói modulnak képesnek kell lennie a diák tudásának felmérésére különböző feladatok és tesztek formájában, valamint azok értékelésére. A keretrendszer tartalmazzon olyan komponenseket, amelyek támogatják a diákok előrehaladásának és teljesítményének követését és dokumentálását. További technológiai részletek és specifikációk egyeztetést igényelnek. A téma véglegesítése előtt konzultáció szükséges.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Blokklánc tranzakciós gráf elemzése képfeldolgozási eljárásokkal",
