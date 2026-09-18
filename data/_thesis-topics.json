@@ -7,17 +7,17 @@
     {
         "title": "AI-alapú, közösségi validációval támogatott közösségi rendszer dezinformáció felismerésére",
         "description": "A szakdolgozat célja egy olyan modern, közösségi alapú tartalommegosztó platform tervezése és megvalósítása, amely a Reddit és Twitter jellegű működést ötvözi a hiteles információk kiemelésével. A rendszer lehetővé teszi, hogy a felhasználók bejegyzéseket hozzanak létre, amelyek esetében kötelező megjelölni, hogy azok tényeken alapulnak vagy véleményt tükröznek.<br><br>A tényalapú állításokat kötelező forrásokkal alátámasztani, amelyeket a rendszer két szinten validál: egyrészt mesterséges intelligencia segítségével (pl. NLP-alapú ellenőrzés), másrészt közösségi validáció útján. A felhasználók jelentkezhetnek adott témák szakértői validálására, és tevékenységükért kreditet szereznek, amely a rendszerben a megbízhatóságukat jelzi.<br><br>A platform kiemelten kezeli a dezinformáció felismerését: amennyiben egy tartalom hamisnak vagy félrevezetőnek minősül, az a felhasználók számára jól látható módon jelölésre kerül. A rendszer célja egy átlátható, önszabályozó digitális tér létrehozása, amely ösztönzi a hiteles információk terjedését és csökkenti a félretájékoztatást.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Digitális mentálhigiénés állapotkövető rendszer fejlesztése mesterséges intelligencia alkalmazásával",
         "description": "A szakdolgozat célja egy olyan intelligens hangulatkövető (mood tracker) alkalmazás tervezése és megvalósítása, amely képes a felhasználó mentális állapotának folyamatos monitorozására, valamint az adatok alapján személyre szabott visszajelzések és javaslatok megfogalmazására. A rendszer alapját egy hibrid kérdőíves megközelítés képezi, amely egyrészt előre definiált, rendszeresen ismétlődő kérdéseket tartalmaz (például hangulat, stressz-szint, alvásmennyiség), másrészt a felhasználó válaszai alapján mesterséges intelligencia segítségével dinamikusan generált, célzott kérdéseket is alkalmaz. Ez lehetővé teszi a mélyebb összefüggések feltárását és a felhasználó aktuális állapotához jobban illeszkedő adatgyűjtést.<br><br>A feldolgozás során a rendszer különböző statisztikai és adatelemzési módszereket alkalmaz a rövid és hosszú távú trendek azonosítására, beleértve a heti és havi hangulatváltozások vizsgálatát, valamint az egyes tényezők - például alvás vagy stressz - és a hangulat közötti kapcsolatok feltérképezését. Az alkalmazás képes automatikusan generált jelentések készítésére (heti, havi, éves szinten), amelyek közérthető formában összegzik a felhasználó állapotának alakulását, és kiemelik az esetleges negatív tendenciákat.<br><br>A rendszer további fontos eleme a mesterséges intelligencián alapuló ajánlórendszer, amely a detektált mintázatok alapján javaslatokat fogalmaz meg a felhasználó életminőségének javítására. Amennyiben a rendszer tartósan alacsony hangulatot vagy romló tendenciát észlel, célzott tanácsokat adhat például a napi rutin, a pihenés vagy a stresszkezelés területén. A megvalósítás során a szakdolgozat kitér a természetes nyelvfeldolgozás, az adaptív kérdésgenerálás, valamint az adatvizualizáció módszereire, továbbá foglalkozik az adatvédelem és az etikai szempontok vizsgálatával is. A rendszer működését egy prototípus alkalmazás keretében kell bemutatni és kísérleti módon értékelni.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Újrafelhasználható e-voting platform blokklánc technológiával és modern webes eszközökkel",
         "description": "A szakdolgozat célja egy moduláris, újrafelhasználható digitális szavazási rendszer tervezése és megvalósítása, amely blokklánc technológiára építve biztosítja a szavazatok sértetlenségét, átláthatóságát és auditálhatóságát. A blokklánc-alapú alrendszer mikroszolgáltatásként kerül kialakításra, így különböző választási folyamatok (pl. országgyűlési, önkormányzati vagy szervezeti szavazások) kiszolgálására is alkalmas. A rendszer backendje modern technológiákra épül és okosszerződések segítségével kezeli a szavazatok rögzítését (pl. Ethereum vagy Hyperledger alapokon). A frontend Angular és Bootstrap felhasználásával készül. A megoldás kiemelten foglalkozik a biztonságos hitelesítéssel (pl. OAuth2), az anonimitás és ellenőrizhetőség egyensúlyával, valamint a skálázhatósággal.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Közösségi média bejegyzés-optimalizáló rendszer: várható engagement becslése neurális hálózattal",
@@ -42,12 +42,12 @@
     {
         "title": "Rövid videós tartalmak sikerének előrejelzése: idősoros és tartalomfüggetlen engagement minták elemzése",
         "description": "A dolgozat nagy mintán (több ezer/tízezer videó) vizsgálja, milyen korai interakciós jelek (nézettség-gyorsulás, like/view arány, kommentdinamika) jelzik a későbbi kiugró teljesítményt. Cél egy egyszerű, magyarázható modell és dashboard, amely a tartalom ismerete nélkül is előrejelzést ad.",
-        "taken": false
+        "taken": true
     },
     {
-        "title": "Megtévesztő vélemények detektálása magyar nyelven: transformer alapmodell hibrid (CNN + BiLSTM) kiterjesztéssel",
+        "title": "Megtévesztő vélemények detektálása magyar nyelven transformer-alapú hibrid CNN-BiLSTM modellel",
         "description": "A dolgozat célja egy szövegklasszifikációs rendszer, amely értékeli, mennyire gyanús egy online vélemény. A kutatás összehasonlít több architektúrát (alap transformer vs. kiegészített konvolúciós és BiLSTM réteg), és mérőszámokkal (F1, confusion matrix) elemzi a teljesítményt különböző tanítóhalmazokon.",
-        "taken": false
+        "taken": true
     },
     {
         "title": "Láncolt lista és blokklánc adatstruktúrák teljesítményének összehasonlító elemzése",
