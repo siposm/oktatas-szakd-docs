@@ -58,5 +58,7 @@
 	{ "title": "Adatvédelmi modell tervezése blokklánc-alapú egészségügyi rendszerekhez: off-chain tárolás + on-chain bizonyíthatóság",
 		"student": "Eszter Ádám" },
 	{ "title": "Intelligens alváshigiénés asszisztens fejlesztése prediktív gépi tanulás és nagy nyelvi modellek integrációjával",
-		"student": "Bagdi-Kurucz Vivien" }
+		"student": "Bagdi-Kurucz Vivien" },
+    { "title": "Túl a leíró statisztikán: Az informatikusi béreket meghatározó tényezők elemzése ökonometriai és gépi tanulási eszközökkel", 
+    "student": "Takács Kitti" }
 ]
