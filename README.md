@@ -118,6 +118,9 @@ Mesterséges intelligencia használata a kutatómunkához elfogadható a követk
 * minden fontos tényszerű állítást fact-check-elni kell, hogy biztosan úgy van-e tényleg
 * semmilyen AI eszköz nem hivatkozható le forrásként, tehát a megtett állításoknál szükséges hivatkozások valós dokumentumra kell, hogy mutassanak
 
+> [!IMPORTANT]
+> A hivatalos egyetemi szabályzat [itt érhető el](https://uni-obuda.hu/szabalyzatok/10-mesterseges-intelligenciaval-kapcsolatos-szabalyzatok/1-ai-oktatasi-terulet-szabalyzata/).
+
 ### Szerkesztő
 
 Alapvetően nincs megkötés, hogy Word-ben (esetleg Linuxos vagy Maces alternatívában (bár Macre van Word)) dolgoztok, vagy pedig LaTex-ben. Ha utóbbihoz már értesz, vagy érdekel és szeretnéd megtanulni, akkor én javasolnám, hogy itt az idő. Egy idő után sokkal jobb lesz benne szerkeszteni és kevesebb szívás lesz vele mint Wordben. Ha így tesztek és Tex-ben dolgoztok akkor a leadáskor doc/docx verziótok nem lesz, csak pdf. Ez esetben annyit meg lehet tenni, hogy készítetek egy külön Word fájlt a fedlappal és beleírjátok, hogy a dolgozat tex-ben került elkészítésre, ezért pdf-ként érhető el a dokumentum.
