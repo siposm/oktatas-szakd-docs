@@ -1,10 +1,6 @@
 [
-	{ "title": "Digitális identitáskezelő rendszer blokklánc használatával",
-		"student": "Szentgyörgyi Zoltán" },
 	{ "title": "SPA webalkalmazásokhoz tervezett moduláris JavaScript keretrendszer fejlesztése modern reaktivitási modellekre építve",
 		"student": "Schäffer Tamás" },
-	{ "title": "ChatGPT integrálása tanulást segítő chatbot alkalmazásba",
-		"student": "Ambrus Attila" },
 	{ "title": "Chat alkalmazás létrehozása blokkláncon",
 		"student": "Andruskó Zoltán" },
 	{ "title": "Blokklánc tranzakciós gráfok elemzése MI módszerekkel",
