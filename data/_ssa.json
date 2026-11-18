@@ -1,0 +1,49 @@
+[
+	{ "title": "MicroPython-alapú hordozható portscan eszköz készítése, mikrokontroller segítségével [MSc]",
+		"student": "Bartos Gábor",
+		"award": "I. hely" },
+
+	{ "title": "Adaptív Mesterséges Intelligencia fejlesztés 3D szimulációs tesztkörnyezetben objektumok vezérléséhez",
+		"student": "Kaló Áron",
+		"award": "II. hely" },
+
+	{ "title": "Döntéstámogató rendszer integrálása Tesseract OCR környezetbe",
+		"student": "Kaló Áron",
+		"award": "III. hely + Kari Alkotói Díj" },
+
+	{ "title": "Augmented reality alapú információközlő és hirdető platform",
+		"student": "Takács Márton",
+		"award": "null" },
+
+	{ "title": "Adaptív forgalomirányítás megerősítéses tanulás és gépi látás alkalmazásával",
+		"student": "Csuzdi Bence",
+		"award": "I. hely" },
+
+	{ "title": "Adaptív forgalomirányítás megerősítéses tanulás és gépi látás alkalmazásával",
+		"student": "Seres Richárd",
+		"award": "I. hely" },
+
+	{ "title": "Adaptív mesterséges intelligencia fejlesztés 3D szimulációs tesztkörnyezetben objektumok vezérléséhez",
+		"student": "Kaló Áron",
+		"award": "null" },
+
+	{ "title": "Edzés gyakorlatok elemzése matematikai algoritmusok és konvolúciós neurális hálózat segítségével",
+		"student": "Bakos Szabolcs",
+		"award": "II. hely" },
+
+	{ "title": "Képfeldolgozáson alapuló hazugságvizsgáló rendszer",
+		"student": "Bódi Bálint",
+		"award": "II. hely + Kari Alkotói Díj + OTDK II. hely" },
+
+	{ "title": "Blokklánc alapú szavazórendszer",
+		"student": "Csikós Benedek",
+		"award": "null" },
+
+	{ "title": "Gyalogos figyelmetlenség kockázatának csökkentése valós idejű gyalogátkelőhely felismeréssel, és több szintes figyelmeztető rendszerrel",
+		"student": "Endl Levente",
+		"award": "I. hely + Kari Kreativitási Díj" },
+
+	{ "title": "Rugalmas változómonitorozást és -hangolást biztosító könyvtár fejlesztése ESP32 mikrokontrollerhez webes interfésszel",
+		"student": "Szczuka Bendegúz",
+		"award": "III. hely" }
+]
